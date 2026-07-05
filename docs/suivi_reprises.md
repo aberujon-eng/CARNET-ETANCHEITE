@@ -28,7 +28,7 @@ onglets 38 + 53-58 renommés. Commit `c503e4c`.
 | P4/P20 | solin 3x3 époxy vs polymérique | **QUESTION** : quelle cible ? (P4=époxy, P20=polymérique, mail ne tranche pas) |
 | P8 | renvoi explicite folios 30-33 | **FAIT** (lot 2, #12A34) |
 | P9 | R4/retrait compensé →1504-3 | **FAIT** (lot 1) |
-| P9 | NOTA préparation support voussoir (C1 §6.4) | À FAIRE (ajout MTEXT) |
+| P9 | NOTA préparation support voussoir (C1 §6.4) | **FAIT** (lot 3, #20AC4) |
 | P10 | folio dédié arrêt DEG voussoir | À FAIRE (création n°2) |
 | P11,16-19 | harmonisation casse/corps libellés | À FAIRE (inspection) |
 | P12-14 | légender « Etanchéité par D.E.G. » | À FAIRE |
@@ -42,21 +42,21 @@ onglets 38 + 53-58 renommés. Commit `c503e4c`.
 | P27 | seuil hauteur d'eau > 10 m | **BLOQUÉ** (point 5) |
 | P27 | tôle galva/inox harmonisation | **FAIT** (lot 2, #FEBB : « tôle (galvanisée ou inox) », + coquille « conformtement » corrigée ; seuil > 10 m intact) |
 | P29 | plats galvanisés ou inox | **FAIT** (lot 1, #1637D) |
-| P29/37 | entraxe fixations + couple serrage NDC + nature joints compressibles | À FAIRE (ajout de NOTA) |
+| P29/37 | entraxe fixations + couple serrage NDC + nature joints compressibles | **FAIT** (lot 3, NOTA #20B9B/#20B9A) |
 | P30/32 | géotextile + cunette → renvois GT9.R19F1 | À FAIRE |
-| P31/33 | NOTA continuité enduit imperméabilisation + phasage | À FAIRE |
-| P34 | NOTA phasage (recépage→injection) | À FAIRE |
+| P31/33 | NOTA continuité enduit imperméabilisation + phasage | **FAIT** (lot 3, #20AC6/#20AC7) |
+| P34 | NOTA phasage (recépage→injection) | **FAIT** (lot 3, #20B99) |
 | P34/36 | chape protection DEG 5→6 cm | **FAIT** (lot 1, #6030 ; #6071 était déjà à 6) — vérifier folio 36 au lot 2 |
-| P37 | idem P29 (entraxes/joints/résine) | À FAIRE |
+| P37 | idem P29 (entraxes/joints/résine) | **FAIT** (lot 3, #20B9A) |
 | P38 | cotes engravures | **BLOQUÉ** (point 3) |
-| P39 | NOTA contrôle pointe sèche / cloche à vide (C1 p.81) | À FAIRE |
+| P39 | NOTA contrôle pointe sèche / cloche à vide (C1 p.81) | **FAIT** (lot 3, #20AC9) |
 | P41 | bande pontage : résine époxy + préparation | **FAIT** (lot 2, 4 occ. même objet F41/43/65) |
-| P44 | légende exigences berlinoise (≤5 cm, chanfrein 45°, 90 kPa) | À FAIRE |
+| P44 | légende exigences berlinoise (≤5 cm, chanfrein 45°, 90 kPa) | **FAIT** (lot 3, NOTA #20ACA) |
 | P45 | raccord DEG/FPM | **BLOQUÉ** (point 4) |
 | P45 | FPM bicouche anti-racine « uniquement si végétalisation » | **FAIT** (lot 2, #1746C) — #13E13 (F63) identique non modifié, voir Q6 |
 | P47 | 6 cm conforme | référence — voir QUESTION « Béton de protection lourde 5 cm » ci-dessous |
 | P48 | casse/unités | À FAIRE (inspection) |
-| P49 | NOTA soufflet JD + non-adhérence locale | À FAIRE |
+| P49 | NOTA soufflet JD + non-adhérence locale | **FAIT** (lot 3, #20B9C) |
 | P50 | anti-intrusion + entretenabilité sur le dessin | DESSIN |
 | P51 | resurfaçage → 1504-3 R3 mini + tolérances | **FAIT** (lot 2, #130D3) |
 | P52-54 | resurfaçage →1504-3 | **FAIT** (lot 2, 3 occ.) |

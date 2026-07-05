@@ -85,3 +85,18 @@ Le point « support CAD non confirmé » du CLAUDE.md est levé.
 - `docs/rapport_corrections_v02.txt` — journal détaillé avant/après
 - `docs/inventaire_textes_v01.txt` — inventaire des textes par folio (état v01)
 - `controle/*.png` — rendus de contrôle post-modification
+
+## Leçons pipeline (session lot 3)
+- **ColorPolicy.BLACK obligatoire** pour les rendus de contrôle : le RenderContext
+  résout ACI 7/ByLayer en blanc (convention fond noir model space) même avec
+  BackgroundPolicy.WHITE — d'où des textes invisibles sur PNG fond blanc.
+- Polices : les styles du carnet pointent segoeui.ttf (absente sous Linux) ;
+  mapper une substitution dans ~/.fonts + `fonts.build_system_font_cache()`.
+- MULTILEADER : (1) le texte vit dans le contexte ET en copie groupe 304 au
+  niveau entité — patcher les deux ; (2) le cache proxy_graphic garde l'ancien
+  rendu — purgé sur les 50 ML édités (AutoCAD régénérera).
+- NOTA ajoutés (9) : MTEXT style txt-moyen, ch=2.5, calque Dessin_TEXTES,
+  couleur ByLayer, placement en rectangle vide (bbox fast) ancré sur la fenêtre
+  du folio.
+- Anomalie préexistante relevée : viewports des onglets 31/37/39 pointant vers
+  l'origine (0,0) — à vérifier dans AutoCAD (affichage onglet possiblement vide).

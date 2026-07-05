@@ -1,0 +1,11 @@
+LOT 3 — NOTA ajoutés
+
+[F9] NOTA posé #20AC4 @(13272,9859) W=80 H~21 (fenêtre 13270..13536 / 9857..10001, 22 boxes)
+[F29] ECHEC : pas de zone vide 68x25 — NOTA non posé
+[F31] NOTA posé #20AC6 @(29528,12139) W=80 H~21 (fenêtre 29526..29806 / 12049..12209, 14 boxes)
+[F33] NOTA posé #20AC7 @(29562,11711) W=80 H~21 (fenêtre 29560..29810 / 11709..11844, 14 boxes)
+[F34] NOTA posé #20AC8 @(28223,10698) W=80 H~17 (fenêtre 28221..31448 / 10696..12444, 368 boxes)
+[F37] ECHEC : fenêtre introuvable — NOTA non posé
+[F39] NOTA posé #20AC9 @(29268,10731) W=80 H~17 (fenêtre 29266..29546 / 10729..10889, 14 boxes)
+[F44] NOTA posé #20ACA @(29092,9210) W=85 H~21 (fenêtre 29090..29441 / 9176..9366, 25 boxes)
+[F49] ECHEC : pas de zone vide 68x21 — NOTA non posé
