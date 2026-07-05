@@ -1,0 +1,191 @@
+Objet : Carnet de détails étanchéité OS - Reprises restantes pour v02 (à faire dans le source)
+
+Bertrand,
+
+J'ai fait une passe de reprise sur le PDF v01 : corrections orthographiques (cintres HEB, soutènement, mécanique, confortement, étanchéité, réaliser, imperméabilisation, Bride soudée, Revêtement, 1,00m), correction des renvois « Détail n°18 » vers folio 65, ligne Version 02 ajoutée à la table de modifications, et NOTA MAJ 2026 incrustés sur les folios 6, 10, 29, 30-33, 35, 40-44, 46, 47, 50, 64 avec les valeurs sourcées AFTES GT9 C1F1 (compartimentage 350/250/200 m², 5 pipettes mini, fixations 3 u/m² piédroit et 5 u/m² voûte, FPM 4 mm/25 m/70 mm, support berlinoise ≤5 cm/90 kPa, indice Ryznar, arrêts d'eau +40 cm).
+
+Le PDF retouché sert de support de validation. La vraie v02 se fait dans le fichier source (AutoCAD chez la DTM, à récupérer auprès de Thomas Chovin ou Diego Agudelo).
+
+Ci-dessous les reprises qui restent à faire dans le source, folio par folio. Les points à trancher avec toi sont regroupés à la fin.
+
+---
+
+REPRISES TRANSVERSES RESTANTES
+
+- Ajouter un folio 00 « Références et généralités » : F67-III, GT9.C1F1 nov.2023, GT9.C2 sept.2025 (statut prépublication à confirmer), GT9.R19F1, NF EN 13491, NF EN 13256, AT CETU, ASQUAL soudeurs, réception support = point d'arrêt.
+- Harmoniser sur tous les folios la légende du complexe DEG (C1 p.23-24) : géotextile inférieur / géomembrane PVC-P translucide ép. 2 mm mini / écran PVC supérieur (épaisseur : point à trancher, voir fin de mail).
+- Mortiers R3/R4 : préciser partout « classe R3/R4 selon NF EN 1504-3 ».
+- Harmoniser « joint hydrogonflant » (le carnet mélange hydroexpansif / hydrogonflant / hydro-expansif).
+- Enduit de protection au feu ép. 10 mm : ajouter renvoi référentiel exploitant + PV feu produit.
+
+---
+
+REPRISES FOLIO PAR FOLIO
+
+P1/65 - Vue puits PM / rameau DEG
+Harmoniser la casse des renvois « Détail n°1/2/3 » avec les folios 5, 26, 28.
+
+P2/65 - Puits PM / rameau DEG, partie supérieure
+Mortier R4 → NF EN 1504-3. Retour technique 1,00 m : ajouter « à adapter selon hauteur d'eau / note de calcul ».
+
+P4/65 - Radier
+« Solin 3x3cm mortier époxy » : harmoniser avec folio 20 (« mortier polymérique »).
+
+P8/65 - Radier SELA
+« Etanchéité DEG (voir détail...) » : renvoyer explicitement aux folios 30-33.
+
+P9/65 - Jonction tunnel trad SELA / tunnel foré
+Mortiers R4 / retrait compensé → NF EN 1504-3. Ajouter note préparation support voussoir (surfaçage épaufrures, traitement des joints de voussoirs, C1 §6.4).
+
+P10/65 - Jonction tunnel trad DEG / tunnel foré
+Prévoir un folio dédié pour l'arrêt du DEG sur voussoir (bride/contre-bride ou tôle colaminée), aujourd'hui traité par un simple solin.
+
+P11/65 - Vue tunnel trad DEG / gare SELA
+Libellés des détails en corps trop petit et casse hétérogène : harmoniser.
+
+P12/65 - Dalle intermédiaire tunnel trad DEG / gare SELA - Option A
+Légender le complexe « Etanchéité par D.E.G. ». Cote 0,50 m côté support : préciser sa signification (largeur de préparation ?), ambigu.
+
+P13/65 - Idem Option B
+Idem P12/65.
+
+P14/65 - Piédroit tunnel trad DEG / gare SELA
+Idem P12/65.
+
+P15/65 - Radier
+Vérifier présence de l'écran de protection supérieure dans la légende côté gauche (non légendé).
+
+P16/65 à P19/65 - Tunnel trad SELA / gare SELA
+Mêmes reprises que P11-14.
+
+P20/65 - Radier
+« Solin 3x3 mortier polymérique » : harmoniser avec folio 4. Surfaçage époxy / R4 → NF EN 1504-3.
+
+P21/65 - Vue tunnel foré / gare SELA
+Vérifier cohérence « Min 1.00m » avec cotes des folios 22-25.
+
+P22/65 - Dalle intermédiaire Option A
+Mortier de ragréage R4 → NF EN 1504-3. « Découpe possible du voussoir » : ajouter note validation structure (accord MOE GC obligatoire).
+
+P23/65 - Idem Option B
+Idem P22/65.
+
+P24/65 - Piédroit
+Doublon de légende « Joint hydroexpansif » (x2) : nettoyer. Idem P22/65.
+
+P25/65 - Radier
+NOTA « Traitement des joints de PM à prévoir en radier » : renvoyer explicitement aux folios 40-43.
+
+P27/65 - Jonction tunnel foré / rameau SELA
+Seuil « si hauteur d'eau > 10 m » : sourcer, sinon écrire « selon note de calcul » (voir point à trancher).
+Harmoniser tôle galva/inox avec folios 29 et 65.
+
+P29/65 - Jonction tunnel foré / rameau DEG
+Système bride/contre-bride : compléter avec entraxe des fixations, couple de serrage selon NDC, nature des joints compressibles.
+Plats galvanisés ép. 4 mm : option inox possible (cohérence folio 65).
+
+P30/65 - DEG sous radier ancré PM, partie courante avec imperméabilisation
+Géotextile de protection à préciser (renvoi GT9.R19F1). Cunette : rattacher au drainage GT9.R19F1.
+
+P31/65 - DEG sous radier avec imperméabilisation, ancrage
+Ajouter continuité de l'enduit d'imperméabilisation jusqu'au trait de scie + phasage.
+
+P32/65 - DEG sous radier sans imperméabilisation, partie courante
+Idem P30 pour le géotextile et la cunette.
+
+P33/65 - DEG sous radier sans imperméabilisation, ancrage
+Idem P31/65.
+
+P34/65 - Interface DEG / pieu préfondé
+Ajouter le phasage en NOTA (recépage, coffrage, béton hydrofuge, pose profilés, injection). Chape de protection DEG : 5 cm ici vs 6 cm au folio 36. Harmoniser.
+
+P36/65 - Interface DEG / tête de micropieu
+Harmoniser chape 5/6 cm avec folio 34.
+
+P37/65 - Traversée bride et contre-bride
+Comme folio 29 : entraxes de fixation, joints compressibles, résine de protection à compléter.
+
+P38/65 - Traitement PM avec désaffleurement, dé de béton
+Cotes engravures 9/6/10/15 cm : à vérifier contre le CMO du procédé retenu (voir point à trancher).
+
+P39/65 - Arrêt d'étanchéité par tôle colaminée
+Soudure manuelle sur tôle colaminée : ajouter contrôle à la pointe sèche ou cloche à vide (C1 p.81).
+
+P41/65 - Traitement joint PM avec traitement confortatif
+Bande de pontage élastomérique 200 mm collée résine : préciser résine (époxy) + préparation.
+
+P44/65 - DEG sur paroi berlinoise
+Intégrer proprement dans la légende du folio les exigences de préparation berlinoise (désaffleurements ≤5 cm, chanfrein 45°, remplissage ondes 90 kPa).
+
+P45/65 - Raccord DEG / FPM sur berlinoise
+« Détail raccord DEG / FPM à définir » depuis 2022 : à trancher (voir fin de mail).
+« y compris préparation support » : détailler.
+FPM bicouche anti-racine : uniquement si végétalisation (cohérence folio 61 qui montre monocouche).
+
+P47/65 - FPM remontées sur édicules
+« Béton de protection ép. 6 cm » : conforme, harmoniser avec les folios où 5 cm est indiqué.
+
+P48/65 - FPM remontées sur édicules sous niveau TN
+Harmoniser casse / unités.
+
+P49/65 - FPM traitement joint de dilatation
+Ajouter note sur le soufflet au droit du JD et la non-adhérence locale de la feuille (largeur non collée au droit du joint).
+
+P50/65 - FPM évacuation et drainage
+Protection anti-intrusion + entretenabilité à formaliser sur le dessin.
+
+P51/65 - FPM raccord arase basse
+« Resurfaçage de la paroi moulée » → mortier NF EN 1504-3 R3 mini + tolérances.
+
+P52/65 - FPM raccord arase haute avec nappe en dessous
+« Resurfaçage soigné » → NF EN 1504-3 R3 mini.
+Ajouter en tête de section (51-54) un tableau de choix : quel folio selon position nappe / arase (C2 §4.5 formalise les niveaux EB/EH/EE).
+
+P53/65 à P54/65 - FPM raccord arase haute solutions 1 et 2
+Idem P52/65.
+
+P55/65 - FPM arase super haute avec imperméabilisation, partie courante
+NOTA carottages : renvoyer au folio 50. Resurfaçage type R3 → NF EN 1504-3.
+
+P56/65 - FPM arase super haute avec imperméabilisation, joints de PM
+Feuillard métallique : préciser matériau (inox/galva) + entraxe (FPM verticale : 4 fixations/ml tous les 3 m).
+Renvoyer le traitement du joint de PM aux folios 40-43.
+
+P57/65 à P60/65 - Variantes FPM arase super haute
+Idem P55-56/65.
+
+P61/65 - Raccordement DEG / FPM avec SELA
+Préciser « SEL-A sous référentiel CETU ». Recouvrements 20/20/15 cm : vérifier contre les CMO des procédés.
+
+P65/65 - Bandes de pontage
+« Engravure 20x220 mm » : cote probablement erronée, à vérifier.
+« Centré 70 mm mini » : clarifier (débord mini de part et d'autre du joint).
+Tôle galva ou inox : harmoniser avec folios 27 et 29.
+
+---
+
+FOLIOS À CRÉER
+
+1. Folio 00 « Références et généralités » (normes, AT CETU, ASQUAL, réception support, contrôles soudures avec valeurs C1 p.81 : gonflage 0,2 MPa/90 s, pointe sèche, cloche à vide 0,04 MPa, pelage 1/500 m²).
+2. Arrêt d'étanchéité DEG sur voussoir (bride/contre-bride ou tôle colaminée).
+3. Détails drainage (géocomposite piédroit, barbacane, cunette raccordée) selon GT9.R19F1.
+4. Traversées de réseaux courants (fourreaux, manchettes) hors bride/contre-bride.
+5. Tableau de choix DEG / SEL-A / FPM par partie d'ouvrage et hauteur d'eau, inspiré du C2 §4.5 et §8.
+6. Détail de réparation / réinjection d'un compartiment DEG.
+
+---
+
+POINTS À TRANCHER AVANT DE FIGER
+
+- Statut du Cahier 2 (prépublication septembre 2025) : à confirmer avant citation contractuelle.
+- Épaisseur de l'écran supérieur DEG : le C1 exige 19/10e mini, la v01 indique 20/10e à plusieurs endroits. Confirmer la valeur cible pour la v02.
+- Cotes d'engravure du folio 38 : valeurs actuelles à comparer aux CMO des procédés que nous prescrivons habituellement.
+- Raccord DEG/FPM du folio 45 (marqué « à définir » depuis la v01) : à trancher.
+- Seuil « hauteur d'eau > 10 m » du folio 27 : règle interne ou chiffre à sortir ?
+
+Je te transmets le PDF retouché en pièce jointe. Pour attaquer la v02 dans le source, il faut récupérer les .dwg auprès de Thomas Chovin ou Diego Agudelo.
+
+Dis-moi si je commence par les folios à créer (folio 00, arrêt sur voussoir, drainage) ou par la finalisation des reprises texte dans le source.
+
+Bien cordialement,
+Alexandre

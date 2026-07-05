@@ -1,0 +1,255 @@
+LOT 1 — 85 modifications
+
+[Model] #39A2 calque='Dessin_TEXTES'
+    AVANT: Surfaçage au mortier époxy\Pou au mortier type R4
+    APRES: Surfaçage au mortier époxy\Pou au mortier classe R4 selon NF EN 1504-3
+[Model] #40B3 calque='Remarques - Prise en compte'
+    AVANT: Joint hydroexpansif
+    APRES: Joint hydrogonflant
+[Model] #422C calque='Remarques - Prise en compte'
+    AVANT: Joint hydroexpansif
+    APRES: Joint hydrogonflant
+[Model] #6018 calque='Dessin_TEXTES'
+    AVANT: \pxsm1;{\C256;Joint hydro-expansif }
+    APRES: \pxsm1;{\C256;Joint hydrogonflant }
+[Model] #6030 calque='Dessin_TEXTES'
+    AVANT: \pxsm1;\C256;Chape de protection \Pdu D.E.G ép.5cm mini
+    APRES: \pxsm1;\C256;Chape de protection \Pdu D.E.G ép.6cm mini
+[Model] #606F calque='Dessin_TEXTES'
+    AVANT: \pxsm1;{\C256;Joint hydro-expansif}
+    APRES: \pxsm1;{\C256;Joint hydrogonflant}
+[Model] #6442 calque='Dessin_TEXTES'
+    AVANT: \pxsm1;Zone à piquer et à remplir au \Pmortier type R3
+    APRES: \pxsm1;Zone à piquer et à remplir au \Pmortier classe R3 selon NF EN 1504-3
+[Model] #6493 calque='Dessin_TEXTES'
+    AVANT: \pxsm1;Zone à piquer et à remplir au \Pmortier type R3
+    APRES: \pxsm1;Zone à piquer et à remplir au \Pmortier classe R3 selon NF EN 1504-3
+[Model] #668F calque='Dessin_TEXTES'
+    AVANT: Surfaçage à la pâte époxydique \Pou au mortier à retrait compensé
+    APRES: Surfaçage à la pâte époxydique \Pou au mortier à retrait compensé selon NF EN 1504-3
+[Model] #6693 calque='Dessin_TEXTES'
+    AVANT: Mortier de ragréage R4
+    APRES: Mortier de ragréage classe R4 selon NF EN 1504-3
+[Model] #66AF calque='Dessin_TEXTES'
+    AVANT: Joint hydroexpansif
+    APRES: Joint hydrogonflant
+[Model] #A08B calque='Dessin_TEXTES'
+    AVANT: Surfaçage soigné avant trait de scie\PHauteur totale 10 cm mini au Mortier R3 mini
+    APRES: Surfaçage soigné avant trait de scie\PHauteur totale 10 cm mini au mortier classe R3 mini selon NF EN 1504-3
+[Model] #A62F calque='Dessin_TEXTES'
+    AVANT: Joint hydroexpansif à mi-hauteur
+    APRES: Joint hydrogonflant à mi-hauteur
+[Model] #BA4F calque='Dessin_TEXTES'
+    AVANT: Joint hydroexpansif
+    APRES: Joint hydrogonflant
+[Model] #BA6E calque='Dessin_TEXTES'
+    AVANT: Découpe possible du voussoir
+    APRES: Découpe possible du voussoir (accord préalable MOE GC obligatoire)
+[Model] #BA98 calque='Dessin_TEXTES'
+    AVANT: Surfaçage au mortier époxy\Pou au mortier type R4
+    APRES: Surfaçage au mortier époxy\Pou au mortier classe R4 selon NF EN 1504-3
+[Model] #C222 calque='Dessin_TEXTES'
+    AVANT: Joint hydroexpansif
+    APRES: Joint hydrogonflant
+[Model] #C297 calque='Dessin_TEXTES'
+    AVANT: \pxsm1.5;Joint hydroexpansif
+    APRES: \pxsm1.5;Joint hydrogonflant
+[Model] #C2EB calque='Dessin_TEXTES'
+    AVANT: \pxsm1.5;Joint hydroexpansif
+    APRES: \pxsm1.5;Joint hydrogonflant
+[Model] #D5B5 calque='Dessin_TEXTES'
+    AVANT: \pxsm1;Zone à piquer et à remplir au \Pmortier type R3
+    APRES: \pxsm1;Zone à piquer et à remplir au \Pmortier classe R3 selon NF EN 1504-3
+[Model] #D5F8 calque='Dessin_TEXTES'
+    AVANT: \pxsm1;Zone à piquer et à remplir au \Pmortier type R3
+    APRES: \pxsm1;Zone à piquer et à remplir au \Pmortier classe R3 selon NF EN 1504-3
+[Model] #DDAA calque='Dessin_TEXTES'
+    AVANT: Joint hydroexpansif à mi-hauteur
+    APRES: Joint hydrogonflant à mi-hauteur
+[Model] #E947 calque='Dessin_TEXTES'
+    AVANT: Surfaçage à la pâte époxydique ou \Pau mortier type R4
+    APRES: Surfaçage à la pâte époxydique ou \Pau mortier classe R4 selon NF EN 1504-3
+[Model] #E94F calque='Dessin_TEXTES'
+    AVANT: Joint hydroexpansif
+    APRES: Joint hydrogonflant
+[Model] #E96E calque='Dessin_TEXTES'
+    AVANT: Découpe possible du voussoir
+    APRES: Découpe possible du voussoir (accord préalable MOE GC obligatoire)
+[Model] #EA47 calque='Dessin_TEXTES'
+    AVANT: Mortier de ragréage R4
+    APRES: Mortier de ragréage classe R4 selon NF EN 1504-3
+[Model] #EB09 calque='Dessin_TEXTES'
+    AVANT: Surfaçage à la pâte époxydique ou \Pau mortier type R4
+    APRES: Surfaçage à la pâte époxydique ou \Pau mortier classe R4 selon NF EN 1504-3
+[Model] #EB10 calque='Dessin_TEXTES'
+    AVANT: Joint hydroexpansif
+    APRES: Joint hydrogonflant
+[Model] #EB2E calque='Dessin_TEXTES'
+    AVANT: Découpe possible du voussoir
+    APRES: Découpe possible du voussoir (accord préalable MOE GC obligatoire)
+[Model] #EB4F calque='Dessin_TEXTES'
+    AVANT: Mortier de ragréage R4
+    APRES: Mortier de ragréage classe R4 selon NF EN 1504-3
+[Model] #EB7E calque='Dessin_TEXTES'
+    AVANT: Joint hydroexpansif
+    APRES: Joint hydrogonflant
+[Model] #EB87 calque='Dessin_TEXTES'
+    AVANT: Mortier de ragréage R4
+    APRES: Mortier de ragréage classe R4 selon NF EN 1504-3
+[Model] #ED01 calque='Dessin_TEXTES'
+    AVANT: \pxsm1.5;Joint hydroexpansif
+    APRES: \pxsm1.5;Joint hydrogonflant
+[Model] #ED8B calque='Dessin_TEXTES'
+    AVANT: Surfaçage à la pâte époxydique ou \Pau mortier type R4
+    APRES: Surfaçage à la pâte époxydique ou \Pau mortier classe R4 selon NF EN 1504-3
+[Model] #EDC8 calque='Dessin_TEXTES'
+    AVANT: Surfaçage à la pâte époxydique ou \Pau mortier type R4
+    APRES: Surfaçage à la pâte époxydique ou \Pau mortier classe R4 selon NF EN 1504-3
+[Model] #EE9F calque='Dessin_TEXTES'
+    AVANT: Surfaçage à la pâte époxydique ou \Pau mortier type R4
+    APRES: Surfaçage à la pâte époxydique ou \Pau mortier classe R4 selon NF EN 1504-3
+[Model] #EEF5 calque='Dessin_TEXTES'
+    AVANT: \pxsm1.5;Joint hydroexpansif
+    APRES: \pxsm1.5;Joint hydrogonflant
+[Model] #F028 calque='Dessin_TEXTES'
+    AVANT: Joint hydroexpansif
+    APRES: Joint hydrogonflant
+[Model] #F03B calque='Dessin_TEXTES'
+    AVANT: Surfaçage à la pâte époxydique ou \Pau mortier type R4
+    APRES: Surfaçage à la pâte époxydique ou \Pau mortier classe R4 selon NF EN 1504-3
+[Model] #F03C calque='Dessin_TEXTES'
+    AVANT: Surfaçage à la pâte époxydique ou \Pau mortier type R4
+    APRES: Surfaçage à la pâte époxydique ou \Pau mortier classe R4 selon NF EN 1504-3
+[Model] #F05F calque='Dessin_TEXTES'
+    AVANT: Joint hydroexpansif
+    APRES: Joint hydrogonflant
+[Model] #F06B calque='Dessin_TEXTES'
+    AVANT: Surfaçage à la pâte époxydique ou \Pau mortier type R4
+    APRES: Surfaçage à la pâte époxydique ou \Pau mortier classe R4 selon NF EN 1504-3
+[Model] #F07A calque='Dessin_TEXTES'
+    AVANT: Joint hydroexpansif
+    APRES: Joint hydrogonflant
+[Model] #FC3F calque='Dessin_TEXTES'
+    AVANT: Joint hydroexpansif
+    APRES: Joint hydrogonflant
+[Model] #FC99 calque='Dessin_TEXTES'
+    AVANT: Joint hydroexpansif
+    APRES: Joint hydrogonflant
+[Model] #FE28 calque='Dessin_TEXTES'
+    AVANT: Joint hydroexpansif
+    APRES: Joint hydrogonflant
+[Model] #FE38 calque='Dessin_TEXTES'
+    AVANT: Surfaçage à la pâte époxydique ou \Pau mortier type R4
+    APRES: Surfaçage à la pâte époxydique ou \Pau mortier classe R4 selon NF EN 1504-3
+[Model] #11048 calque='Dessin_TEXTES'
+    AVANT: Joint hydroexpansif
+    APRES: Joint hydrogonflant
+[Model] #126D6 calque='Dessin_TEXTES'
+    AVANT: Joint hydroexpansif
+    APRES: Joint hydrogonflant
+[Model] #126DF calque='Dessin_TEXTES'
+    AVANT: Piquage du mortier de bourrage\Pet remplissage béton mortier type R4
+    APRES: Piquage du mortier de bourrage\Pet remplissage béton mortier classe R4 selon NF EN 1504-3
+[Model] #126E7 calque='Dessin_TEXTES'
+    AVANT: Surfaçage à la pâte époxydique \Pou au mortier à retrait compensé
+    APRES: Surfaçage à la pâte époxydique \Pou au mortier à retrait compensé selon NF EN 1504-3
+[Model] #12712 calque='Dessin_TEXTES'
+    AVANT: Joint hydroexpansif
+    APRES: Joint hydrogonflant
+[Model] #1272E calque='Dessin_TEXTES'
+    AVANT: Surfaçage à la pâte époxydique \Pou au mortier à retrait compensé
+    APRES: Surfaçage à la pâte époxydique \Pou au mortier à retrait compensé selon NF EN 1504-3
+[Model] #1272F calque='Dessin_TEXTES'
+    AVANT: Piquage du mortier de bourrage\Pet remplissage béton au mortier type R4
+    APRES: Piquage du mortier de bourrage\Pet remplissage béton au mortier classe R4 selon NF EN 1504-3
+[Model] #12A2E calque='Dessin_TEXTES'
+    AVANT: Joint \Phydroexpansif
+    APRES: Joint \Phydrogonflant
+[Model] #12A83 calque='Dessin_TEXTES'
+    AVANT: Joint hydroexpansif
+    APRES: Joint hydrogonflant
+[Model] #12C21 calque='Dessin_TEXTES'
+    AVANT: Joint hydroexpansif
+    APRES: Joint hydrogonflant
+[Model] #12C31 calque='Dessin_TEXTES'
+    AVANT: Surfaçage à la pâte époxydique ou \Pau mortier type R4
+    APRES: Surfaçage à la pâte époxydique ou \Pau mortier classe R4 selon NF EN 1504-3
+[Model] #12D6B calque='Dessin_TEXTES'
+    AVANT: Joint hydroexpansif 20x15mm
+    APRES: Joint hydrogonflant 20x15mm
+[Model] #12D97 calque='Dessin_TEXTES'
+    AVANT: Joint hydroexpansif 20x15mm
+    APRES: Joint hydrogonflant 20x15mm
+[Model] #130DE calque='Dessin_TEXTES'
+    AVANT: Joint hydroexpansif
+    APRES: Joint hydrogonflant
+[Model] #13254 calque='Dessin_TEXTES'
+    AVANT: Joint hydroexpansif
+    APRES: Joint hydrogonflant
+[Model] #13285 calque='Dessin_TEXTES'
+    AVANT: Joint hydroexpansif
+    APRES: Joint hydrogonflant
+[Model] #132B3 calque='Dessin_TEXTES'
+    AVANT: Joint hydroexpansif
+    APRES: Joint hydrogonflant
+[Model] #135DD calque='Dessin_TEXTES'
+    AVANT: Feuillard métallique\Pfixé mécaniquement
+    APRES: Feuillard métallique (inox ou galvanisé) fixé mécaniquement\P(FPM verticale : 4 fixations/ml, tous les 3 m)
+[Model] #13602 calque='Dessin_TEXTES'
+    AVANT: Feuillard métallique \Pfixé mécaniquement
+    APRES: Feuillard métallique (inox ou galvanisé) fixé mécaniquement\P(FPM verticale : 4 fixations/ml, tous les 3 m)
+[Model] #1362E calque='Dessin_TEXTES'
+    AVANT: Feuillard métallique \Pfixé mécaniquement
+    APRES: Feuillard métallique (inox ou galvanisé) fixé mécaniquement\P(FPM verticale : 4 fixations/ml, tous les 3 m)
+[Model] #13643 calque='Dessin_TEXTES'
+    AVANT: Joint hydroexpansif\Pen partie supérieure
+    APRES: Joint hydrogonflant\Pen partie supérieure
+[Model] #13645 calque='Dessin_TEXTES'
+    AVANT: Joint hydroexpansif\Pen partie supérieure
+    APRES: Joint hydrogonflant\Pen partie supérieure
+[Model] #13653 calque='Dessin_TEXTES'
+    AVANT: {\fArial|b1|i1|c0|p34;\LNOTA \l: \PDes carottages réguliers dans la paroi moulée doivent être réalisés pour év
+    APRES: {\fArial|b1|i1|c0|p34;\LNOTA \l: \PDes carottages réguliers dans la paroi moulée doivent être réalisés pour év
+[Model] #1367E calque='Dessin_TEXTES'
+    AVANT: Feuillard métallique\Pfixé mécaniquement
+    APRES: Feuillard métallique (inox ou galvanisé) fixé mécaniquement\P(FPM verticale : 4 fixations/ml, tous les 3 m)
+[Model] #136A2 calque='Dessin_TEXTES'
+    AVANT: Feuillard métallique \Pfixé mécaniquement
+    APRES: Feuillard métallique (inox ou galvanisé) fixé mécaniquement\P(FPM verticale : 4 fixations/ml, tous les 3 m)
+[Model] #136CE calque='Dessin_TEXTES'
+    AVANT: Feuillard métallique \Pfixé mécaniquement
+    APRES: Feuillard métallique (inox ou galvanisé) fixé mécaniquement\P(FPM verticale : 4 fixations/ml, tous les 3 m)
+[Model] #136E2 calque='Dessin_TEXTES'
+    AVANT: Joint hydroexpansif\Pen partie supérieure
+    APRES: Joint hydrogonflant\Pen partie supérieure
+[Model] #136E4 calque='Dessin_TEXTES'
+    AVANT: Joint hydroexpansif\Pen partie supérieure
+    APRES: Joint hydrogonflant\Pen partie supérieure
+[Model] #136F2 calque='Dessin_TEXTES'
+    AVANT: {\fArial|b1|i1|c0|p34;\LNOTA \l: \PDes carottages réguliers dans la paroi moulée doivent être réalisés pour év
+    APRES: {\fArial|b1|i1|c0|p34;\LNOTA \l: \PDes carottages réguliers dans la paroi moulée doivent être réalisés pour év
+[Model] #13921 calque='Dessin_TEXTES'
+    AVANT: Feuillard métallique\Pfixé mécaniquement
+    APRES: Feuillard métallique (inox ou galvanisé) fixé mécaniquement\P(FPM verticale : 4 fixations/ml, tous les 3 m)
+[Model] #13942 calque='Dessin_TEXTES'
+    AVANT: Feuillard métallique \Pfixé mécaniquement
+    APRES: Feuillard métallique (inox ou galvanisé) fixé mécaniquement\P(FPM verticale : 4 fixations/ml, tous les 3 m)
+[Model] #1396E calque='Dessin_TEXTES'
+    AVANT: Feuillard métallique \Pfixé mécaniquement
+    APRES: Feuillard métallique (inox ou galvanisé) fixé mécaniquement\P(FPM verticale : 4 fixations/ml, tous les 3 m)
+[Model] #13983 calque='Dessin_TEXTES'
+    AVANT: Joint hydroexpansif\Pen partie supérieure
+    APRES: Joint hydrogonflant\Pen partie supérieure
+[Model] #13985 calque='Dessin_TEXTES'
+    AVANT: Joint hydroexpansif\Pen partie supérieure
+    APRES: Joint hydrogonflant\Pen partie supérieure
+[Model] #13991 calque='Dessin_TEXTES'
+    AVANT: {\fArial|b1|i1|c0|p34;\LNOTA \l: \PDes carottages réguliers dans la paroi moulée doivent être réalisés pour év
+    APRES: {\fArial|b1|i1|c0|p34;\LNOTA \l: \PDes carottages réguliers dans la paroi moulée doivent être réalisés pour év
+[Model] #1637D calque='Dessin_TEXTES'
+    AVANT: \C256;Plats galvanisés ép.4mm\Plargeur 50mm\P
+    APRES: \C256;Plats galvanisés ou inox ép.4mm\Plargeur 50mm\P
+[Model] #16773 calque='Dessin_TEXTES'
+    AVANT: \pxsm1;Ragréage au mortier type R3
+    APRES: \pxsm1;Ragréage au mortier classe R3 selon NF EN 1504-3
+[Model] #EB7E doublon 'Joint hydrogonflant' supprimé (distance 0.00 u de #BA4F)
