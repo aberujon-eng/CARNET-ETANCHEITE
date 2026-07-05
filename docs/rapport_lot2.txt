@@ -1,0 +1,74 @@
+LOT 2 — 24 entrées
+
+[P8] #12A34 calque='Dessin_TEXTES'
+    AVANT: Etanchéité DEG\P(Voir détail de la décomposition)
+    APRES: Etanchéité DEG\P(voir détails folios 30 à 33)
+[P25] #6651 calque='Dessin_TEXTES'
+    AVANT: {\L\fArial|b1|i1|c0|p34;NOTE - Détail en radier }\fArial|b1|i1|c0|p34;: Traitement des joints de paroi moulée à pré
+    APRES: {\L\fArial|b1|i1|c0|p34;NOTE - Détail en radier }\fArial|b1|i1|c0|p34;: Traitement des joints de paroi moulée à pré
+[P41] #D889 calque='Dessin_TEXTES'
+    AVANT: Bande de pontage \Pélastomérique 200mm\Pcollée à la résine
+    APRES: Bande de pontage \Pélastomérique 200mm\Pcollée à la résine époxy\P(préparation du support selon GT9.C1F1)
+[P41] #D8B5 calque='Dessin_TEXTES'
+    AVANT: Bande de pontage \Pélastomérique 200mm\Pcollée à la résine
+    APRES: Bande de pontage \Pélastomérique 200mm\Pcollée à la résine époxy\P(préparation du support selon GT9.C1F1)
+[P41] #12D5D calque='Dessin_TEXTES'
+    AVANT: Bande de pontage \Pélastomérique 200mm\Pcollée à la résine
+    APRES: Bande de pontage \Pélastomérique 200mm\Pcollée à la résine époxy\P(préparation du support selon GT9.C1F1)
+[P41] #12D8C calque='Dessin_TEXTES'
+    AVANT: Bande de pontage \Pélastomérique 200mm\Pcollée à la résine
+    APRES: Bande de pontage \Pélastomérique 200mm\Pcollée à la résine époxy\P(préparation du support selon GT9.C1F1)
+[P45] #1746C calque='Dessin_TEXTES'
+    AVANT: \pxsm1;Etanchéité bitumineuse type Feuille\PPréfabriquée Bicouche avec 2ème\Pcouche traitée anti-racine
+    APRES: \pxsm1;Etanchéité bitumineuse type Feuille\PPréfabriquée Bicouche avec 2ème\Pcouche traitée anti-racine\P(uniquemen
+[P65] #12D5B calque='Dessin_COTATIONS'
+    AVANT: {\C256;Centré\P70mm mini}
+    APRES: {\C256;Débord 70mm mini\Pde part et d'autre du joint}
+[P65] #12D8A calque='Dessin_COTATIONS'
+    AVANT: {\C256;Centré\P70mm mini}
+    APRES: {\C256;Débord 70mm mini\Pde part et d'autre du joint}
+[P27] #FEBB calque='Dessin_TEXTES'
+    AVANT: \C256;Bande de pontage avec conformtement \Ppar tôle si hauteur d'eau > 10m
+    APRES: \C256;Bande de pontage avec confortement \Ppar tôle (galvanisée ou inox) si hauteur d'eau > 10m
+[P51] #130D3 calque='Dessin_TEXTES'
+    AVANT: Resurfaçage de la paroi moulée
+    APRES: Resurfaçage de la paroi moulée au mortier classe R3 mini\Pselon NF EN 1504-3 (tolérances selon GT9.C1F1)
+[P52-54] #132C4 calque='Dessin_TEXTES'
+    AVANT: Resurfaçage soigné
+    APRES: Resurfaçage soigné au mortier\Pclasse R3 mini selon NF EN 1504-3
+[P52-54] #132B2 calque='Dessin_TEXTES'
+    AVANT: Resurfaçage soigné
+    APRES: Resurfaçage soigné au mortier\Pclasse R3 mini selon NF EN 1504-3
+[P52-54] #13267 calque='Dessin_TEXTES'
+    AVANT: Resurfaçage soigné
+    APRES: Resurfaçage soigné au mortier\Pclasse R3 mini selon NF EN 1504-3
+[P55/57] #135DC calque='Dessin_TEXTES'
+    AVANT: Resurfaçage soigné type R3\Pht 15cm mini
+    APRES: Resurfaçage soigné type R3 selon NF EN 1504-3\Pht 15cm mini
+[P55/57] #1367D calque='Dessin_TEXTES'
+    AVANT: Resurfaçage soigné type R3\Pht 15cm mini
+    APRES: Resurfaçage soigné type R3 selon NF EN 1504-3\Pht 15cm mini
+[P59] #13920 calque='Dessin_TEXTES'
+    AVANT: Resurfaçage soigné\Pht 15cm mini
+    APRES: Resurfaçage soigné type R3\Pselon NF EN 1504-3\Pht 15cm mini
+[P56-60] #13601 calque='Dessin_TEXTES'
+    AVANT: Resurfaçage soigné
+    APRES: Resurfaçage soigné au mortier\Pclasse R3 mini selon NF EN 1504-3
+[P56-60] #136A1 calque='Dessin_TEXTES'
+    AVANT: Resurfaçage soigné
+    APRES: Resurfaçage soigné au mortier\Pclasse R3 mini selon NF EN 1504-3
+[P56-60] #13941 calque='Dessin_TEXTES'
+    AVANT: Resurfaçage soigné
+    APRES: Resurfaçage soigné au mortier\Pclasse R3 mini selon NF EN 1504-3
+[P2] #1FE5F calque='Dessin_TEXTES'
+    AVANT: \pxqj;{\LNote:} Le retour technique de la paroi moulée pourra être continué en sous-face de dalle selon la sensibil
+    APRES: \pxqj;{\LNote:} Le retour technique de la paroi moulée pourra être continué en sous-face de dalle selon la sensibil
+[ortho-dupuis] #6744 calque='Dessin_TEXTES'
+    AVANT: S.E.L.A.\Pretour de 1m\Pdans le tunnel dupuis \Ple nu de la paroi moulée.
+    APRES: S.E.L.A.\Pretour de 1m\Pdans le tunnel depuis \Ple nu de la paroi moulée.
+[ortho-dupuis] #C9D1 calque='Dessin_TEXTES'
+    AVANT: S.E.L.A.\Pretour de 1m\Pdans le tunnel dupuis \Ple nu de la paroi moulée.
+    APRES: S.E.L.A.\Pretour de 1m\Pdans le tunnel depuis \Ple nu de la paroi moulée.
+[ortho-dupuis] #CA4C calque='Dessin_TEXTES'
+    AVANT: S.E.L.A.\Pretour de 1m\Pdans le tunnel dupuis \Ple nu de la paroi moulée.
+    APRES: S.E.L.A.\Pretour de 1m\Pdans le tunnel depuis \Ple nu de la paroi moulée.
