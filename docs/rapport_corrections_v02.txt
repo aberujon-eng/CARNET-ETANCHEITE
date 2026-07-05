@@ -1,0 +1,98 @@
+29 modifications
+
+[Model] MTEXT #4098
+    AVANT: REVETEMENT \PRAMEAU
+    APRES: REVÊTEMENT \PRAMEAU
+[Model] MTEXT #4209
+    AVANT: REVETEMENT RAMEAU
+    APRES: REVÊTEMENT RAMEAU
+[Model] MTEXT #43D0
+    AVANT: REVETEMENT RAMEAU
+    APRES: REVÊTEMENT RAMEAU
+[Model] MTEXT #BCB4
+    AVANT: NOTA:\PDans les rameaux, des bandes de pontage encastrées (cf. Détail n°18)\Pseront à mettre en oeuvre sur chaque repris
+    APRES: NOTA:\PDans les rameaux, des bandes de pontage encastrées (cf. Détail folio 65)\Pseront à mettre en oeuvre sur chaque re
+[Model] MTEXT #BDF1
+    AVANT: REVETEMENT RAMEAU
+    APRES: REVÊTEMENT RAMEAU
+[Model] MTEXT #FC27
+    AVANT: REVETEMENT \PRAMEAU
+    APRES: REVÊTEMENT \PRAMEAU
+[Model] MTEXT #FC7F
+    AVANT: REVETEMENT RAMEAU
+    APRES: REVÊTEMENT RAMEAU
+[Model] MTEXT #FE02
+    AVANT: Revetement Rameau
+    APRES: Revêtement Rameau
+[Model] MTEXT #FE2D
+    AVANT: Béton projeté + soutenement par centres HEB
+    APRES: Béton projeté + soutènement par cintres HEB
+[Model] MTEXT #126CE
+    AVANT: REVETEMENT TUNNEL
+    APRES: REVÊTEMENT TUNNEL
+[Model] MTEXT #12717
+    AVANT: REVETEMENT TUNNEL
+    APRES: REVÊTEMENT TUNNEL
+[Model] MTEXT #12A20
+    AVANT: REVETEMENT \PRAMEAU
+    APRES: REVÊTEMENT \PRAMEAU
+[Model] MTEXT #12A6C
+    AVANT: REVETEMENT RAMEAU
+    APRES: REVÊTEMENT RAMEAU
+[Model] MTEXT #12BEF
+    AVANT: Revetement Rameau
+    APRES: Revêtement Rameau
+[Model] MTEXT #12D64
+    AVANT: \pxqc;REVETEMENT\POU\PPAROI MOULEE
+    APRES: \pxqc;REVÊTEMENT\POU\PPAROI MOULEE
+[Model] MTEXT #12D6C
+    AVANT: \pxqc;REVETEMENT\POU\PPAROI MOULEE
+    APRES: \pxqc;REVÊTEMENT\POU\PPAROI MOULEE
+[Model] MTEXT #12D90
+    AVANT: \pxqc;REVETEMENT\POU\PPAROI MOULEE
+    APRES: \pxqc;REVÊTEMENT\POU\PPAROI MOULEE
+[Model] MTEXT #12D98
+    AVANT: \pxqc;REVETEMENT\POU\PPAROI MOULEE
+    APRES: \pxqc;REVÊTEMENT\POU\PPAROI MOULEE
+[Model] MTEXT #161C4
+    AVANT: NOTA:\PDans les rameaux, des bandes de pontage encastrées (cf. Détail n°18)\Pseront à mettre en oeuvre sur chaque repris
+    APRES: NOTA:\PDans les rameaux, des bandes de pontage encastrées (cf. Détail folio 65)\Pseront à mettre en oeuvre sur chaque re
+[Model] MTEXT #161E4
+    AVANT: REVETEMENT RAMEAU
+    APRES: REVÊTEMENT RAMEAU
+[Model] TEXT #17AAF
+    AVANT: n°18
+    APRES: folio 65
+[B:*T232] MTEXT #1BB24
+    AVANT: Ensemble des détails de raccords psur aroi moulée - \fArial|b1|i0|c0|p34;FPM
+    APRES: Ensemble des détails de raccords sur paroi moulée - \fArial|b1|i0|c0|p34;FPM
+[ONGLET] renommé:
+    AVANT: 38 - DEG - Traitement étancchéité en paroi moulée avec désaffleurement - Ancrage du DEG dans la paroi moulée (création d'un dé de béton)
+    APRES: 38 - DEG - Traitement étanchéité en paroi moulée avec désaffleurement - Ancrage du DEG dans la paroi moulée (création d'un dé de béton)
+[ONGLET] renommé:
+    AVANT: 53 - FPM - Raccord sur arase haute paroi moulée avec nappe au-dessus de l'arase inférieure de la dalle supérieure avec impermeabilisation solution 1
+    APRES: 53 - FPM - Raccord sur arase haute paroi moulée avec nappe au-dessus de l'arase inférieure de la dalle supérieure avec imperméabilisation solution 1
+[ONGLET] renommé:
+    AVANT: 54 - FPM - Raccord sur arase haute paroi moulée avec nappe au-dessus de l'arase inférieure de la dalle supérieure avec impermeabilisation - solution 2
+    APRES: 54 - FPM - Raccord sur arase haute paroi moulée avec nappe au-dessus de l'arase inférieure de la dalle supérieure avec imperméabilisation - solution 2
+[ONGLET] renommé:
+    AVANT: 55 - FPM - Raccord sur arase super haute avec arase inférieure de la dalle supérieure au-dessus de la nappe avec impermeabilisation - Partie courante
+    APRES: 55 - FPM - Raccord sur arase super haute avec arase inférieure de la dalle supérieure au-dessus de la nappe avec imperméabilisation - Partie courante
+[ONGLET] renommé:
+    AVANT: 56 - FPM - Raccord sur arase super haute avec arase inférieure de la dalle supérieure au-dessus de la nappe avec impermeabilisation - Au droit des joints de PM
+    APRES: 56 - FPM - Raccord sur arase super haute avec arase inférieure de la dalle supérieure au-dessus de la nappe avec imperméabilisation - Au droit des joints de PM
+[ONGLET] renommé:
+    AVANT: 57 - FPM - Raccord sur arase super haute avec arase inférieure de la dalle supérieure au-dessus de la nappe sans impermeabilisation - Partie courante
+    APRES: 57 - FPM - Raccord sur arase super haute avec arase inférieure de la dalle supérieure au-dessus de la nappe sans imperméabilisation - Partie courante
+[ONGLET] renommé:
+    AVANT: 58 - FPM - Raccord sur arase super haute avec arase inférieure de la dalle supérieure au-dessus de la nappe sans impermeabilisation - Au droit des joints de PM
+    APRES: 58 - FPM - Raccord sur arase super haute avec arase inférieure de la dalle supérieure au-dessus de la nappe sans imperméabilisation - Au droit des joints de PM
+
+--- complément (2e passe même session) ---
+[Model] MULTILEADER #422B, #4236, #FC9A, #12A82, #12A84
+    AVANT: Détail n°18   APRES: Détail folio 65
+[ACAD_TABLE *T232] 4 lignes de valeur de cellule (groupes 1/302)
+    AVANT: ...raccords psur aroi moulée...   APRES: ...raccords sur paroi moulée...
+[Model] MULTILEADER #163B6 (calque Dessin_TEXTES)
+    AVANT: ...fixation mécanqiue   APRES: ...fixation mécanique
+TOTAL: 39 modifications
