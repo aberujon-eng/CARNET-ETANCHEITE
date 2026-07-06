@@ -11,11 +11,36 @@ Usage: python3 build_suivi_excel.py OUT.xlsx
 """
 import sys
 import datetime
+from pathlib import Path
 import openpyxl
 from openpyxl.styles import Font, PatternFill, Alignment, Border, Side
 from openpyxl.utils import get_column_letter
+from openpyxl.drawing.image import Image as XLImage
+from PIL import Image as PILImage
 
 OUT = sys.argv[1]
+REPO_ROOT = Path(__file__).resolve().parent.parent
+GALERIE_DIR = REPO_ROOT / "controle" / "galerie"
+IMG_TARGET_W = 300  # px affiches dans le classeur
+
+def insert_capture(ws, row, col_letter, folio_num):
+    """Insere le rendu du folio (controle/galerie/folio_NN.png) sur la ligne, redimensionne
+    a IMG_TARGET_W de large en conservant les proportions, et ajuste la hauteur de ligne."""
+    if folio_num is None:
+        return
+    path = GALERIE_DIR / f"folio_{folio_num:02d}.png"
+    if not path.exists():
+        return
+    with PILImage.open(path) as im:
+        w, h = im.size
+    scale = IMG_TARGET_W / w
+    disp_w, disp_h = IMG_TARGET_W, round(h * scale)
+    img = XLImage(str(path))
+    img.width, img.height = disp_w, disp_h
+    ws.add_image(img, f"{col_letter}{row}")
+    row_h_pt = disp_h * 0.78
+    if (ws.row_dimensions[row].height or 0) < row_h_pt:
+        ws.row_dimensions[row].height = row_h_pt
 
 # ------------------------------------------------------------------ styles
 FONT_NAME = "Calibri"
@@ -88,7 +113,7 @@ COMMITS = "c503e4c -> fb67755 (5 commits, 05-06/07/2026)"
 wb = openpyxl.Workbook()
 ws1 = wb.active
 ws1.title = "Suivi général"
-ncols = 8
+ncols = 9
 write_title(
     ws1,
     "Carnet de details étanchéité OS — Suivi des reprises v02 (MAJ F67-III / AFTES GT9)",
@@ -98,8 +123,8 @@ write_title(
 )
 HEADERS1 = ["Réf.", "Sujet / Folio", "Modification à apporter (mail Bertrand)",
             "Modification apportée", "Date de reprise", "Avancement",
-            "Référence technique", "Commentaire"]
-WIDTHS1 = [10, 30, 48, 48, 14, 16, 22, 40]
+            "Référence technique", "Commentaire", "Capture"]
+WIDTHS1 = [10, 30, 48, 48, 14, 16, 22, 40, 44]
 write_header(ws1, 4, HEADERS1, WIDTHS1)
 
 D1, D2 = "05/07/2026", "06/07/2026"
@@ -313,8 +338,19 @@ ROWS = [
   "-", "Déjà conforme", "-", ""),
 ]
 
+# folio illustre par ligne (ordre strictement aligne sur ROWS) ; None = pas de folio unique
+FOLIO_MAP = [
+    0,    None, None, None, None,        # T1-T5
+    1, 2, 4, 8, 9, 10, 11, 12, 12, 15,    # P1..P15
+    20, 21, 22, 24, 25, 27, 27, 29,       # P20..P29
+    30, 31, 34, 34, 37, 38, 39, 41, 44,   # P30/32..P44
+    45, 45, 47, 48, 49, 50, 51,           # P45 a/b..P51
+    52, 52, 55, 56, 61, 61, 65, 65, 65,   # P52-54..P65
+]
+assert len(FOLIO_MAP) == len(ROWS)
+
 r = 5
-for row in ROWS:
+for row, folio_num in zip(ROWS, FOLIO_MAP):
     ref, sujet, apporter, apportee, date, statut, refe, comment = row
     fill_row(ws1, r, [ref, sujet, apporter, apportee, date],
              wraps={1: WRAP_TOP_CENTER, 5: WRAP_TOP_CENTER})
@@ -323,10 +359,11 @@ for row in ROWS:
     ws1.cell(row=r, column=1).value = ref
     ws1.cell(row=r, column=7).font = Font(name=FONT_NAME, size=9, italic=True, color="595959")
     ws1.cell(row=r, column=7).alignment = WRAP_TOP
+    insert_capture(ws1, r, "I", folio_num)
     r += 1
 
 last_row = r - 1
-for row in ws1.iter_rows(min_row=5, max_row=last_row, min_col=1, max_col=8):
+for row in ws1.iter_rows(min_row=5, max_row=last_row, min_col=1, max_col=9):
     for cell in row:
         cell.border = BORDER
 
@@ -354,38 +391,40 @@ ws1.sheet_view.zoomScale = 100
 
 # ============================================================ Feuille 2 : Points bloquants
 ws2 = wb.create_sheet("Points bloquants")
-ncols2 = 5
+ncols2 = 6
 write_title(ws2, "Points bloquants — décision Bertrand Verrière requise",
             "Aucun de ces points n'a été tranché automatiquement (règle CLAUDE.md du projet).",
             ncols2)
-HEADERS2 = ["N°", "Sujet", "Description", "Folio(s) concerné(s)", "Décision requise de"]
-WIDTHS2 = [6, 30, 70, 18, 22]
+HEADERS2 = ["N°", "Sujet", "Description", "Folio(s) concerné(s)", "Décision requise de", "Capture"]
+WIDTHS2 = [6, 30, 70, 18, 22, 44]
 write_header(ws2, 4, HEADERS2, WIDTHS2)
 
+# (n, sujet, description, folios, qui, folio_illustre)
 BLOQUES = [
  (1, "Statut du Cahier 2 GT9",
   "Cahier 2 (guide de choix, prépublication septembre 2025) : statut non confirmé. "
   "Ne pas citer comme référence contractuelle sans validation.",
-  "Folio 00 (à créer), P52-54 (tableau de choix)", "Bertrand Verrière"),
+  "Folio 00 (à créer), P52-54 (tableau de choix)", "Bertrand Verrière", None),
  (2, "Épaisseur écran supérieur DEG",
   "Le GT9 C1F1 exige 19/10e mini, le carnet v01 indique 20/10e à plusieurs endroits. "
   "Confirmer la valeur cible pour la v02.",
-  "Légende complexe DEG (tous folios DEG)", "Bertrand Verrière"),
+  "Légende complexe DEG (tous folios DEG)", "Bertrand Verrière", None),
  (3, "Cotes d'engravure du folio 38",
   "Valeurs actuelles (9/6/10/15 cm) à comparer aux CMO des procédés habituellement "
   "prescrits.",
-  "Folio 38", "Bertrand Verrière"),
+  "Folio 38", "Bertrand Verrière", 38),
  (4, "Raccord DEG/FPM du folio 45",
   "Marqué «à définir» depuis la v01 (2022) : à trancher.",
-  "Folio 45", "Bertrand Verrière"),
+  "Folio 45", "Bertrand Verrière", 45),
  (5, "Seuil «hauteur d'eau > 10 m» du folio 27",
   "Règle interne à documenter, ou valeur à sourcer dans un référentiel.",
-  "Folio 27", "Bertrand Verrière"),
+  "Folio 27", "Bertrand Verrière", 27),
 ]
 r = 5
-for n, sujet, desc, folios, qui in BLOQUES:
+for n, sujet, desc, folios, qui, folio_num in BLOQUES:
     fill_row(ws2, r, [n, sujet, desc, folios, qui],
              wraps={1: WRAP_TOP_CENTER, 4: WRAP_TOP_CENTER, 5: WRAP_TOP_CENTER})
+    insert_capture(ws2, r, "F", folio_num)
     for c in range(1, ncols2 + 1):
         ws2.cell(row=r, column=c).fill = PatternFill("solid", fgColor="FCE4E4")
     r += 1
