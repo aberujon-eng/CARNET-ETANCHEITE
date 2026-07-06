@@ -17,12 +17,12 @@ onglets 38 + 53-58 renommés. Commit `c503e4c`.
 | T2 Légende complexe DEG harmonisée | À FAIRE partiellement | épaisseur écran sup = **BLOQUÉ** (19/10 vs 20/10) ; le reste (géotextile inf / PVC-P translucide 2 mm mini / écran sup) harmonisable |
 | T3 Mortiers R3/R4 → NF EN 1504-3 | **FAIT** (lot 1) | 27 occurrences « NF EN 1504-3 » en fichier |
 | T4 hydrogonflant partout | **FAIT** (lot 1) | 41 occ., 0 résidu hydro(-)expansif |
-| T5 Enduit feu : renvoi référentiel exploitant + PV feu | À FAIRE | ~19 occ. « Enduit de protection au feu » ; formulation renvoi à ajouter |
+| T5 Enduit feu : renvoi référentiel exploitant + PV feu | **FAIT partiellement** (lot 4) | inline sur folios 9/10 (+ 2 ML folio 65) ; légendes empilées folios 11-19/24 laissées intactes (chevauchement) → prescription générale à porter au futur folio 00 |
 
 ## Folio par folio
 | Folio | Reprise | Statut |
 |---|---|---|
-| P1 | casse renvois Détail n°1/2/3 vs folios 5/26/28 | À FAIRE (inspection casse) |
+| P1 | casse renvois Détail n°1/2/3 vs folios 5/26/28 | **FAIT** (lot 4, #FDF7 aligné sur folio 5 : Partie supérieure/Piédroit/Radier) |
 | P2 | R4→1504-3 | **FAIT** (lot 1, générique) |
 | P2 | retour technique 1,00 m « à adapter selon hauteur d'eau / NDC » | **FAIT** (lot 2, #1FE5F) |
 | P4/P20 | solin 3x3 époxy vs polymérique | **QUESTION** : quelle cible ? (P4=époxy, P20=polymérique, mail ne tranche pas) |
@@ -30,12 +30,12 @@ onglets 38 + 53-58 renommés. Commit `c503e4c`.
 | P9 | R4/retrait compensé →1504-3 | **FAIT** (lot 1) |
 | P9 | NOTA préparation support voussoir (C1 §6.4) | **FAIT** (lot 3, #20AC4) |
 | P10 | folio dédié arrêt DEG voussoir | À FAIRE (création n°2) |
-| P11,16-19 | harmonisation casse/corps libellés | À FAIRE (inspection) |
-| P12-14 | légender « Etanchéité par D.E.G. » | À FAIRE |
+| P11,16-19 | harmonisation casse/corps libellés | **QUESTION** : critère de cible à préciser (libellés lisibles au rendu, pas d'anomalie objective flagrante) |
+| P12-14 | légender « Etanchéité par D.E.G. » | **DÉJÀ CONFORME** : légende présente dans la source sur 12/13/14/15 (source plus fraîche que le PDF v01) |
 | P12-14 | cote 0,50 m signification | **QUESTION** (ambiguïté signalée par le mail lui-même) |
-| P15 | écran protection sup. non légendé côté gauche | À FAIRE (inspection) |
+| P15 | écran protection sup. non légendé côté gauche | **FAIT** (lot 4, MTEXT #20FA3 « Ecran de protection supérieure » ajouté sous #817A) |
 | P20 | surfaçage époxy/R4 →1504-3 | **FAIT** (lot 1) |
-| P21 | cohérence Min 1.00m vs folios 22-25 | À FAIRE (inspection cotes) |
+| P21 | cohérence Min 1.00m vs folios 22-25 | **FAIT partiellement** (lot 4) : « retour de 1m » harmonisé en « 1.00m » (3 ML) ; vérification des cotes 22-25 contre le principe → revue Alexandre |
 | P22/23 | note découpe voussoir accord MOE GC | **FAIT** (lot 1, 3 occ.) |
 | P24 | doublon joint hydrogonflant | **FAIT** (lot 1 : #EB7E supprimé, superposé à 0.00 u) |
 | P25 | NOTA joints PM radier → renvoi folios 40-43 | **FAIT** (lot 2, #6651) |
@@ -43,10 +43,10 @@ onglets 38 + 53-58 renommés. Commit `c503e4c`.
 | P27 | tôle galva/inox harmonisation | **FAIT** (lot 2, #FEBB : « tôle (galvanisée ou inox) », + coquille « conformtement » corrigée ; seuil > 10 m intact) |
 | P29 | plats galvanisés ou inox | **FAIT** (lot 1, #1637D) |
 | P29/37 | entraxe fixations + couple serrage NDC + nature joints compressibles | **FAIT** (lot 3, NOTA #20B9B/#20B9A) |
-| P30/32 | géotextile + cunette → renvois GT9.R19F1 | À FAIRE |
+| P30/32 | géotextile + cunette → renvois GT9.R19F1 | **FAIT partiellement** (lot 4) : cunettes → « (drainage selon GT9.R19F1) » (2 ML) ; précision géotextile liée à T2/folio 00 |
 | P31/33 | NOTA continuité enduit imperméabilisation + phasage | **FAIT** (lot 3, #20AC6/#20AC7) |
 | P34 | NOTA phasage (recépage→injection) | **FAIT** (lot 3, #20B99) |
-| P34/36 | chape protection DEG 5→6 cm | **FAIT** (lot 1, #6030 ; #6071 était déjà à 6) — vérifier folio 36 au lot 2 |
+| P34/36 | chape protection DEG 5→6 cm | **FAIT** (lot 1, #6030 ; #6071 déjà à 6 — vérifié lot 4 : plus aucune chape DEG à 5 cm) |
 | P37 | idem P29 (entraxes/joints/résine) | **FAIT** (lot 3, #20B9A) |
 | P38 | cotes engravures | **BLOQUÉ** (point 3) |
 | P39 | NOTA contrôle pointe sèche / cloche à vide (C1 p.81) | **FAIT** (lot 3, #20AC9) |
@@ -55,7 +55,7 @@ onglets 38 + 53-58 renommés. Commit `c503e4c`.
 | P45 | raccord DEG/FPM | **BLOQUÉ** (point 4) |
 | P45 | FPM bicouche anti-racine « uniquement si végétalisation » | **FAIT** (lot 2, #1746C) — #13E13 (F63) identique non modifié, voir Q6 |
 | P47 | 6 cm conforme | référence — voir QUESTION « Béton de protection lourde 5 cm » ci-dessous |
-| P48 | casse/unités | À FAIRE (inspection) |
+| P48 | casse/unités | **QUESTION** : pas d'anomalie objective au rendu (régression feuillard lot 2 corrigée au lot 4) ; cible d'harmonisation à préciser |
 | P49 | NOTA soufflet JD + non-adhérence locale | **FAIT** (lot 3, #20B9C) |
 | P50 | anti-intrusion + entretenabilité sur le dessin | DESSIN |
 | P51 | resurfaçage → 1504-3 R3 mini + tolérances | **FAIT** (lot 2, #130D3) |
