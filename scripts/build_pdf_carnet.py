@@ -17,6 +17,10 @@ import ezdxf
 import ezdxf.bbox
 import matplotlib
 matplotlib.use("Agg")
+# Type 3 (defaut matplotlib) n'est pas fiable dans beaucoup de lecteurs PDF
+# legers (mobile, apercu navigateur) -> pages qui semblent vides. TrueType
+# (42) est le format le plus largement supporte.
+matplotlib.rcParams["pdf.fonttype"] = 42
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_pdf import PdfPages
 from ezdxf.addons.drawing import RenderContext, Frontend
