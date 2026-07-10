@@ -157,6 +157,19 @@ def ents_in(x0, x1, y0, y1, margin=150):
         out.append(e)
     return out
 
+def ents_centered_in(x0, x1, y0, y1):
+    """Renvoie les entites dont le CENTRE de la bbox est strictement dans la
+    fenetre. Version anti-contamination pour les folios en matrice
+    (30/31/32/33/37/39) : matplotlib ne clippe pas fiablement les artistes
+    dessines par ezdxf.Frontend en dehors des xlim/ylim, donc on filtre
+    directement au niveau de la selection des entites."""
+    out = []
+    for e, ex0, ex1, ey0, ey1 in _BBOX_CACHE:
+        cx, cy = (ex0 + ex1) * 0.5, (ey0 + ey1) * 0.5
+        if x0 <= cx <= x1 and y0 <= cy <= y1:
+            out.append(e)
+    return out
+
 def far_viewport_window(layout_name):
     best = None
     for v in doc.layout(layout_name):
@@ -389,10 +402,19 @@ with PdfPages(PDF_OUT) as pdf:
             continue
         x0, x1, y0, y1 = win
         w, h = x1 - x0, y1 - y0
-        fig = plt.figure(figsize=(16.5, max(6, 16.5 * h / w)))
+        # Format max A2 landscape (16.5 x 11) : evite les pages absurdement
+        # hautes (32in+) quand la cellule Voronoi est etroite en x.
+        page_h = min(16.5, max(6, 16.5 * h / w))
+        fig = plt.figure(figsize=(16.5, page_h))
         ax = fig.add_axes([0.02, 0.02, 0.96, 0.90])
         ax.axis("off")
-        entities = ents_in(x0, x1, y0, y1)
+        # Pour les folios en matrice, filtrage strict par centre bbox pour
+        # eviter la contamination par les folios voisins (matplotlib +
+        # ezdxf.Frontend ne clippent pas fiablement en xlim/ylim).
+        if num in VORONOI_FOLIOS:
+            entities = ents_centered_in(x0, x1, y0, y1)
+        else:
+            entities = ents_in(x0, x1, y0, y1)
         # Fixer aspect + xlim/ylim + autoscale=False AVANT draw_entities :
         # sinon ezdxf.Frontend appelle autoscale_view() apres le dessin, ce
         # qui etend les axes pour englober toutes les entites (y compris
