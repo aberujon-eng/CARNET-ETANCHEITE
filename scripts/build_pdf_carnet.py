@@ -34,16 +34,56 @@ msp = doc.modelspace()
 CFG = Configuration(background_policy=BackgroundPolicy.WHITE, color_policy=ColorPolicy.BLACK)
 ctx = RenderContext(doc)
 
+# au-dela de cette taille, une entite ne peut pas etre le contenu legitime
+# d'un seul folio (le plus grand folio reel fait ~2500 unites de large) ->
+# ce sont des blocs orphelins hors champ (ex. reperes/rosaces a x~300000,
+# deja identifies en debut de session) dont la bbox massive "empoisonnerait"
+# tout test de recoupement fenetre/entite si on les gardait.
+MAX_ENTITY_SPAN = 5000
+
+# reperes internes "n°1".."n°65" (calque Dessin_TEXTES, hauteur 10.0, ~4x le
+# texte d'annotation courant ~2.5) : servent au reperage manuel dans AutoCAD,
+# pas destines a l'impression. Places pres du contenu reel de chaque folio,
+# ils "polluent" anchor_window quand plusieurs folios sont resserres (cluster
+# 30-33/37/39) -> bbox gonflee qui deborde sur les folios voisins, et
+# s'affichent eux-memes comme d'enormes chiffres parasites sur la page.
+LOCATOR_RX = re.compile(r"^\s*n°\s*\d+\s*$")
+
+def is_locator_label(e):
+    if e.dxftype() != "TEXT":
+        return False
+    try:
+        if e.dxf.layer != "Dessin_TEXTES":
+            return False
+        if abs(e.dxf.height - 10.0) > 0.01:
+            return False
+        return bool(LOCATOR_RX.match(e.dxf.text))
+    except Exception:
+        return False
+
 print("Calcul des boites englobantes de toutes les entites du Model...", file=sys.stderr)
 _BBOX_CACHE = []
+skipped_huge = 0
+skipped_locator = 0
 for e in msp:
+    if is_locator_label(e):
+        skipped_locator += 1
+        continue
     try:
         ext = ezdxf.bbox.extents([e], fast=True)
     except Exception:
         continue
-    if ext.has_data:
-        _BBOX_CACHE.append((e, ext.extmin.x, ext.extmax.x, ext.extmin.y, ext.extmax.y))
-print(f"  {len(_BBOX_CACHE)}/{len(msp)} entites avec bbox valide", file=sys.stderr)
+    if not ext.has_data:
+        continue
+    w, h = ext.extmax.x - ext.extmin.x, ext.extmax.y - ext.extmin.y
+    if w > MAX_ENTITY_SPAN or h > MAX_ENTITY_SPAN:
+        skipped_huge += 1
+        continue
+    _BBOX_CACHE.append((e, ext.extmin.x, ext.extmax.x, ext.extmin.y, ext.extmax.y))
+print(f"  {len(_BBOX_CACHE)}/{len(msp)} entites avec bbox valide "
+      f"({skipped_huge} exclues : bbox > {MAX_ENTITY_SPAN}u, blocs orphelins hors champ ; "
+      f"{skipped_locator} exclues : reperes internes 'n°NN' non destines a l'impression)",
+      file=sys.stderr)
 
 def ents_in(x0, x1, y0, y1, margin=150):
     """Renvoie les entites dont la boite englobante recoupe la fenetre
