@@ -192,7 +192,71 @@ def anchor_window(pattern, probe_radius=180, min_half=90):
     mx, my = max((x1 - x0) * .08, 5), max((y1 - y0) * .08, 5)
     return (x0 - mx, x1 + mx, y0 - my, y1 + my)
 
-# fallback pour les onglets dont le viewport pointe vers l'origine ou est absent
+# --- Fenetrage par repere "n°NN" + Voronoi ---
+# Meme si excluses du rendu, les etiquettes "n°1".."n°65" (calque
+# Dessin_TEXTES, h=10) restent le seul point d'ancrage garanti unique par
+# folio dans le model. On les retrouve ici pour calculer, pour chaque folio,
+# une fenetre dont les bordures sont limitees par le mid-point vers chaque
+# repere voisin proche (Voronoi tronquee) : ca evite mecaniquement la
+# contamination des folios voisins pour les clusters 30-33 / 37-39.
+def _collect_locator_positions():
+    pat = re.compile(r"^\s*n°\s*(\d+)\s*$")
+    out = {}
+    for e in msp:
+        if e.dxftype() != "TEXT":
+            continue
+        try:
+            if e.dxf.layer != "Dessin_TEXTES":
+                continue
+            if abs(e.dxf.height - 10.0) > 0.01:
+                continue
+            m = pat.match(e.dxf.text)
+            if not m:
+                continue
+            out[int(m.group(1))] = (e.dxf.insert.x, e.dxf.insert.y)
+        except Exception:
+            pass
+    return out
+
+_LOCATORS = _collect_locator_positions()
+print(f"  {len(_LOCATORS)} reperes 'n°NN' localises dans le model", file=sys.stderr)
+
+def locator_window(folio_num, default_half=400, neighbor_radius=900):
+    """Fenetre du folio, ancree sur son repere 'n°NN' :
+    - point de depart : carre 2*default_half x 2*default_half autour du repere
+    - pour chaque repere voisin dans un rayon `neighbor_radius`, la bordure
+      la plus proche est rabattue au mid-point selon l'axe dominant du
+      vecteur voisin (evite d'englober des quadrants adjacents)."""
+    p = _LOCATORS.get(folio_num)
+    if p is None:
+        return None
+    ax, ay = p
+    x0, x1 = ax - default_half, ax + default_half
+    y0, y1 = ay - default_half, ay + default_half
+    for other, q in _LOCATORS.items():
+        if other == folio_num:
+            continue
+        dx, dy = q[0] - ax, q[1] - ay
+        d2 = dx * dx + dy * dy
+        if d2 > neighbor_radius * neighbor_radius:
+            continue
+        if abs(dx) >= abs(dy):
+            mid_x = (ax + q[0]) / 2
+            if dx > 0:
+                x1 = min(x1, mid_x)
+            else:
+                x0 = max(x0, mid_x)
+        else:
+            mid_y = (ay + q[1]) / 2
+            if dy > 0:
+                y1 = min(y1, mid_y)
+            else:
+                y0 = max(y0, mid_y)
+    if x1 <= x0 or y1 <= y0:
+        return None
+    return (x0, x1, y0, y1)
+
+# Fallback textuel : conserve pour les onglets sans repere 'n°NN' localise
 ANCHOR_FALLBACK = {
     4:  r'Radier du Puits',
     8:  r'voir détails folios 30 à 33',
@@ -230,6 +294,10 @@ with PdfPages(PDF_OUT) as pdf:
             continue
         win = far_viewport_window(name)
         method = "viewport far-field"
+        if win is None:
+            win = locator_window(num)
+            if win is not None:
+                method = "repere n°NN + Voronoi"
         if win is None and num in ANCHOR_FALLBACK:
             win = anchor_window(ANCHOR_FALLBACK[num])
             method = "ancre texte (fallback)"
