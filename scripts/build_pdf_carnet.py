@@ -31,11 +31,88 @@ DXF_IN, PDF_OUT = sys.argv[1], sys.argv[2]
 
 doc = ezdxf.readfile(DXF_IN)
 msp = doc.modelspace()
-# COLOR_SWAP_BW : preserve les couleurs des entites, et echange blanc<->noir
-# pour que les traits ACI 7 (blanc dans le model AutoCAD conçu fond noir)
-# soient rendus en noir sur le fond blanc du PDF.
-CFG = Configuration(background_policy=BackgroundPolicy.WHITE, color_policy=ColorPolicy.COLOR_SWAP_BW)
+import matplotlib.colors as _mcolors
+# ColorPolicy.COLOR = couleurs brutes du modele (les pipes/hachures gardent
+# leurs teintes). Probleme induit : les entites ACI 7 / BYLAYER->couleur
+# blanche (conçues fond noir dans AutoCAD) rendent en blanc -> invisibles sur
+# le fond blanc du PDF. COLOR_SWAP_BW essaie de corriger mais rate les
+# resolutions BYLAYER. On post-traite matplotlib pour forcer toute couleur
+# quasi-blanche a noir (voir _darken_invisible_artists ci-dessous).
+CFG = Configuration(background_policy=BackgroundPolicy.WHITE, color_policy=ColorPolicy.COLOR)
 ctx = RenderContext(doc)
+
+_WHITE_THRESHOLD = 0.90  # RGB min > seuil -> considere invisible sur fond blanc
+
+def _swap_if_white(rgba):
+    """Renvoie rgba noir si la couleur est quasi-blanche, sinon inchangee."""
+    try:
+        r, g, b = rgba[0], rgba[1], rgba[2]
+        a = rgba[3] if len(rgba) > 3 else 1.0
+    except Exception:
+        return rgba
+    if min(r, g, b) > _WHITE_THRESHOLD:
+        return (0.0, 0.0, 0.0, a)
+    return rgba
+
+def darken_invisible_artists(ax):
+    """Parcourt tous les artistes matplotlib de l'axe et bascule en noir toute
+    couleur > _WHITE_THRESHOLD (invisible sur fond blanc). Necessaire parce
+    que ColorPolicy.COLOR d'ezdxf laisse passer les entites ACI 7 / BYLAYER
+    resolues en blanc pour un affichage AutoCAD fond noir."""
+    from matplotlib.collections import Collection
+    from matplotlib.lines import Line2D
+    from matplotlib.text import Text
+    from matplotlib.patches import Patch
+    import numpy as np
+    def stack(children):
+        out = []
+        for c in children:
+            out.append(c)
+            if hasattr(c, "get_children"):
+                out.extend(c.get_children())
+        return out
+    for artist in stack(ax.get_children()):
+        # Line2D, Text
+        if isinstance(artist, (Line2D, Text)):
+            try:
+                rgba = _mcolors.to_rgba(artist.get_color())
+                new = _swap_if_white(rgba)
+                if new != rgba:
+                    artist.set_color(new)
+            except Exception:
+                pass
+        # Collections (LineCollection, PolyCollection, PathCollection)
+        if isinstance(artist, Collection):
+            try:
+                ec = artist.get_edgecolor()
+                if len(ec):
+                    ec2 = np.array([_swap_if_white(rgba) for rgba in ec])
+                    artist.set_edgecolor(ec2)
+            except Exception:
+                pass
+            try:
+                fc = artist.get_facecolor()
+                if len(fc):
+                    fc2 = np.array([_swap_if_white(rgba) for rgba in fc])
+                    artist.set_facecolor(fc2)
+            except Exception:
+                pass
+        # Patches (Rectangle, Polygon)
+        if isinstance(artist, Patch):
+            try:
+                ec = _mcolors.to_rgba(artist.get_edgecolor())
+                new_ec = _swap_if_white(ec)
+                if new_ec != ec:
+                    artist.set_edgecolor(new_ec)
+            except Exception:
+                pass
+            try:
+                fc = _mcolors.to_rgba(artist.get_facecolor())
+                new_fc = _swap_if_white(fc)
+                if new_fc != fc:
+                    artist.set_facecolor(new_fc)
+            except Exception:
+                pass
 
 # au-dela de cette taille, une entite ne peut pas etre le contenu legitime
 # d'un seul folio (le plus grand folio reel fait ~2500 unites de large) ->
@@ -365,6 +442,7 @@ with PdfPages(PDF_OUT) as pdf:
     Frontend(ctx, MatplotlibBackend(ax0), config=CFG).draw_layout(
         doc.layout("00 - Page de garde"), finalize=True
     )
+    darken_invisible_artists(ax0)
     pdf.savefig(fig0)
     plt.close(fig0)
     report.append((0, "page de garde", "OK (draw_layout)"))
@@ -429,6 +507,7 @@ with PdfPages(PDF_OUT) as pdf:
         ax.set_ylim(y0, y1)
         ax.autoscale(False)
         Frontend(ctx, MatplotlibBackend(ax), config=CFG).draw_entities(entities)
+        darken_invisible_artists(ax)
         # re-imposer par securite au cas ou draw_entities aurait relaxe
         ax.set_xlim(x0, x1)
         ax.set_ylim(y0, y1)
