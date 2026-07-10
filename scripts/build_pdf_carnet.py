@@ -41,12 +41,27 @@ ctx = RenderContext(doc)
 # tout test de recoupement fenetre/entite si on les gardait.
 MAX_ENTITY_SPAN = 5000
 
-# reperes internes "n°1".."n°65" (calque Dessin_TEXTES, hauteur 10.0, ~4x le
-# texte d'annotation courant ~2.5) : servent au reperage manuel dans AutoCAD,
-# pas destines a l'impression. Places pres du contenu reel de chaque folio,
-# ils "polluent" anchor_window quand plusieurs folios sont resserres (cluster
-# 30-33/37/39) -> bbox gonflee qui deborde sur les folios voisins, et
-# s'affichent eux-memes comme d'enormes chiffres parasites sur la page.
+# Le carnet contient plusieurs categories de TEXT/entites de service AutoCAD
+# NON destinees a l'impression, mais qui contaminent le rendu si elles sont
+# rasterisees :
+#
+#  (a) reperes "n°1".."n°65" (calque Dessin_TEXTES, h=10) : navigation manuelle
+#      dans le model. S'affichent comme d'enormes chiffres parasites et
+#      gonflent anchor_window (cluster 30-33/37/39 -> contamination croisee).
+#
+#  (b) titres macro de navigation (calque Dessin_TEXTES, h=60/100/300) : "FPM",
+#      "DEG", "Partie courante en radier (structure en PM)", "Detail 1/2/3",
+#      "Jonction Tunnel ..." — decoupent la matrice du model en zones, pas
+#      destines a l'imprime. Le "PM)" geant vu sur folio 30/31 vient d'ici.
+#
+#  (c) calque 'Remarques - Prise en compte' (252 entites) : commentaires de
+#      travail internes (annotations Bertrand/Alexandre), a ne jamais imprimer.
+#
+# Le texte d'annotation legitime du carnet plafonne a h=5.0 (77 TEXT). Tout
+# TEXT h>15 est necessairement un titre de navigation ou un artefact de la
+# matrice de travail hors champ.
+NOTES_LAYER = "Remarques - Prise en compte"
+MAX_LEGITIMATE_TEXT_HEIGHT = 15.0
 LOCATOR_RX = re.compile(r"^\s*n°\s*\d+\s*$")
 
 def is_locator_label(e):
@@ -61,13 +76,35 @@ def is_locator_label(e):
     except Exception:
         return False
 
+def is_oversized_text(e):
+    if e.dxftype() != "TEXT":
+        return False
+    try:
+        return e.dxf.height > MAX_LEGITIMATE_TEXT_HEIGHT
+    except Exception:
+        return False
+
+def is_internal_note(e):
+    try:
+        return e.dxf.layer == NOTES_LAYER
+    except Exception:
+        return False
+
 print("Calcul des boites englobantes de toutes les entites du Model...", file=sys.stderr)
 _BBOX_CACHE = []
 skipped_huge = 0
 skipped_locator = 0
+skipped_titles = 0
+skipped_notes = 0
 for e in msp:
+    if is_internal_note(e):
+        skipped_notes += 1
+        continue
     if is_locator_label(e):
         skipped_locator += 1
+        continue
+    if is_oversized_text(e):
+        skipped_titles += 1
         continue
     try:
         ext = ezdxf.bbox.extents([e], fast=True)
@@ -81,8 +118,10 @@ for e in msp:
         continue
     _BBOX_CACHE.append((e, ext.extmin.x, ext.extmax.x, ext.extmin.y, ext.extmax.y))
 print(f"  {len(_BBOX_CACHE)}/{len(msp)} entites avec bbox valide "
-      f"({skipped_huge} exclues : bbox > {MAX_ENTITY_SPAN}u, blocs orphelins hors champ ; "
-      f"{skipped_locator} exclues : reperes internes 'n°NN' non destines a l'impression)",
+      f"(exclusions : {skipped_huge} bbox > {MAX_ENTITY_SPAN}u, "
+      f"{skipped_locator} reperes 'n°NN', "
+      f"{skipped_titles} TEXT h>{MAX_LEGITIMATE_TEXT_HEIGHT} (titres macro), "
+      f"{skipped_notes} calque '{NOTES_LAYER}')",
       file=sys.stderr)
 
 def ents_in(x0, x1, y0, y1, margin=150):
