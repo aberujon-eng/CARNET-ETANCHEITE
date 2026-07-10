@@ -64,6 +64,15 @@ NOTES_LAYER = "Remarques - Prise en compte"
 MAX_LEGITIMATE_TEXT_HEIGHT = 15.0
 LOCATOR_RX = re.compile(r"^\s*n°\s*\d+\s*$")
 
+# calques dont la propriete AutoCAD 'Plot' est desactivee (traits de
+# construction, Defpoints, calques _NON_IMPRIMABLE_) : par convention
+# jamais rasterises. Ces LINE peuvent etre geantes (une ligne verticale
+# de 3773 u sur Defpoints etendrait la fenetre d'un folio a x8 sa taille).
+NON_PLOTTABLE_LAYERS = {l.dxf.name for l in doc.layers if not l.dxf.plot}
+print(f"  {len(NON_PLOTTABLE_LAYERS)} calques non-imprimables (plot=0) : "
+      f"{sorted(NON_PLOTTABLE_LAYERS)[:8]}{'...' if len(NON_PLOTTABLE_LAYERS) > 8 else ''}",
+      file=sys.stderr)
+
 def is_locator_label(e):
     if e.dxftype() != "TEXT":
         return False
@@ -90,13 +99,23 @@ def is_internal_note(e):
     except Exception:
         return False
 
+def is_non_plottable(e):
+    try:
+        return e.dxf.layer in NON_PLOTTABLE_LAYERS
+    except Exception:
+        return False
+
 print("Calcul des boites englobantes de toutes les entites du Model...", file=sys.stderr)
 _BBOX_CACHE = []
 skipped_huge = 0
 skipped_locator = 0
 skipped_titles = 0
 skipped_notes = 0
+skipped_nonplot = 0
 for e in msp:
+    if is_non_plottable(e):
+        skipped_nonplot += 1
+        continue
     if is_internal_note(e):
         skipped_notes += 1
         continue
@@ -118,7 +137,8 @@ for e in msp:
         continue
     _BBOX_CACHE.append((e, ext.extmin.x, ext.extmax.x, ext.extmin.y, ext.extmax.y))
 print(f"  {len(_BBOX_CACHE)}/{len(msp)} entites avec bbox valide "
-      f"(exclusions : {skipped_huge} bbox > {MAX_ENTITY_SPAN}u, "
+      f"(exclusions : {skipped_nonplot} calques plot=0, "
+      f"{skipped_huge} bbox > {MAX_ENTITY_SPAN}u, "
       f"{skipped_locator} reperes 'n°NN', "
       f"{skipped_titles} TEXT h>{MAX_LEGITIMATE_TEXT_HEIGHT} (titres macro), "
       f"{skipped_notes} calque '{NOTES_LAYER}')",
