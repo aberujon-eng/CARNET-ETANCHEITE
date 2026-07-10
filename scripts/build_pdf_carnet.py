@@ -31,7 +31,10 @@ DXF_IN, PDF_OUT = sys.argv[1], sys.argv[2]
 
 doc = ezdxf.readfile(DXF_IN)
 msp = doc.modelspace()
-CFG = Configuration(background_policy=BackgroundPolicy.WHITE, color_policy=ColorPolicy.BLACK)
+# COLOR_SWAP_BW : preserve les couleurs des entites, et echange blanc<->noir
+# pour que les traits ACI 7 (blanc dans le model AutoCAD conçu fond noir)
+# soient rendus en noir sur le fond blanc du PDF.
+CFG = Configuration(background_policy=BackgroundPolicy.WHITE, color_policy=ColorPolicy.COLOR_SWAP_BW)
 ctx = RenderContext(doc)
 
 # au-dela de cette taille, une entite ne peut pas etre le contenu legitime
