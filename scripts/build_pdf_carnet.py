@@ -326,6 +326,10 @@ with PdfPages(PDF_OUT) as pdf:
         ax.axis("off")
         entities = ents_in(x0, x1, y0, y1)
         Frontend(ctx, MatplotlibBackend(ax), config=CFG).draw_entities(entities)
+        # ezdxf force aspect='equal' avec adjustable='datalim' -> etend les axes
+        # pour englober toutes les entites (y compris parties qui debordent
+        # notre fenetre voulue). On repasse en 'box' pour clipper strictement.
+        ax.set_aspect('equal', adjustable='box')
         ax.set_xlim(x0, x1)
         ax.set_ylim(y0, y1)
         title = name.split(" - ", 1)[1] if " - " in name else name
