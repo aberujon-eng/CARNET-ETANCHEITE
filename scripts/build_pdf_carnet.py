@@ -34,6 +34,30 @@ msp = doc.modelspace()
 CFG = Configuration(background_policy=BackgroundPolicy.WHITE, color_policy=ColorPolicy.BLACK)
 ctx = RenderContext(doc)
 
+print("Calcul des boites englobantes de toutes les entites du Model...", file=sys.stderr)
+_BBOX_CACHE = []
+for e in msp:
+    try:
+        ext = ezdxf.bbox.extents([e], fast=True)
+    except Exception:
+        continue
+    if ext.has_data:
+        _BBOX_CACHE.append((e, ext.extmin.x, ext.extmax.x, ext.extmin.y, ext.extmax.y))
+print(f"  {len(_BBOX_CACHE)}/{len(msp)} entites avec bbox valide", file=sys.stderr)
+
+def ents_in(x0, x1, y0, y1, margin=150):
+    """Renvoie les entites dont la boite englobante recoupe la fenetre
+    (elargie de margin), quel que soit leur type (LWPOLYLINE, HATCH,
+    SPLINE, INSERT... inclus, contrairement a un simple test de point
+    d'ancrage)."""
+    wx0, wx1, wy0, wy1 = x0 - margin, x1 + margin, y0 - margin, y1 + margin
+    out = []
+    for e, ex0, ex1, ey0, ey1 in _BBOX_CACHE:
+        if ex1 < wx0 or ex0 > wx1 or ey1 < wy0 or ey0 > wy1:
+            continue
+        out.append(e)
+    return out
+
 def far_viewport_window(layout_name):
     best = None
     for v in doc.layout(layout_name):
@@ -99,25 +123,6 @@ ANCHOR_FALLBACK = {
     37: r'Détail ancrage par Bride|Système Bride',
     39: r'Soudure manuelle sur tôle colaminée',
 }
-
-def ents_in(x0, x1, y0, y1, margin=150):
-    out = []
-    for e in msp:
-        p = None
-        for attr in ("insert", "start", "center"):
-            try:
-                p = getattr(e.dxf, attr)
-                break
-            except Exception:
-                continue
-        if p is None:
-            try:
-                p = e.context.base_point  # MULTILEADER
-            except Exception:
-                continue
-        if x0 - margin <= p.x <= x1 + margin and y0 - margin <= p.y <= y1 + margin:
-            out.append(e)
-    return out
 
 layouts = []
 for name in doc.layout_names_in_taborder():
