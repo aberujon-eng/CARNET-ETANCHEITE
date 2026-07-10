@@ -276,6 +276,42 @@ def locator_window(folio_num, default_half=400, neighbor_radius=900):
         return None
     return (x0, x1, y0, y1)
 
+def voronoi_clipped_content_window(folio_num, probe_radius=280):
+    """Cellule Voronoi *serree* sur le contenu reel :
+    - le repere 'n°NN' n'est pas au centre du folio, donc une simple fenetre
+      centree y laisse de l'espace vide et coupe une partie du contenu ;
+    - on calcule la vraie bbox des entites proches (rayon probe_radius) puis
+      on clippe par la cellule Voronoi du folio (protection anti-contamination
+      des folios voisins) et on ajoute une marge de 5%."""
+    p = _LOCATORS.get(folio_num)
+    if p is None:
+        return None
+    ax, ay = p
+    lw = locator_window(folio_num, default_half=max(probe_radius, 500))
+    nearby = ents_in(ax - probe_radius, ax + probe_radius,
+                     ay - probe_radius, ay + probe_radius, margin=0)
+    xs0, xs1, ys0, ys1 = [], [], [], []
+    for e in nearby:
+        try:
+            ext = ezdxf.bbox.extents([e], fast=True)
+            if ext.has_data:
+                xs0.append(ext.extmin.x); xs1.append(ext.extmax.x)
+                ys0.append(ext.extmin.y); ys1.append(ext.extmax.y)
+        except Exception:
+            pass
+    if not xs0:
+        return lw
+    x0, x1 = min(xs0), max(xs1)
+    y0, y1 = min(ys0), max(ys1)
+    if lw is not None:
+        x0 = max(x0, lw[0]); x1 = min(x1, lw[1])
+        y0 = max(y0, lw[2]); y1 = min(y1, lw[3])
+    if x1 <= x0 or y1 <= y0:
+        return lw
+    mx = max((x1 - x0) * .05, 5)
+    my = max((y1 - y0) * .05, 5)
+    return (x0 - mx, x1 + mx, y0 - my, y1 + my)
+
 # Fallback textuel : conserve pour les onglets sans repere 'n°NN' localise
 ANCHOR_FALLBACK = {
     4:  r'Radier du Puits',
@@ -286,6 +322,14 @@ ANCHOR_FALLBACK = {
     37: r'Détail ancrage par Bride|Système Bride',
     39: r'Soudure manuelle sur tôle colaminée',
 }
+
+# Folios dont le contenu est en matrice partagee avec des voisins (clusters
+# 30-33 / 37-39, plus folio 35 sans texte d'ancre exploitable) : le fenetrage
+# par ancre texte englobe systematiquement les folios voisins -> Voronoi
+# obligatoire.
+# Folios standalone (4, 8) : l'anchor_window donne une bbox correcte du
+# contenu ; Voronoi est trop restrictive et coupe leurs details.
+VORONOI_FOLIOS = {30, 31, 32, 35, 37, 39}
 
 layouts = []
 for name in doc.layout_names_in_taborder():
@@ -314,13 +358,17 @@ with PdfPages(PDF_OUT) as pdf:
             continue
         win = far_viewport_window(name)
         method = "viewport far-field"
-        if win is None:
-            win = locator_window(num)
+        if win is None and num in VORONOI_FOLIOS:
+            win = voronoi_clipped_content_window(num)
             if win is not None:
-                method = "repere n°NN + Voronoi"
+                method = "n°NN + bbox contenu ∩ Voronoi"
         if win is None and num in ANCHOR_FALLBACK:
             win = anchor_window(ANCHOR_FALLBACK[num])
             method = "ancre texte (fallback)"
+        if win is None:
+            win = locator_window(num)
+            if win is not None:
+                method = "repere n°NN (dernier recours)"
         if win is None:
             title = name.split(" - ", 1)[1] if " - " in name else name
             fig = plt.figure(figsize=(16.5, 10))
