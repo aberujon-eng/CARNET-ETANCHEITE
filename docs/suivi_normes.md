@@ -19,31 +19,37 @@ Travail continu jour et nuit via trigger 4h, sur plusieurs jours.
 | 7 | AFTES_GT9R10F1_TOS159_2000_...pdf | GT9.R10F1 — étanchéité et drainage OS | 2000 | **REMPLACÉE par GT9.R19F1** (24 p., historique) |
 | 8 | AFTES_TOS168_2001_...pdf | TOS 168 — étanchéité OS, informations/recommandations | 2001 | article 2 **REMPLACÉ par GT9.R19F1** |
 | 9 | AFTES_GT9R15F1_TOS183_2004_ecrans_protection_DEG_...pdf | GT9.R15F1 — dimensionnement écrans de protection DEG | 2004 | **REMPLACÉE par GT9.R19F1** (14 p., historique) |
+| 10 | F67_TitreIII_commente_CETU_2019.pdf | **Fascicule 67 Titre III version commentée** (CCTG étanchéité OS) | mars 2019 | référence de base du carnet (84 p.) — reçu 2026-07-13 |
+| 11 | GT9_C10F1_publication_structures_integrees.pdf | AFTES GT9.C10F1 — Cahier 10 étanchement des structures intégrées | oct. 2023 | **PUBLICATION** (96 p.) — reçu 2026-07-13 |
 
 Non fournis en PDF : GT9.C1F1 (valeurs p.81 connues via mail Bertrand),
-Cahier 2 (statut = point bloqué n°1), Fascicule 67-III, GT9.R19F1.
-→ demander à Alexandre si besoin de citations précises supplémentaires.
+Cahier 2 (statut = point bloqué n°1), GT9.R19F1.
+⚠️ Alexandre annonçait « 4 nouveaux documents » dont « GT9C6F1 » le
+2026-07-13 au soir : seuls 2 fichiers sont arrivés (F67-III commenté +
+C10F1). **Le C6F1 n'a PAS été reçu** → à redemander au prochain jalon.
 
 ## Lots de travail (un ou plusieurs lots par réveil 4h)
 
 | Lot | Contenu | Statut |
 |-----|---------|--------|
 | N0 | Rangement corpus, plan, trigger 4h | **FAIT** (2026-07-13) |
-| N1 | Lecture GT9.R1F2 arrêts d'eau → `docs/normes/extraits_R1F2.md` (folios 27, 34, 40-43, 65 : injections, arrêts d'eau, hydrogonflants) | À FAIRE |
-| N2 | Lecture GT9.R9F1 voussoirs hydrogonflants → extraits (folios 9/10, 22/23, 24 : jonctions tunnel foré, découpe voussoirs) | À FAIRE |
-| N3 | Lecture C3F1 mise hors d'eau → extraits (mise hors d'eau provisoire, pompages — lien NOTA phasage folios 31/33/34) | À FAIRE |
-| N4 | Lecture C5F1 protections mécaniques → extraits (chapes/écrans : folios 15/33/34/36/40-43/46-48/51 « béton de protection », écran sup DEG) | À FAIRE |
-| N5 | Lecture C9F1 mixte + raccordements existants → extraits (folios 45, 61-63 raccords DEG/FPM/SELA ; réparations) | À FAIRE |
-| N6 | Lecture STRRES FAEQ2 ch. 3/4/5 (diagnostic, réparation, essais) → extraits (folio réparation DEG à créer ; NOTA contrôles) | À FAIRE |
-| N7 | Balayage R10F1/R15F1/TOS168 (remplacées) : vérifier que le carnet ne cite aucune référence périmée ; sinon basculer vers R19F1/cahiers | À FAIRE |
-| N8 | Relevé du guide couleur du carnet (légendes DXF, calques) → `docs/normes/guide_couleur.md` | À FAIRE |
-| N9 | Application reprises TEXTE (NOTA, renvois normatifs) issues de N1-N7 — hors 5 points bloqués | À FAIRE |
-| N10 | Modifications GRAPHIQUES ciblées (couleurs selon guide_couleur.md) : P50 anti-intrusion + entretenabilité (DESSIN), compléments simples | À FAIRE |
-| N11 | Création folio 00 « Références et contrôles » (hiérarchie normative complète + valeurs C1 p.81 du mail) | À FAIRE |
-| N12 | Autres folios à créer (arrêt DEG voussoir, drainage R19F1, traversées, tableau de choix, réparation DEG) — selon faisabilité, graphiques sobres | À FAIRE |
-| N13 | Régénération PDF couleur + contrôle visuel élargi (pdftoppm, ≥ 12 pages) | À FAIRE |
-| N14 | Rapport final `docs/rapport_maj_normes.md` (modif par modif : quoi / folio / justification / norme) + MAJ Excel avancement | À FAIRE |
-| N15 | Livraison à Alexandre + désactivation du trigger | À FAIRE |
+| N1 | Lecture **F67-III commenté** (base du carnet, priorité) → `docs/normes/extraits_F67III.md` | À FAIRE |
+| N2 | Lecture GT9.R1F2 arrêts d'eau → `docs/normes/extraits_R1F2.md` (folios 27, 34, 40-43, 65 : injections, arrêts d'eau, hydrogonflants) | À FAIRE |
+| N3 | Lecture GT9.R9F1 voussoirs hydrogonflants → extraits (folios 9/10, 22/23, 24 : jonctions tunnel foré, découpe voussoirs) | À FAIRE |
+| N4 | Lecture C3F1 mise hors d'eau → extraits (mise hors d'eau provisoire, pompages — lien NOTA phasage folios 31/33/34) | À FAIRE |
+| N5 | Lecture C5F1 protections mécaniques → extraits (chapes/écrans : folios 15/33/34/36/40-43/46-48/51 « béton de protection », écran sup DEG) | À FAIRE |
+| N6 | Lecture C9F1 mixte + raccordements existants → extraits (folios 45, 61-63 raccords DEG/FPM/SELA ; réparations) | À FAIRE |
+| N7 | Lecture **C10F1 structures intégrées (publication)** → extraits (pertinence folios gares/structures : 12-25, 61-64) | À FAIRE |
+| N8 | Lecture STRRES FAEQ2 ch. 3/4/5 (diagnostic, réparation, essais) → extraits (folio réparation DEG à créer ; NOTA contrôles) | À FAIRE |
+| N9 | Balayage R10F1/R15F1/TOS168 (remplacées) : vérifier que le carnet ne cite aucune référence périmée ; sinon basculer vers R19F1/cahiers | À FAIRE |
+| N10 | Relevé du guide couleur du carnet (légendes DXF, calques) → `docs/normes/guide_couleur.md` | À FAIRE |
+| N11 | Application reprises TEXTE (NOTA, renvois normatifs) issues de N1-N9 — hors 5 points bloqués | À FAIRE |
+| N12 | Modifications GRAPHIQUES ciblées (couleurs selon guide_couleur.md) : P50 anti-intrusion + entretenabilité (DESSIN), compléments simples | À FAIRE |
+| N13 | Création folio 00 « Références et contrôles » (hiérarchie normative complète + valeurs C1 p.81 du mail) | À FAIRE |
+| N14 | Autres folios à créer (arrêt DEG voussoir, drainage R19F1, traversées, tableau de choix, réparation DEG) — selon faisabilité, graphiques sobres | À FAIRE |
+| N15 | Régénération PDF couleur + contrôle visuel élargi (pdftoppm, ≥ 12 pages) | À FAIRE |
+| N16 | Rapport final `docs/rapport_maj_normes.md` (modif par modif : quoi / folio / justification / norme) + MAJ Excel avancement | À FAIRE |
+| N17 | Livraison à Alexandre + désactivation du trigger 4h et arrêt du /loop | À FAIRE |
 
 ## Règles permanentes
 - **5 points BLOQUÉS intacts** (décision Bertrand Verrière) : statut Cahier 2 ·
