@@ -33,7 +33,7 @@ C10F1). **Le C6F1 n'a PAS été reçu** → à redemander au prochain jalon.
 | Lot | Contenu | Statut |
 |-----|---------|--------|
 | N0 | Rangement corpus, plan, trigger 4h | **FAIT** (2026-07-13) |
-| N1 | Lecture **F67-III commenté** (base du carnet, priorité) → `docs/normes/extraits_F67III.md` | **EN COURS** (2026-07-13 : structure + préambule faits, curseur ligne 370 ; ⚠️ R1F3 existe, notre R1F2 est antérieure) |
+| N1 | Lecture **F67-III commenté** (base du carnet, priorité) → `docs/normes/extraits_F67III.md` | **FAIT** (2026-07-13/14 : chap. 1 terminologie + chap. 2 + chap. 3 intégraux ; ⚠️ R1F3 existe, notre R1F2 est antérieure — à demander à Alexandre) |
 | N2 | Lecture GT9.R1F2 arrêts d'eau → `docs/normes/extraits_R1F2.md` (folios 27, 34, 40-43, 65 : injections, arrêts d'eau, hydrogonflants) | À FAIRE |
 | N3 | Lecture GT9.R9F1 voussoirs hydrogonflants → extraits (folios 9/10, 22/23, 24 : jonctions tunnel foré, découpe voussoirs) | À FAIRE |
 | N4 | Lecture C3F1 mise hors d'eau → extraits (mise hors d'eau provisoire, pompages — lien NOTA phasage folios 31/33/34) | À FAIRE |
