@@ -1,0 +1,60 @@
+# Intégration du corpus normatif — plan de travail autonome (trigger 4h)
+
+Demande Alexandre (2026-07-13) : mettre à jour le carnet (DXF source + PDF
+couleurs) en prenant en compte **toutes les normes transmises**, modifications
+graphiques autorisées **en suivant le guide couleur du carnet DXF**, et rendre
+un **résumé justifié modification par modification avec la norme citée**.
+Travail continu jour et nuit via trigger 4h, sur plusieurs jours.
+
+## Corpus (docs/normes/) — 9 documents
+
+| # | Fichier | Référence | Date | Statut normatif |
+|---|---------|-----------|------|-----------------|
+| 1 | STRRES_FAEQ2_2009_entretien_reparation_etancheites.pdf | Guide STRRES FAEQ2 « Étanchéités » | déc. 2009 | guide métier entretien/réparation (93 p.) |
+| 2 | GT9_C3F1_prepub_mise_hors_deau.pdf | AFTES GT9.C3F1 — Cahier 3 mise hors d'eau provisoire | mai 2024 | **PRÉPUBLICATION** (30 p.) |
+| 3 | GT9_C5F1_prepub_protections_mecaniques.pdf | AFTES GT9.C5F1 — Cahier 5 protections mécaniques | mai 2024 | **PRÉPUBLICATION** (36 p.) |
+| 4 | GT9_C9F1_prepub_mixte_raccordement_existants.pdf | AFTES GT9.C9F1 — Cahier 9 étanchéité mixte + raccordements aux existants | janv. 2024 | **PRÉPUBLICATION** (64 p.) |
+| 5 | AFTES_GT9R1F2_TOS194-195_2006_arrets_deau.pdf | GT9.R1F2 — traitement d'arrêts d'eau | 2006 | en vigueur (46 p.) |
+| 6 | AFTES_GT9R9F1_TOS151_1999_voussoirs_hydrogonflants.pdf | GT9.R9F1 — voussoirs, joints hydrogonflants | 1999 | en vigueur (18 p.) |
+| 7 | AFTES_GT9R10F1_TOS159_2000_...pdf | GT9.R10F1 — étanchéité et drainage OS | 2000 | **REMPLACÉE par GT9.R19F1** (24 p., historique) |
+| 8 | AFTES_TOS168_2001_...pdf | TOS 168 — étanchéité OS, informations/recommandations | 2001 | article 2 **REMPLACÉ par GT9.R19F1** |
+| 9 | AFTES_GT9R15F1_TOS183_2004_ecrans_protection_DEG_...pdf | GT9.R15F1 — dimensionnement écrans de protection DEG | 2004 | **REMPLACÉE par GT9.R19F1** (14 p., historique) |
+
+Non fournis en PDF : GT9.C1F1 (valeurs p.81 connues via mail Bertrand),
+Cahier 2 (statut = point bloqué n°1), Fascicule 67-III, GT9.R19F1.
+→ demander à Alexandre si besoin de citations précises supplémentaires.
+
+## Lots de travail (un ou plusieurs lots par réveil 4h)
+
+| Lot | Contenu | Statut |
+|-----|---------|--------|
+| N0 | Rangement corpus, plan, trigger 4h | **FAIT** (2026-07-13) |
+| N1 | Lecture GT9.R1F2 arrêts d'eau → `docs/normes/extraits_R1F2.md` (folios 27, 34, 40-43, 65 : injections, arrêts d'eau, hydrogonflants) | À FAIRE |
+| N2 | Lecture GT9.R9F1 voussoirs hydrogonflants → extraits (folios 9/10, 22/23, 24 : jonctions tunnel foré, découpe voussoirs) | À FAIRE |
+| N3 | Lecture C3F1 mise hors d'eau → extraits (mise hors d'eau provisoire, pompages — lien NOTA phasage folios 31/33/34) | À FAIRE |
+| N4 | Lecture C5F1 protections mécaniques → extraits (chapes/écrans : folios 15/33/34/36/40-43/46-48/51 « béton de protection », écran sup DEG) | À FAIRE |
+| N5 | Lecture C9F1 mixte + raccordements existants → extraits (folios 45, 61-63 raccords DEG/FPM/SELA ; réparations) | À FAIRE |
+| N6 | Lecture STRRES FAEQ2 ch. 3/4/5 (diagnostic, réparation, essais) → extraits (folio réparation DEG à créer ; NOTA contrôles) | À FAIRE |
+| N7 | Balayage R10F1/R15F1/TOS168 (remplacées) : vérifier que le carnet ne cite aucune référence périmée ; sinon basculer vers R19F1/cahiers | À FAIRE |
+| N8 | Relevé du guide couleur du carnet (légendes DXF, calques) → `docs/normes/guide_couleur.md` | À FAIRE |
+| N9 | Application reprises TEXTE (NOTA, renvois normatifs) issues de N1-N7 — hors 5 points bloqués | À FAIRE |
+| N10 | Modifications GRAPHIQUES ciblées (couleurs selon guide_couleur.md) : P50 anti-intrusion + entretenabilité (DESSIN), compléments simples | À FAIRE |
+| N11 | Création folio 00 « Références et contrôles » (hiérarchie normative complète + valeurs C1 p.81 du mail) | À FAIRE |
+| N12 | Autres folios à créer (arrêt DEG voussoir, drainage R19F1, traversées, tableau de choix, réparation DEG) — selon faisabilité, graphiques sobres | À FAIRE |
+| N13 | Régénération PDF couleur + contrôle visuel élargi (pdftoppm, ≥ 12 pages) | À FAIRE |
+| N14 | Rapport final `docs/rapport_maj_normes.md` (modif par modif : quoi / folio / justification / norme) + MAJ Excel avancement | À FAIRE |
+| N15 | Livraison à Alexandre + désactivation du trigger | À FAIRE |
+
+## Règles permanentes
+- **5 points BLOQUÉS intacts** (décision Bertrand Verrière) : statut Cahier 2 ·
+  écran sup 19/10 vs 20/10 · engravures folio 38 · raccord DEG/FPM folio 45 ·
+  seuil > 10 m folio 27. Les cahiers C3/C5/C9 fournis n'incluent PAS le
+  Cahier 2 : le point 1 reste bloqué.
+- Les prépublications (C3F1/C5F1/C9F1) sont citées avec la mention
+  « (prépublication) » dans le carnet.
+- R10F1/R15F1/TOS168-art.2 sont REMPLACÉES : ne jamais les citer comme
+  référence active — historique seulement.
+- Commit + push à chaque lot terminé (l'environnement est éphémère).
+- PDF régénéré seulement après modifications de la source.
+- Ne pas déranger Alexandre à chaque réveil : messages seulement aux jalons
+  (fin de lecture corpus, fin des reprises, livraison finale) ou si blocage.

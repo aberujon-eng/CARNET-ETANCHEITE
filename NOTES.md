@@ -1,6 +1,15 @@
 # État d'avancement — MAJ carnet détails étanchéité OS (source DXF)
 
-Dernière mise à jour : 2026-07-05, session autonome.
+Dernière mise à jour : 2026-07-13.
+
+## NOUVEAU (2026-07-13) — corpus normatif complet reçu, campagne autonome
+Alexandre a transmis 9 documents normatifs (rangés dans `docs/normes/`,
+inventaire + plan de lots dans `docs/suivi_normes.md`). Mission : carnet à
+jour (DXF + PDF couleurs), modifications graphiques autorisées selon le
+guide couleur du carnet, rapport final justifié norme par norme. Trigger
+4h actif (jour et nuit) jusqu'à livraison — le désactiver à la fin (N15).
+Rendu PDF couleur : `scripts/build_pdf_carnet.py` (ColorPolicy.COLOR +
+post-traitement anti-blanc `darken_invisible_artists`).
 
 ## Fait — passe 1 sur la source DXF (v02)
 
