@@ -1,0 +1,765 @@
+                    ASSOCIATION FRANÇAISE DES TUNNELS
+                            ET DE L’ESPACE SOUTERRAIN
+
+                             Organisation nationale adhérente à l’AITES
+www.aftes.asso.fr
+
+
+
+
+  Recommandations
+     de l’AFT E S
+
+           Dimensionnement des
+          écrans de protection des
+           dispositifs d’étanchéité
+              par géomembrane
+                         GT9R15F1
+                                                                                             AFTES
+                                                              RECOMMANDATIONS RELATIVES AU
+
+           DIMENSIONNEMENT DES ECRANS DE PROTECTION
+          DES DISPOSITIFS D’ETANCHEITE PAR GEOMEMBRANE
+
+                               L’A.F.T.E.S. recueillera avec intérêt toute suggestion relative à ce texte.
+
+
+
+ Version 1 – approuvée par le Comité Technique du 3 juin 2004
+
+                                                                                            Texte présenté par
+                                  Jean-Louis MAHUET - Animateur du GT N° 9 " Etanchéité des Ouvrages Souterrains "
+                                                                        Ont participé à l’élaboration du document :
+      Agnès GRISARD : ICOPAL – Jean-Paul BENNETON : LRPC CETE de Lyon – Laurent SAUGER : LRPC CETE de Lyon –
+      Philippe JOLLY : SYNCOTEX – Jean SOUSA : SETEC – Jean-François JABY : E.O.S – Géraud NUMITOR : SACAN SA –
+   Jacky DENYS : CETCO – Christophe FABRY : SEMALY/EGIS – Pierre AILLAUD : GCC – Jean-Louis MAHUET : SEMALY/EGIS
+                                                      Sont à remercier pour leur participation à la relecture du document :
+                                 D. BRUNET – G. COLOMBET et D. MERAKEB du Comité Technique de l’AFTES
+
+
+
+
+                                                                                      SOMMAIRE
+
+                                                                                             Pages                                                                                             Pages
+1 - PREAMBULE - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -       138      5 - SYNTHESE DES ESSAIS REALISES EN LABORATOIRE - - -                                   140
+                                                                                                       5.1 - Présentation sommaire des essais réalisés - - - - - - - - - - - -                 140
+2 - DOMAINE D’APPLICATION DES RECOMMANDATIONS - - -                                           138
+                                                                                                       5.2 - Rappels sur l'essai de poinçonnement dynamique - - - - - -                        140
+3 - TERMINOLOGIE - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -                   5.3 - Matériaux utilisés - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -    140
+3.1- Dispositif d’Etanchéité par Géomembrane - - - - - - - - - - -                            138      5.4 - Résultats d'essais - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -    140
+3.2 - Définition des protections - - - - - - - - - - - - - - - - - - - - - - -                139
+                                                                                                       6 - TABLEAU DE SYNTHESE DU DIMENSIONNEMENT
+   3.2.1 - Protections faisant partie du procédé d’étanchéité
+                                                                                                       DES ECRANS DE PROTECTION - - - - - - - - - - - - - - - - - - - - - -                    141
+             – article 7.4.2.3 du texte du Fascicule 67 –
+             Titre III du C.C.T.G - - - - - - - - - - - - - - - - - - - - - - - - - - - -     139      7 - CARACTERISTIQUES PHYSICO-MECANIQUES
+   3.2.2 - Protection complémentaire ne faisant pas partie                                             DES GEOTEXTILES - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -         141
+      du procédé d’étanchéité – article 7 de l’annexe n° 4
+                                                                                                       8 - RAPPEL DES RECOMMANDATIONS POUR LES
+      du Fascicule 67 – Titre III du C.C.T.G. - - - - - - - - - - - - - - -                   139
+                                                                                                       TERRASSEMENTS ROUTIERS - - - - - - - - - - - - - - - - - - - - - - - -                  142
+3.3 - Rappel de la composition d’un D.E.G conforme à la classe
+                                                                                                       8.1 - Classification des sols et des matériaux rocheux
+   2 de la résistance au poinçonnement dynamique
+                                                                                                       (classes A, B, C, D, E et R) - - - - - - - - - - - - - - - - - - - - - - - - - - -      142
+    (article 7.4.2.3 du Fascicule 67 – Titre III). - - - - - - - - - - - - -                  139
+                                                                                                       8.2 - Agressivité des matériaux de remblais sur le D.E.G.- - - - -                      143
+   3.3.1 - D.E.G. par géomembrane synthétique - - - - - - - - - -                             139
+                                                                                                       8.3 - Mise en œuvre des remblais - - - - - - - - - - - - - - - - - - - - - -            143
+   3.3.2 - D.E.G. par géomembrane bitumineuse - - - - - - - - - -                             139
+3.4 - Conformité du D.E.G. aux classes de résistance au                                                9 - LEXIQUE - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -   144
+   poinçonnement dynamique- - - - - - - - - - - - - - - - - - - - - - - -                     139
+                                                                                                       10 - BIBLIOGRAPHIE - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -          144
+4 - SYNTHESE DES PLANCHES D’ESSAIS REALISEES
+                                                                                                       11 - ANNEXE - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -     145
+SUR LE SITE - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -        139
+
+
+
+
+                                                                             T U N N E L S E T O U V R A G E S S O U T E R R A I N S - N° 183 - MAI/JUIN 2004                                   137
+  Recommandations relatives aux dimensionnement des écrans de protection des dispositifs d’étanchéité par géomembrane
+
+1 - PREAMBULE
+A la demande de la profession le Groupe de
+Travail N° 9 de l’AFTES a entrepris dès 2000
+l’établissement de recommandations rela-
+tives au dimensionnement des écrans de pro-
+tection des Dispositifs d’Etanchéité par
+Géomembrane (D.E.G.). Compte tenu de
+l’importance et de l’urgence de publication,
+notamment des nouvelles compositions des
+D.E.G en fonction de " l’agressivité " des
+matériaux de remblais mis en œuvre, une
+présentation de ces recommandations a été
+faite dans le T.O.S. (1) n° 181 de janvier/février
+2004. Les caractéristiques physico-méca-
+
+
+
+
+                                                                        S
+niques, recommandées pour les écrans de
+protection, inférieure et supérieure, à base
+de géotextile figurent également dans cette
+première présentation.
+Cette demande de la profession résulte de
+contentieux récemment apparus sur certains
+chantiers d’ouvrages souterrains ou le D.E.G.
+a été plus ou moins endommagé lors de la                         Photo 1 - Endommagement d’un D.E.G. synthétique par le remblaiement (photo SEMALY)
+
+
+
+
+   E
+mise en œuvre de matériaux de remblais de
+nature et de granulométrie très différentes.
+Rappelons à ce propos que la réglementa-
+tion, représentée par le fascicule 67 – titre III
+" étanchéité des ouvrages souterrains " du
+C.C.T.G a été initialement rédigée pour l’utili-
+sation en milieu urbain de matériaux de rem-
+blai essentiellement composé de matériaux
+                                                      grer les spécifications des tableaux 3 et 4 des
+                                                      présentes recommandations.
+
+
+
+                                                      2 - DOMAINE
+                                                      D’APPLICATION DES
+                                                                                                            tels qu’ils sont présentés dans la revue Tunnels
+                                                                                                            et Ouvrages Souterrains (T.O.S.) n° 174 de
+                                                                                                            novembre/décembre 2002
+                                                                                                            Ces recommandations s’appliquent pour des
+                                                                                                            ouvrages généralement constitués de cadres
+                                                                                                            ou de voûtes en béton (travaux neufs) ou en
+                                                                                                            maçonnerie (travaux de rénovation)
+FT
+roulés. La construction d’ouvrages hors               RECOMMANDATIONS
+milieu urbain, avec notamment la réutilisation
+des matériaux du site, majoritairement                Celles-ci concernent les parties d’ouvrage et
+concassés a mis en évidence l’insuffisance            ouvrages suivants :                                   3 - TERMINOLOGIE
+des articles 7.4.2.3 du texte du Fascicule 67 –       • Tranchées couvertes,
+Titre III, et n° 7 de son annexe n° 4.                                                                      3.1.Dispositif d’Etanchéité
+                                                      • Trémies partiellement couvertes,                    par Géomembrane :
+La réalisation simultanée de planches d’es-
+sais et d’essais en laboratoire à permis au GT        • Ouvrages d’entrée et de sortie de tunnels
+N° 9 d’établir les présentes règles de dimen-         creusés ou forés (casquettes)                         Ces recommandations ne s’appliquent
+sionnement des écrans de protection d’un                                                                    qu’aux D.E.G à base de géomembrane syn-
+                                                      • Ouvrages sous plate-forme routière,
+D.E.G., en fonction de " l’agressivité " prévi-                                                             thétique (P.V.C-P (2) et EC-F (3)) et de géomem-
+                                                      autoroutière et ferroviaire, tels qu’ils sont
+sible des matériaux qui seront utilisés en rem-                                                             brane bitumineuse. Les géosynthétiques
+                                                      présentés dans la revue Tunnels et
+blaiement d’ouvrages souterrains. Ces                                                                       bentonitiques (G.S.B) ne sont pas pour l’ins-
+                                                      Ouvrages Souterrains (T.O.S.) n° 168 de
+recommandations rappellent également et                                                                     tant concernés par celles-ci, et dans l’attente
+                                                      novembre/décembre 2001,
+utilement les " règles de l’art " applicables au                                                            de recommandations spécifiques à ce pro-
+                                                      • Ouvrages de génie civil enterrés à faible           cédé, il est conseillé aux maîtres d’œuvre de
+remblaiement de ces ouvrages, " l’agressivité "
+A
+
+                                                      profondeur et sans pression hydrostatique,            se référer aux cahiers des charges de mise en
+du matériau n’étant pas la seule cause des
+sinistres récemment observés.
+Les protections complémentaires proposées
+dans le tableau n° 3, en fonction de la classe
+" d’agressivité " du remblai du site, viennent
+se rajouter et non se substituer à celles pré-
+vues par le Fascicule 67 – titre III. Le dispositif
+d’étanchéité peut faire l’objet, avec sa pro-
+tection complémentaire, d’une garantie par-
+ticulière d’une durée de 10 ans telle qu’elle
+est définie à l’article 44.1 du CCAG Travaux
+de 1976. Pour bénéficier d’une assurance de
+cette garantie particulière, le Cahier des
+Charges du procédé d’étanchéité visé par un
+Bureau de Contrôle Technique, devra inté-                Photo n° 2 - Tranchée couverte de Constans A.20         Photo n° 3 - Protection supérieure d’un D.E.G
+                                                                         (photo SEMALY)                                  bitumineux (photo SEMALY)
+
+
+
+
+138    TUNNELS ET OUVRAGES SOUTERRAINS - N° 183 - MAI/JUIN 2004
+  Recommandations relatives aux dimensionnement des écrans de protection des dispositifs d’étanchéité par géomembrane
+
+œuvre établis par les producteurs. La réalisa-   3.3.2 - D.E.G. par géomembrane                      recommandations. Un financement de
+tion de planches de convenance peut être         bitumineuse :                                       l’A.F.T.E.S a même été mobilisé pour la réali-
+également utile pour optimiser le dimension-                                                         sation des planches d’essai suivantes :
+                                                 • Protection inférieure : géotextile non
+nement de la protection supérieure des                                                               • Planche d’essai de TULLE – A.89 – secteur
+                                                 tissé d’une masse surfacique minimale de
+G.S.B en fonction de " l’agressivité " du                                                            de Naves, réalisée avec la participation de
+                                                 700 g/m2 (5)
+matériau de remblai.                                                                                 A.S.F. Maître d’ouvrage, et de SCETAU-
+                                                 • Géomembrane bitumineuse d’une épais-
+                                                                                                     ROUTE maître d’œuvre. Cette planche d’es-
+                                                 seur minimale de 4 mm.
+3.2 - Définition des                                                                                 sai a été réalisée le 8 novembre 2001 avec
+                                                 • Protection supérieure : géotextile non tissé      des matériaux utilisés sur le site particulière-
+protections :                                    d’une masse surfacique minimale de                  ment agressifs.
+3.2.1- Protections faisant partie du             700 g/m2
+                                                                                                     Les deux D.E.G suivants ont été testés :
+procédé d’étanchéité – article                                                                       - D.E.G. synthétique avec protection supé-
+7.4.2.3 du texte du Fascicule 67 –               3.4 - Conformité du D.E.G.                          rieure du type géotextile de 1600 et de
+Titre III du C.C.T.G.                            aux classes de résistance                           1800 g/m2 (avec et sans écran de protection
+
+
+
+
+                                                                  S
+• Protection inférieure : écran de protection    au poinçonnement                                    supérieure en PVC)
+mis en œuvre entre le support et la géomem-      dynamique                                           - D.E.G. bitumineux, sans protection supé-
+brane, il est généralement à base de géotex-                                                         rieure géotextile, avec protection supérieure
+tile non tissé.                                  Cette conformité est mesurée sur l’ensemble         géotextile de 700, 1200, 1400 et 1800 g/m2.
+                                                 du D.E.G à l’aide de l’essai de résistance au
+• Protection supérieure : écran de protec-       poinçonnement dynamique réalisé selon les           Les conclusions de cette première planche
+tion mis en œuvre entre la géomembrane et        modalités de la norme NF P 84-506                   d’essai ont été les suivantes :
+le remblai ou le béton du revêtement             " Détermination de la résistance au poinçon-        - D.E.G synthétique : la classe II spécifiée
+(ouvrages réalisés avec emprise). En fonction
+
+
+
+
+   E
+de la nature du D.E.G cette protection peut
+être constituée par un géotextile non tissé
+ou par une membrane synthétique de
+même nature chimique que celle de la géo-
+membrane.
+
+3.2.2 - Protection complémentaire
+ne faisant pas partie du procédé
+                                                 nement dynamique – cas d’un support rigide
+                                                 – méthode du pendule ". Les 3 classes de
+                                                 résistance au poinçonnement du procédé
+                                                 d’étanchéité sont définies à l’article VI de
+                                                 l’annexe 6 du fascicule 67 titre III du CCTG.
+                                                 La classe spécifiée pour une utilisation nor-
+                                                 male et standard d’un D.E.G synthétique ou
+                                                 bitumineux est la Classe II. Ces recommanda-
+                                                 tions proposent une nouvelle classe dénom-
+                                                                                                     par le fascicule 67 – titre III est très insuffi-
+                                                                                                     sante avec ce type de remblais. Un D.E.G.
+                                                                                                     (avec protection supérieure en synthétique)
+                                                                                                     associé à des géotextiles de fort grammage
+                                                                                                     semble mieux se comporter en présence de
+                                                                                                     tels remblais.
+                                                                                                     - D.E.G. bitumineux : le géotextile de 700
+                                                                                                     g/m2 spécifié jusqu’alors en protection supé-
+                                                                                                     rieure de ce procédé est très insuffisant pour
+FT
+d’étanchéité – article 7 de l’annexe             mée " Classe 0 " qui a notamment pour               ce type de remblais. Aucune différence n’a
+n° 4 du Fascicule 67                             objectif de mieux répondre aux sollicitations       été décelée sur la planche d’essai entre un
+Titre III du C.C.T.G.                            mécaniques induites par des matériaux de            géotextile de 1400 et 1800 g/m2.
+La nature et la composition de cette protec-     remblai particulièrement agressifs.                 - Conclusion générale : les classes 1 et 2 du
+tion complémentaire sont définies en fonc-                                                           fascicule 67 – titre III ne sont pas adaptées
+tion de la hauteur du remblai mis en œuvre                                                           pour l’utilisation de D.E.G. en présence de
+au dessus du D.E.G. Cette protection com-                                                            telles natures de remblais, par conséquent la
+plémentaire n’entre pas en compte dans la                                                            création d’une classe 0 s’impose.
+classification du procédé d’étanchéité vis-à-
+vis de la résistance au poinçonnement dyna-
+mique (voir ci-après).
+
+3.3 - Rappel de la composi-
+tion d’un D.E.G conforme à
+A
+
+la classe 2 de la résistance
+au poinçonnement
+dynamique (article 7.4.2.3
+du Fascicule 67 – Titre III).
+                                                   Photo n° 4 - Essai de poinçonnement dynamique
+                                                                                                             Photo n° 5 - Mise en place des D.E.G.
+                                                                (Photo LRPC de Lyon)
+3.3.1 - D.E.G. par géomembrane
+synthétique :                                    4 - SYNTHESE DES
+• Protection inférieure : géotextile non         PLANCHES D’ESSAIS
+tissé d’une masse surfacique minimale de         REALISEES SUR LE SITE
+700 g/m2 (4)
+• Géomembrane synthétique translucide            La réalisation de planches d’essais pour
+d’une épaisseur minimale de 20/10 de mm.         mieux appréhender le comportement des
+                                                 D.E.G en présence de remblais de nature et
+• Protection supérieure : membrane synthé-       " d’agressivités " très différentes s’est rapide-
+tique d’une épaisseur minimale de 15/10          ment imposée au GT n°9 pour établir ses
+de mm.                                                                                                       Photo n° 6 - Mise en place du remblai
+
+
+
+
+                                                       TUNNELS ET OUVRAGES SOUTERRAINS - N° 183 - MAI/JUIN 2004                                      139
+  Recommandations relatives aux dimensionnement des écrans de protection des dispositifs d’étanchéité par géomembrane
+
+• Planche d’essai de PERIGUEUX EST –               Elle a permis de constater le bon comporte-            5.2 - Rappels sur l'essai de
+A.89 – secteur 4.1 de Thenon – PI 132-22,          ment de ce D.E.G bitumineux en présence                poinçonnement dynamique
+réalisée avec la participation de A.S.F, maître    de remblais concassés moyennement agres-
+d’ouvrage, et de SETEC maître d’œuvre.             sifs (30% d’éléments < à 5 mm).                        Les essais sont réalisés avec le matériel décrit
+Cette deuxième planche d’essai a été réali-                                                               dans la norme d'essais NF P 84-506
+sée le 22 juillet 2002 avec deux types de rem-                                                            "Géomembranes - Dispositif d'étanchéité par
+blais concassés : 10/50 et 10/150 ; cependant      5 - SYNTHESE DES ESSAIS                                géomembranes (DEG) - Détermination de la
+ceux-ci présentaient une " agressivité " sensi-    REALISES EN LABORATOIRE                                résistance au poinçonnement dynamique - Cas
+blement inférieure à celle de la première                                                                 d'un support rigide - méthode du pendule"
+planche de Naves.                                   Ces essais de laboratoire ont été réalisés de         (cf. Annexe 1 aux présentes recommandations).
+                                                   novembre 2001 à novembre 2003 au LRPC
+Les deux D.E.G suivants ont été testés :                                                                  Le contrôle de la perforation éventuelle de la
+                                                   CETE de Lyon.
+- D.E.G. synthétique avec protection supé-                                                                géomembrane à l’issue de l’essai de poin-
+rieure en PVC 21/10 seule, et 17/10 avec pro-      5.1 - Présentation sommaire                            çonnement dynamique est réalisé selon les
+                                                                                                          modalités d’essais extraits de la norme NF P
+tection supplémentaire en géotextile de            des essais réalisés
+
+
+
+
+                                                                     S
+1000 g/m2 - D.E.G. synthétique sans protec-                                                               84-506 (cf. Annexe 2 aux présentes recom-
+tion supérieure en PVC mais avec protection        Le but de ces essais est multiple :                    mandations).
+en géotextile de 1500 et de 2000 g/m2
+                                                   • essayer d'établir un lien entre le comporte-         5.3 - Matériaux utilisés
+- D.E.G. bitumineux avec protection supé-          ment sur les planches d'essais et celui à l'es-
+rieure géotextile de 1500, 2000 et 2200 g/m2.      sai de poinçonnement dynamique ;                       • une géomembrane PVC-P d'épaisseur
+Les conclusions de cette deuxième planche                                                                 20/10 ème mm
+                                                   • connaître approximativement l'énergie de
+d’essai ont été les suivantes :                    poinçonnement relative à un complexe pré               • un écran de protection PVC-P d'épaisseur
+                                                   défini ; ce cas permettra en particulier de            ≥ 15/10 ème mm
+
+
+
+
+   E
+- Du fait de l’absence de perforations détec-
+tables à l’issue de la planche d’essai il a été
+difficile d’en tirer des conclusions, ce qui a
+montré les limites de ce type de planche
+d’essai (résultat du type " tout ou rien ")
+                                                   créer la nouvelle classe 0 de résistance ;
+                                                   • vérifier si un DEG pré-défini appartient bien
+                                                   à une classe donnée (sans pour cela vérifier
+                                                   s'il pourrait appartenir à la classe supérieure).
+                                                   Les résultats enregistrés pour un DEG donné
+                                                   ne sont qu'indicatifs et n'ont pas de portée
+                                                   générale puisqu'ils peuvent varier largement
+                                                                                                          • une géomembrane bitumineuse à liant
+                                                                                                          bitume polymère d'épaisseur 4 mm
+                                                                                                          • trois types de géotextiles 100 % polypro-
+                                                                                                          pylène
+                                                                                                          - non-tissés aiguilletés
+                                                                                                                 700 g/m2
+                                                                                                                 1500g/m2
+                                                                                                                 2200 g/m2
+FT
+                                                   en fonction de la nature des écrans de protec-
+                                                                                                          - non-tissé aiguilleté de fibres "haute ténacité"
+                                                   tion, même à masse surfacique ou épaisseur
+                                                                                                                 1000 g/m2
+                                                   égales. Il était donc inutile d'enregistrer des
+                                                                                                          - non-tissés composites (fabriqués à partir
+                                                   résultats précis, la procédure normalisée a été
+                                                                                                          des précédents)
+                                                   simplifiée en réduisant le nombre d'impacts.
+                                                                                                                 1200 g/m2
+                                                   Ces essais sont donc, avant tout, des essais                  1400 g/m2
+                                                   d'orientation. Il sera nécessaire de procéder à               1600 g/m2
+       Photo n° 7 - Mise en place des D.E.G.       la réalisation d'essais de validation d'un                    1800 g/m2
+                                                   D.E.G. pour le niveau d'énergie requis avant                  2000 g/m2.
+                                                   le démarrage des chantiers.
+
+                                                                                                           5.4 - Résultats d'essais
+                                                           Ecran           Géomembrane                       Ecrans supérieurs                   Classe
+                                                         inférieur            PVC – P                   géotextile          membrane
+A
+
+                                                    Masse surfacique          Epaisseur            Masse surfacique              Epaisseur          (J)
+                                                        (g/m2)                (1/10 mm)                (g/m2) 1                  (1/10 mm)
+                                                            700                   20                       700                                     <2
+      Photo n° 8 - Détail matériaux de remblai
+                                                            700                   20                       1000                                     2
+                                                            700                   20                       1200                                     2
+                                                            700                   20                       1500                                     1
+• Planche d’essai de MONDOUBLEAU.
+Cette planche d’essai a été réalisée à l’initia-            700                   20                       1600                                     1
+tive de la société ICOPAL dans ses usines                   700                   20                       1800                                     1
+Mondoubleau le 24 juillet 2002. Cette planche               700                   20                       2000                                     0
+d’essai a été réalisée avec un remblai concassé
+0/31,5. Le D.E.G bitumineux testé était com-                700                   20                        700                   ≥ 17/10          ~1
+posé d’une géomembrane TERANAP 431 TP,                      700                   20                       1000                   ≥ 17/10           1
+sans protection supérieure et avec une pro-                 700                   20                       1200                   ≥ 17/10          0
+tection en géotextile de 300 et de 700 g/m2.
+                                                                                    Tableau n° 1 - Résultats D.E.G synthétique
+
+
+
+
+140    TUNNELS ET OUVRAGES SOUTERRAINS - N° 183 - MAI/JUIN 2004
+  Recommandations relatives aux dimensionnement des écrans de protection des dispositifs d’étanchéité par géomembrane
+
+     Ecran         Géomembrane Ecrans supérieurs Classe Légende des tableaux n° 1 et n° 2                              les variantes susceptibles d’être admises
+   inférieur       BITUMINEUSE    géotextile            Rappel des limites de classe :                                 pour concevoir et dimensionner ces protec-
+                                                                      Classe 2    8,75 Joules                          tions complémentaires.
+Masse surfacique     Epaisseur         Masse surfacique         (J)
+                                                                      Classe 1    10,75 Joules
+    (g/m2)           (1/10 mm)             (g/m2) 1                   Classe 0    14,75 Joules (nouvelle classe)
+                          40                   700              <2    Les classes figurant dans les deux tableaux
+                          40                  1000              ~2    sont données à titre indicatif, les classes de
+                                                                      résistance au poinçonnement dynamique
+                          40                  1400              ~1    à spécifier en fonction du D.E.G et de la
+                          40                  1600               1    nature des remblais figurent au tableau
+                                                                      n°3 et n°4.
+                          40                  1800               1    Les masses surfaciques figurant en gras
+      700                 40                   700               2    caractérisent des géotextiles composites
+                                                                      Les masses surfaciques figurant en surli-
+      700                 40                  1500               1    gné caractérisent des géotextiles non
+      700                 40                  1800               1    aiguilletés de fibres " haute ténacité "
+
+
+
+
+                                                                           S
+                                                                      Les masses surfaciques figurant en police "
+      700                 40                  2200               0                                                     Photo n° 9 - Protection géotextile et remblais concassés
+                                                                      normal " caractérisent des géotextiles non
+                    Tableau n° 2 - Résultats D.E.G bitumineux         tissés aiguilletés de fibres
+
+
+
+6 - TABLEAU DE SYNTHESE                                 Celui-ci indique les différentes possibilités de               7 - CARACTERISTIQUES
+DU DIMENSIONNEMENT DES                                  dimensionnement des protections du D.E.G                       PHYSICO-MECANIQUES DES
+                                                        en fonction des classes de résistance au                       GEOTEXTILES
+ECRANS DE PROTECTION                                    poinçonnement dynamique proposées par
+
+
+
+
+   E
+Le tableau n° 3 ci-dessous présente les
+règles de dimensionnement des écrans de
+protection en fonction de la nature et de
+la granulométrie des matériaux de rem-
+blaiement.
+                                                        le GT N° 9. Ils suggèrent également le type
+                                                        de protection complémentaire susceptible
+                                                        d’être mis en œuvre en fonction de la posi-
+                                                        tion de la partie la plus haute de l’ouvrage
+                                                        par rapport au niveau du terrain naturel. Les
+                                                        commentaires associés au tableau indiquent
+                                                                                                                       En complément aux articles 7.4.2.3 du texte
+                                                                                                                       du Fascicule 67 – Titre III, et n° 7 de son
+                                                                                                                       annexe n° 4 ces recommandations proposent
+                                                                                                                       aux maîtres d’œuvre de spécifier les caracté-
+                                                                                                                       ristiques physico-mécaniques indiquées dans
+                                                                                                                       le tableau n° 5 ci-après. En effet la masse sur-
+FT
+A
+
+
+                                                       Tableau n° 3 - Dimensionnement des protections des D.E.G.
+ OUVRAGES CONCERNES : Tranchées Couvertes – Ouvrages d’entrée et de sortie de tunnels creusés ou forés – Ouvrages sous plate-forme rou-
+ tière, autoroutière et ferroviaire – Ouvrages de génie civil faiblement enterrés
+
+
+
+
+                                                                TUNNELS ET OUVRAGES SOUTERRAINS - N° 183 - MAI/JUIN 2004                                                  141
+  Recommandations relatives aux dimensionnement des écrans de protection des dispositifs d’étanchéité par géomembrane
+
+ Caractéristique                                     Méthode d'essais                    Spécifications (*)               Le tamisat à 80 µm permet de distinguer les
+ Masse surfacique (g/m )  2
+                                                                                  ≥ 700        ≥1500 ≥ 2200               sols riches en fines
+
+ Résistance en traction (kN/m) (**)                                                ≥ 12         ≥ 20       ≥ 30           Seuil retenu : 12 %, c’est un seuil convention-
+                                                                                                                          nel permettant d’établir une distinction entre
+ Allongement à l'effort maximum (%)                                                ≥ 50         ≥ 50       ≥ 50           les matériaux sableux et graveleux pauvres
+ Résistance au poinçonnement                    - pyramidal                                                               ou riches en fines.
+ statique (kN)                                  NFG 38019 (***)                    ≥2           ≥ 5,5       ≥8            Le tamisat à 2mm établit une distinction entre
+                                                où                                                                        les sols à tendance sableuse et les sols à ten-
+                                                - cylindrique (Ø 8 mm)                                                    dance graveleuse
+                                                NF P 84507                        ≥ 0,7          ≥2         ≥3            Seuil retenu : 70 %, au-delà de 70 % ten-
+                         Tableau n° 4 - Caractéristiques des géotextiles de protection                                    dance sableuse et en deçà sont classés les
+                                                                                                                          sols à tendance graveleuse.
+* Conformément à ce qui se pratique pour les autres spécifications relatives aux produits utilisés dans le
+domaine des ouvrages souterrains, il s'agit de valeurs minima requises (et non de valeurs nominales telles                La figure 1 (extrait du fascicule 2 des recom-
+
+
+
+
+                                                                              S
+qu'elles peuvent apparaîtres sur des fiches techniques ou sur des fiches de certification).                               mandations pour les terrassements routiers)
+** Pour chacun des sens de fabrication                                                                                    donne les caractères généraux de la classifi-
+*** Avec les modifications décrites au recueil des méthodes d'essais ASQUAL (6)                                           cation des sols qui pourront être utilisés en
+                                                                                                                          remblais.
+                                                                                                                          La figure 2 (extrait du Guide de Terrassements
+                                                                                                                          Routiers) classe les matériaux selon leur nature
+facique n’est qu’une valeur indicative, et elle           œuvre. Les paramètres retenus concernent :
+doit nécessairement être complétée par les                                                                                b) la forme des éléments
+
+
+
+
+   E
+caractéristiques du tableau n° 4.
+
+
+
+8 - RAPPEL DES
+RECOMMANDATIONS
+POUR LES TERRASSEMENTS
+ROUTIERS
+                                                          - la granularité (normes NF P94-056 et 057)
+                                                          - la forme des éléments
+                                                          a) la granularité
+                                                          Le D max : c’est la dimension maximale des
+                                                          plus gros éléments contenus dans le sol.
+                                                          La norme NF P94-056 ‘’ sols reconnaissance
+                                                          et essais – Analyse granulométrique’’ permet
+                                                                                                                          Les éléments constituant le matériau peuvent
+                                                                                                                          avoir différentes géométries ; forme ronde à
+                                                                                                                          bords arrondis, anguleux en éclats, en
+                                                                                                                          plaques ou en aiguilles.
+                                                                                                                          Lorsque le matériau comporte une fraction
+                                                                                                                          grossière 50/D non négligeable (classe C) le
+                                                                                                                          Guide des Terrassements Routiers distingue
+FT
+                                                          de répartir les matériaux en catégories selon                   deux sous-classes :
+8.1 - Classification des sols                             un critère de taille des grains.                                • la sous-classe C1 qui rassemble les maté-
+et des matériaux rocheux                                  Le G.T.R retient le seuil de 50 mm pour distin-                 riaux anguleux possédant une fraction 0/50 mm
+(classes A, B, C, D, E et R)                              guer les sols fins, sableux et graveleux, des                   (>60 à 80 %) et l’ensemble des matériaux
+                                                          sols blocailleux.                                               roulés.
+Les sols sont des matériaux naturels, consti-
+tués de grains pouvant se séparer aisément.
+Ces grains peuvent être de dimensions
+variables. Les sols sont de nature et d’origine
+géologiques diverses : alluvions, matériaux
+meubles, sédimentaires,…
+Le déblai rocheux après son extraction est
+transformé en matériaux susceptibles d’être
+considérés, au moins partiellement comme
+un sol meuble au sens défini au § ci- dessus.
+A
+
+Le Guide des Travaux Routiers classe les sols
+et matériaux rocheux suivant différents para-
+mètres qui se rangent en trois catégories ;
+• paramètres de nature
+• paramètres de comportement mécanique
+(résistance au trafic)
+• paramètres d’état (sensibilité à l’eau)
+Les paramètres de nature se rapportent aux
+caractéristiques intrinsèques du matériau,
+c’est à dire qui ne varient pas ou peu, ni dans
+le temps ni au cours des différentes manipu-
+lations que subit le sol au cours de sa mise en
+
+                                                                                          Figure 1 - Caractères généraux de la classification des sols
+
+
+
+
+142    TUNNELS ET OUVRAGES SOUTERRAINS - N° 183 - MAI/JUIN 2004
+Recommandations relatives aux dimensionnement des écrans de protection des dispositifs d’étanchéité par géomembrane
+
+                                                                                               • La sous-classe C2 qui comprend les maté-
+                                                                                               riaux anguleux possédant une faible fraction
+                                                                                               0/50 mm (<60 à 80 %)
+
+                                                                                               8.2 - Agressivité des
+                                                                                               matériaux de remblais
+                                                                                               sur le D.E.G.
+                                                                                               A notre connaissance aucune norme ou texte
+                                                                                               de référence ne permet de quantifier ou clas-
+                                                                                               ser l'agressivité des matériaux de remblais,
+                                                                                               concernant le risque de poinçonnement du
+                                                                                               D.E.G. sur lequel ils viennent en contact.
+                                                                                               L’agressivité des matériaux de remblais sur le
+
+
+
+
+                                                                           S
+                                                                                               D.E.G. dépend de la granulométrie ou bloco-
+                                                                                               métrie des éléments qui le constituent. Plus
+                                                                                               un matériau est important dans ses dimen-
+                                                                                               sions (classe C3 - Dmax>250mm, par
+                                                                                               exemple) plus il sera agressif. De même des
+                                                                                               grains à bords arrondis (caractérisant les gra-
+                                                                                               nulats roulés) donneront moins de risque de
+                                                                                               perforation qu’une forme anguleuse pro-
+
+
+
+
+   E                                                                                           priété de roches concassées.
+                                                                                               A partir des connaissances rappelées dans la
+                                                                                               classification des sols, la figure n° 3, ci-après
+                                                                                               donne une première approche de l’agressi-
+                                                                                               vité des matériaux.
+
+                                                                                               8.3 - Mise en œuvre des
+                                                                                               remblais
+FT
+                                                                                               Provenance des matériaux
+             Figure 2 - Tableau synoptique de classification des matériaux selon leur nature   La provenance et les caractéristiques des
+                                                                                               matériaux pour les remblais contigus aux
+                                                                                               ouvrages devront être soumis avant emploi à
+                                                                                               l’acceptation du Maître d’œuvre.
+                                                                                               Les matériaux seront identifiés selon la classi-
+                                                                                               fication des sols du Guide Technique LCPC
+                                                                                               SETRA, sur la réalisation des remblais et
+                                                                                               couche de forme de septembre 1992. Il
+                                                                                               appartiendra à l’Entrepreneur de réaliser les
+                                                                                               reconnaissances et analyses appropriées afin
+                                                                                               de pouvoir classer ces matériaux.
+                                                                                               Le Maître d’œuvre ne devra jamais accepter
+A
+
+                                                                                               au contact du D.E.G de l’ouvrage des maté-
+                                                                                               riaux pouvant le poinçonner.
+                                                                                               Mise en œuvre des remblais
+                                                                                               L’optimisation du dimensionnement du dis-
+                                                                                               positif de protection de l’étanchéité ne doit
+                                                                                               pas faire oublier aux différents intervenants
+                                                                                               l’application et la vérification sur le site du
+                                                                                               respect " des règles de l’art " en matière de
+                                                                                               remblaiement sur un D.E.G, à savoir :
+                                                                                               • limitation du D max d’un remblai à base de
+                                                                                               concassés à 200 mm,
+
+                             Figure 3 - Agressivité des matériaux en fonction de leur classe
+  Critère d’agressivité : 1 non agressif • 2 peu agressif • 3 agressif • 4 très agressif
+
+
+
+
+                                                              TUNNELS ET OUVRAGES SOUTERRAINS - N° 183 - MAI/JUIN 2004                     143
+  Recommandations relatives aux dimensionnement des écrans de protection des dispositifs d’étanchéité par géomembrane
+
+• le remblai sera mis en œuvre suivant des
+modalités soumises à l’agrément du Maître
+d’œuvre, par couches régulières d’épaisseur
+limitée et compacté à l’aide de matériels
+adaptés aux dimensions du remblai,
+• interdiction de déverser directement sur le
+D.E.G. les matériaux d’une hauteur supé-
+rieure à 1,00 m,
+- recommandation de pousser le matériau sur
+la couche sous-jacente du remblai, et jamais
+directement sur le D.E.G.,
+- interdiction de faire circuler des engins de
+terrassement directement sur le D.E.G.
+
+
+
+
+                                                                    S
+                                              Photo 6
+                        Remblaiement "bonne pratique'"
+
+
+
+
+   E
+9 - LEXIQUE
+ (1) – T.O.S. : Tunnels et Ouvrages Souterrains organe officiel de l’AFTES – Edition : SPECIFIQUE - 115, cours Albert Thomas – 69003 Lyon
+ (2) – P.V.C-P : Chlorure de Polyvinyle Plastifié
+ (3) - EC-F. : Copolymère d’Ethylène Flexible (nouvelle dénomination proposée par l’AFTES pour remplacer le terme F.P.O, ou T.P.O. précé-
+ demment utilisé pour cette famille chimique de géomembrane)
+FT
+ (4) – Cette masse surfacique peut être augmentée en fonction de la nature et de la rugosité du support (tableau n° 5)
+ (5) - La mise en œuvre d’une protection inférieure sous une géomembrane bitumineuse est une nouvelle proposition issue de ces recomman-
+ dations.
+ (6) - ASQUAL : Association Qualité pour la certification des géosynthétiques. ASQUAL : 14, rue des Reculettes 75013 PARIS
+
+
+
+
+10 - BIBLIOGRAPHIE
+ - Fascicule 67 – titre III- " Etanchéité des ouvrages souterrains " n° 92-S.TO – Direction des Journaux Officiels 26, rue Desaix
+ 75727 PARIS CEDEX 15
+ - Guide – Technique pour la réalisation des remblais et des couches de forme du LCPC/SETRA: SETRA – 46, avenue Aristide Briand
+A
+
+ BP 100 92223 BAGNEUX CEDEX.
+ - Norme NF P 11-300 " Classification des matériaux utilisables dans la construction des remblais et des couches de forme d’infrastructures
+ routières " : AFNOR – Tour Europe 92049 PARIS LA DEFENSE CEDEX 7
+ - T.O.S. n° 121 janvier/février 1994 : " essai de poinçonnement dynamique sur dispositif d’étanchéité par géomembrane "
+ - T.O.S. n° 159 mai/juin 2000 : " l’étanchéité et le drainage des ouvrages souterrains "
+ - T.O.S. n° 165 mai/juin 2001 : " matériaux conformes au fascicule 67 – titre III du CCTG ou possédant un avis d’Experts AFTES
+ Mise à jour mai 2001 "
+ - T.O.S. n° 168 novembre/décembre 2001 : " l’étanchéité des ouvrages sous plate-forme routière, autoroutière et ferroviaire
+ Etat des réflexions du GT n°9 en matière d’actualisation du fascicule 67 – titre III du CCTG "
+ - T.O.S. n° 174 novembre/décembre 2002 : " l’étanchéité des couvertures d’ouvrages enterrés à l’aide de systèmes à base d’asphalte ou de
+ bitume "
+
+
+
+
+144   TUNNELS ET OUVRAGES SOUTERRAINS - N° 183 - MAI/JUIN 2004
+  Recommandations relatives aux dimensionnement des écrans de protection des dispositifs d’étanchéité par géomembrane
+
+11 - ANNEXE
+ESSAIS DE RESISTANCE AU POINCONNEMENT DYNAMIQUE SELON MODALITES DE LA
+NORME NF P 84-506
+
+1 - Objectif
+• Vérification qu'un DEG a une résistance supérieure à un seuil donné spécifié
+Dans ce cas, l'énergie du dispositif est fixée à la valeur à vérifier. On procède à vingt impacts, et on considère conventionnellement que le DEG
+testé a une résistance au poinçonnement supérieure à la valeur spécifiée, si le nombre de perforations de la structure d'étanchéité est inférieure
+ou égal à 4.
+
+2 - Dispositif d'essai
+
+
+
+
+                                                                   S
+                                                                                                            Corps de poinçonnement
+
+
+
+
+   E
+FT
+3 - Contrôle de la perforation de la géomembrane d’étanchéité selon les modalités de la norme NF P 84-506
+Mode opératoire
+Seule la géomembrane d'étanchéité fait l'objet d'un examen de la
+perforation éventuelle.                                                                    Régulateur de dépression
+Au cours de l'impact, la matière de la membrane de protection
+A
+
+peut s'incruster (par emboutissage) dans la géomembrane d'étan-
+chéité, il convient d'enlever cette matière avant de procéder à
+l'examen de la perforation.
+Cet examen est réalisé :
+• visuellement (devant une source lumineuse par exemple) pour les
+perforations les plus importantes ;
+• au moyen d'un dispositif de vide pour les perforations non
+visibles. La face de la géomembrane d'étanchéité qui a subi l'im-                                                         Cloche avec
+pact est placé du côté "vide" d'un dispositif de vide transparent de                                                      son joint
+7 à 10 cm de diamètre et assurant une dépression de 40 à 60 kPa
+pendant 30 s. Un liquide savonneux placé sur la géomembrane
+permet de visualiser une éventuelle perforation (bulles). La surface
+testée ne doit contenir qu'un seul impact. Un dispositif (par
+exemple à large maille) placé à la base du dispositif de vide permet    Manomètre
+d'éviter que des géomembranes très déformables ne soient aspi-
+rées par le vide (déformation maximum 1 cm). ▲                                                      Photo du dispositif
+
+
+
+
+                                                         TUNNELS ET OUVRAGES SOUTERRAINS - N° 183 - MAI/JUIN 2004                             145
+Notes :
+
+
+
+
+          ES
+FT
+A
+                                        www.aftes.asso.fr
+
+
+
+
+Tous droits de reproduction, adaptation, totales ou partielles sous quelques formes que ce soit, sont expressément réservés.
+

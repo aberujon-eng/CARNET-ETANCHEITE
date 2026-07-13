@@ -1,0 +1,988 @@
+LES RECOMMANDATIONS DE L’AFTES
+
+
+
+Guide pour l'étanchement et le
+drainage des ouvrages souterrains
+CAHIER 3
+Mise hors d'eau provisoire pour l'installation des
+procédés d'étanchement et dispositifs de drainage
+
+
+GT9.C3F1
+Mai 2024
+
+
+
+
+PREPUBLICATION
+ Guide des Bonnes Pratiques pour l’Étanchement et
+       le Drainage des Ouvrages Souterrains.
+          Cahier 3 « Mise hors d’eau provisoire pour
+       l’installation des procédés d’étanchement et
+                   dispositifs de drainage »
+
+
+
+                  N° de la recommandation : GT9.C3F1
+
+
+
+
+Avertissement :
+« Les recommandations de l’AFTES sont l’aboutissement de travaux de synthèse, de réflexions
+méthodologiques, de recherches et de retours d’expérience menés par l’Association ayant vocation
+à servir de référence pour la conception, la réalisation ou l’exploitation des ouvrages souterrains.
+Elles s’adressent uniquement à un public de professionnels avertis, seuls à même de pouvoir en
+apprécier la pertinence dans chaque contexte particulier, et d’en appliquer le contenu, totalement
+ou partiellement, sous leur seule responsabilité.
+L’AFTES décline expressément toute responsabilité quant à l’interprétation                        de   ses
+Recommandations, y compris les dommages éventuels en résultant ou étant liés. »
+
+
+
+                                                       1
+                  Recommandation de l’AFTES du GTguide – N°GT9.C3F1 – Mai 2024 - Prépublication
+         Recommandation de l’AFTES N° GT9.C3F1
+
+ Guide des Bonnes Pratiques pour l’Étanchement et
+       le Drainage des Ouvrages Souterrains.
+         Cahier 3 « Mise hors d’eau provisoire pour
+      l’installation des procédés d’étanchement et
+                  dispositifs de drainage »
+
+     Texte présenté par : Jean Louis MAHUET, animateur du groupe de travail GTguide et
+                              Jean Noël LOUCHART, vice-animateur
+
+
+                      Ce document a été réalisé avec la collaboration de :
+Christophe AUBRY (EDF), Axel AUGUSTIN (RENOLIT), Brahim BENZIANE (SNCF RÉSEAU), Xavier-
+Blaise MARTIN ( MAPEI FRANCE), Gustavo BOMBEN ( FAMA), Olivier BORODINE (GERFA),
+Stéphane BUISSON (EGIS RAIL), Arnaud BURY (APAVE), Alexandra CALLIGARO (FAMA), Daniel
+CAMELIN (SIKA), Raphaël CERDA (SATEC), François CHALLIER ( GCP), David CHAMOLEY (CETU),
+Fréderic CHAPERON (APRR), Gilles CHRISTIEN ( HILTI), Manuel DECOODT (ETANDEX), Baïla
+DEME (SGP), Quentin DREUX ( MB EUROPE), Laurent FAUQUIGNON (UGC CONSULTING), Pascal
+FRISON (SIKA), Jean-Bernard GAMAY (EUROTUNNEL), Marthe JACQUEAU-GRAMAGLIA
+(SOCOTEC puis SECC), Paul GUINARD (APRODEG/SOPREMA), Véronique HEILI (CEREMA-EST),
+Alan JALIL (CSTB), Mathieu JANES (OPTIMAS), Jean-Louis JUGE (RESIPOLY), Jean Noël
+LOUCHART (ETANDEX), Jean-Louis MAHUET (EXPERT JUDICIAIRE), Alexandre MARCHAND
+(SOPREMA), Romain MECHALI (SPPM), Mesut MANEVI (GCC), Edouard MOREAU (BOUYGUES-
+CONSTRUCTION), Sylvie MORTIER (SETEC), Maria NENOVA (SOPREMA), Françoise PRESSIER
+(SOPREMA), Karine PUYJARINET (IMPLENIA), Franck LEDAGUENEL (RATP) , Louis RAMONDOU
+(RTM), Thomas SAHM (ICOPAL puis RESIPOLY), Laurent SAUGER (CEREMA), Jean-Serge
+SAMBOURG (LILLE-MÉTROPOLE), Yan TAIBI (BOUYGUES-CONSTRUCTION), Ludovic TANGUY
+(RATP), Sébastien VERBRUGGHE (LOWANDBONAR), Mathilde RIOT-VERDIER (AFITEXINOV),
+Paul VIDIL (SOLETANCHE BACHY), Jean-Pierre VIGOUROUX (EXPERT), Erik VIMOND
+(ETANDEX/APSEL)
+
+
+                             Ce manuscrit a été révisé et corrigé par :
+
+
+  Michel PRÉ (Setec), François LAIGLE (BG Ingénieurs conseils SAS), Jean-Marc KOEBEL (Spie
+ Batignolles), Laurent CHASSAGNE (RATP), François RENAULT (Vinci-Construction), Christophe
+                               JASSIONNESSE (Spie Batignolles)
+
+
+
+
+                                                    2
+               Recommandation de l’AFTES du GTguide – N°GT9.C3F1 – Mai 2024 - Prépublication
+                   Le texte qui suit a été validé par le Comité Technique de l’AFTES le 30 mai 2024.
+L’AFTES recueillera avec intérêt toute suggestion relative à ce texte. Le cas échéant, Réédition
+comportant la correction d’errata.
+
+
+
+
+Table des matières
+FIGURES..................................................................................................................................... 4
+TABLEAUX ................................................................................................................................. 4
+1.          INTRODUCTION ................................................................................................................ 6
+2.          PRINCIPE .......................................................................................................................... 6
+3.          LES TECHNIQUES DE MISE HORS D’EAU ............................................................................. 6
+     3.1.     Nappe phréatique ..................................................................................................................... 6
+       3.1.1.   Rabattement de la nappe, associé ou non à un écran, pour abaisser de façon provisoire le niveau
+       piézométrique 50 cm en dessous de niveau inférieur du revêtement béton............................................................. 6
+       3.1.2.   Congélation du terrain ................................................................................................................................ 7
+       3.1.3.   Confinement hyperbare .............................................................................................................................. 7
+       3.1.4.   Injection du terrain...................................................................................................................................... 7
+     3.2.     Percolations provenant du terrain ............................................................................................. 8
+     3.3.     Eaux de ruissellement de surface............................................................................................... 8
+     3.4.     Ouvrages exposés aux eaux de pluie.......................................................................................... 9
+4.          OBTENTION D’UNE HUMIDITE MASSIQUE INFERIEURE à 4,5% ........................................... 9
+5.          PROCEDE D’IMPERMEABILISATION OU ETANCHEITE INTRADOS ......................................... 9
+     5.1.     Présence d’une nappe phréatique ............................................................................................. 9
+       5.1.1.        Rabattement provisoire de la nappe........................................................................................................... 9
+       5.1.2.        Confinement sous hyperbare (tunnel creusé) .......................................................................................... 11
+       5.1.3.        Congélation du terrain (tunnel creusé) ..................................................................................................... 11
+     5.2.     Percolations au travers du revêtement béton .......................................................................... 11
+     5.3.     Cas particulier des structures intégrées ................................................................................... 12
+     5.4.     Eau de pluie ............................................................................................................................ 14
+6.          PROCEDES D’ETANCHEITE EXTRADOSSES ........................................................................ 14
+     6.1.     Généralités ............................................................................................................................. 14
+     6.2.     Ouvrage sans limite d’emprise ................................................................................................ 14
+     6.3.     Ouvrage avec limite d’emprise ................................................................................................ 15
+     6.4.     Cas particulier d’une arrivée d’eau inopinée ............................................................................ 15
+7.          PAROI MOULEE .............................................................................................................. 18
+8.          TUNNEL A VOUSSOIRS .................................................................................................... 19
+9.   COMPATIBILITE DE LA MISE EN œuvre DES PROCEDES AVEC LES TECHNIQUES DE MAÎTRISE
+DES ARRIVEES D’EAU ............................................................................................................... 20
+                                                                                     3
+                                Recommandation de l’AFTES du GTguide – N°GT9.C3F1 – Mai 2024 - Prépublication
+10.            SOURCES BIBLIOGRAPHIQUES ......................................................................................... 25
+11.            ANNEXES ........................................................................................................................ 26
+     11.1.               Annexe n°1 – Synoptique des procédés d’étanchement et dispositifs de drainage ................. 26
+     11.2.               Annexe n°2 Liste et libellés des cahiers................................................................................. 27
+
+
+
+
+                                                                                                                 FIGURES
+Figure 1- Congélation du terrain pour réaliser une niche .................................................................................................................. 8
+Figure 2-Exemple de coupe sur bande d'arrêt d'eau (BAE) ............................................................................................................ 9
+Figure 3- Fermeture d'un puits de pompage par tampon étanche ..........................................................................................11
+Figure 4- Rabattement sous radier dans une structure intégrée .............................................................................................. 13
+Figure 5- Pose de drain de décompression avant la pose du procédé d'étanchement.......................................... 16
+Figure 6- Pose d'évents pour éviter le piégeage de l'eau ..............................................................................................................16
+Figure 7-Élimination de l’eau dans des gonfles à l’aide d’une chaussette drainante ................................................. 17
+Figure 8- Principe de soutènement à la boue ......................................................................................................................................... 18
+
+
+
+
+                                                                                                             TABLEAUX
+
+
+Tableau 1- Compatibilité des procédés intradossés avec les techniques de maîtrise des arrivées d'eau 22
+Tableau 2- Compatibilité des procédés extradossés avec les techniques de maîtrise des arrivées d'eau
+.....................................................................................................................................................................................................................................................24
+
+
+
+
+                                                                                                                          4
+                                              Recommandation de l’AFTES du GTguide – N°GT9.C3F1 – Mai 2024 - Prépublication
+                                      Avant-Propos
+Le cahier 17 fait partie d'une série de 18 cahiers thématiques. Ces cahiers constitueront le « Guide
+des Bonnes Pratiques pour l'étanchement et le drainage des ouvrages souterrains ».
+Ces cahiers élaborés par un groupe de travail dédié de l’AFTES, le GTguide, comprenant plus de 50
+professionnels acteurs pluridisciplinaires intervenants dans l'étanchement et le drainage des
+ouvrages souterrains : Maîtres d'Ouvrage, Maîtres d'Œuvre, Contrôleurs Techniques, Exploitants,
+Gros Œuvre, Fondations Spéciales, Fabricants, Étancheurs, Laboratoires.
+Chacun apporte, dans son domaine de compétence son expertise et retour d'expérience des
+différentes pratiques permettant de concevoir, réaliser, et d’entretenir, de façon optimale et
+pérenne, l'étanchement et le drainage d'un ouvrage souterrain. Les membres du GT9 y sont
+fortement représentés.
+La constitution des cahiers se réalise en deux étapes :
+    • Étape 1 : rédaction et Obtention d'un consensus au sein du groupe de travail ;
+    • Étape 2 : relecture et validation par le Comité Technique de l'AFTES.
+Le « Guide des Bonnes Pratiques » décrit précisément tous les procédés d’étanchement (*) et les
+dispositifs de drainage surfaciques utilisés en ouvrages souterrains. A travers ses cahiers
+thématiques rédigés dans le respect du cadre règlementaire et normatif applicable et de l’état de
+l’art, le Guide traite en particulier :
+   •   De leurs spécificités de mise en œuvre (y compris le traitement de certains points singuliers)
+       et des différents contrôles associés ;
+   •   Des conditions de chantier requises (mise hors eau, qualité du support béton, protections,
+       etc.) ;
+   •   Des interactions avec les autres corps de métier (gros œuvre, équipements, etc.) ;
+   •   De l’interopérabilité entre les procédés ;
+   •   De leur entretien et maintenance afin d’assurer leur durabilité ;
+   •   Des critères de choix des procédés en fonction des conditions géotechniques et
+       hydrogéologiques du terrain, du mode constructif de l'ouvrage, des résultats attendus par
+       le MOA ;
+   •   De l'assurabilité des travaux d'étanchement.
+
+
+(*) Les procédés d'étanchement décrits se déclinent en deux catégories :
+     • Les procédés traditionnels décrits dans le fascicule 67 titre III et bénéficiant d'un Avis
+         Technique CETU ;
+     • Les procédés innovants examinés dans le cadre d'une Évaluation AFTES.
+
+
+
+
+                                                      5
+                 Recommandation de l’AFTES du GTguide – N°GT9.C3F1 – Mai 2024 - Prépublication
+1. INTRODUCTION
+
+La mise hors d’eau provisoire pour l’installation des procédés d’étanchement et de drainage est une étape
+importante pour la construction d’un ouvrage souterrain. Au-delà de son rôle dans le terrassement, la
+maîtrise des écoulements et la stabilisation du fond de fouille, elle a trois fonctions principales :
+    •   Réaliser un revêtement béton homogène et de bonne compacité conforme aux fascicules 65 et
+        fascicule 69,
+    •   Permettre de respecter le niveau de débit d’eau AFTES (Cf. tableau 2 du cahier 1 «présentation
+        des procédés et leurs contrôles in-situ ») pour la mise en œuvre des procédés d’étanchement,
+        de drainage et de soutènement,
+    •   Obtenir une humidité massique du revêtement béton inférieure à 4,5% pour qu’il puisse recevoir
+        les procédés adhérents.
+Ce cahier ne traite pas de la mise hors d’eau permanente des ouvrages.
+Ce cahier respecte le fascicule 68 et complète les recommandations pour la conception, l’exécution et le
+suivi des rabattements temporaires de nappe du CFMS et SFEG édition 2022 sur des points spécifiques
+concernant cette mise hors d’eau en lien avec les travaux d’étanchement et de drainage.
+La mise hors d’eau temporaire doit être maintenue jusqu’à ce que l’équilibre statique de l’ouvrage soit en
+permanence assuré.
+
+
+2. PRINCIPE
+L’eau peut arriver dans la fouille ou sur/dans l’ouvrage à étancher de différentes sources qu’il convient
+de maîtriser pour l’installation des procédés.
+Elle provient :
+    •   Soit d’une nappe phréatique, soit des infiltrations du terrain encaissant, passant au travers des
+        ouvrages de soutènement, du revêtement béton, etc.,
+    •   Soit de la pluie directement sur le support à étancher par exemple dans le cas des parois des
+        ouvrages sans emprise ou lorsque l’ouvrage n’est pas hors d’eau (dalle de couverture non coulée,
+        trémies non fermées, …),
+    •   Soit des eaux de ruissellement de surface (pluie, scénarii PPRI, eau de chantier, etc.).
+Le dysfonctionnement d'un dispositif de pompage, dès lors qu’il ne peut être écarté avec certitude, doit
+être envisagé comme une situation accidentelle (Cf NF P94-282 : norme d’application de l’Eurocode 7
+pour ce qui concerne les écrans de soutènement).
+
+
+3. LES TECHNIQUES DE MISE HORS D’EAU
+
+    3.1. Nappe phréatique
+Il peut exister sur un même ouvrage plusieurs nappes aquifères situées à des niveaux différents, les
+techniques de rabattement de la nappe phréatique peuvent être différentes pour chaque nappe.
+
+
+Les techniques suivantes sont utilisées :
+
+        3.1.1. Rabattement de la nappe, associé ou non à un écran, pour abaisser de façon
+               provisoire le niveau piézométrique 50 cm en dessous de niveau inférieur du
+               revêtement béton
+Les différents procédés décrits dans le fascicule 68 « exécution des travaux géotechniques des ouvrages
+de génie civil » sont :
+
+                                                         6
+                    Recommandation de l’AFTES du GTguide – N°GT9.C3F1 – Mai 2024 - Prépublication
+   •   Les puits de pompage,
+   •   Les pointes filtrantes,
+   •   Les tranchées drainantes,
+   •   Les drains subhorizontaux.
+Note : Les écrans sont de type écran d’étanchéité (injection, paroi au coulis, etc.) ou écran de
+soutènement (rideau de paroi moulée, palplanches, etc.).
+
+       3.1.2. Congélation du terrain
+Cette technique est décrite et illustrée dans le TOS (revue TUNNELS ET OUVRAGES SOUTERRAINS)
+n°202 Juillet/Août 2007.
+Cette technique consiste à réaliser une coque de terrain congelé à l’aide de tubes remplis de saumure à
+-30°C ou à l'azote liquide à -196°C. L’excavation et la construction de l’ouvrage en béton sont ensuite
+réalisées.
+
+       3.1.3.Confinement hyperbare
+Cette technique est décrite, par exemple, dans les TES :
+   •   N°252 oct-nov-dec 2017
+   •   N° 263 janv-fév-mars 2018
+Dans ce cas, l’ouvrage est construit en hyperbarie c’est-à-dire à une pression supérieure à la pression
+atmosphérique pour compenser la pression hydrostatique de la nappe phréatique et celle des terres.
+
+       3.1.4. Injection du terrain
+Les injections sont conformes à la NF EN 12715, fascicule 68, recommandations AFTES GT8RXFX «
+conception et réalisation des travaux d’injection & des roches » et ont comme objectif la réduction de la
+perméabilité des terrains aux circulations souterraines.
+Dans le cas de massif rocheux fracturé, un rabattement de nappe peut s’avérer inefficace : trop grande
+perméabilité par exemple. Les venues d’eau peuvent être réduites par un traitement de terrain par
+injection (les informations sur les caractéristiques hydrogéologiques sont regroupées dans le MSG
+« Mémoire de Synthèse Géotechnique » (Cf fascicule 69). Cette technique est souvent associée à d’autres
+techniques pour mettre hors d’eau la fouille par exemple un drainage surfacique (cf 3,2 Percolations
+provenant du terrain).
+
+
+
+
+                                                        7
+                   Recommandation de l’AFTES du GTguide – N°GT9.C3F1 – Mai 2024 - Prépublication
+                            Figure 1- Congélation du terrain pour réaliser une niche
+
+
+    3.2. Percolations provenant du terrain
+La fouille doit être équipée d’un système de drainage et d’assainissement gravitaire des eaux d’infiltration
+provenant du soutènement, du terrain et d’ouvrages annexes. Ce système doit être raccordé à un
+collecteur situé sous le radier qui renvoie les eaux vers un système de relevage.
+Les sondages hydrogéologiques doivent être rebouchés et étanchés.
+Les eaux résiduelles provenant du terrain ou du soutènement sont :
+    •   Soit captées puis reliées au système de drainage. Le recueil des eaux peut être réalisé à l’aide de
+        drain ponctuel ou nappe drainante (voir recommandations protections et drainage des
+        étanchéités extradossées réf GT9R19F1),
+    •   Soit bloquées par injection suivant les recommandations AFTES GT9R1F3.
+Ce système doit rester en service jusqu’à la réalisation du revêtement béton pour les procédés
+extradossés et jusqu’à la parfaite polymérisation des résines pour les procédés intradossés.
+
+    3.3. Eaux de ruissellement de surface
+Des moyens doivent être mis en œuvre pour préserver les fouilles de l’invasion des eaux de surface lors
+des orages ou période de fortes crues, par exemple, réalisation d’un muret périphérique au-dessus du
+niveau du terrain et dont le niveau altimétrique est au-dessus du niveau défini au PPRI.
+
+
+
+                                                         8
+                    Recommandation de l’AFTES du GTguide – N°GT9.C3F1 – Mai 2024 - Prépublication
+    3.4. Ouvrages exposés aux eaux de pluie
+La mise en œuvre des procédés d’étanchement intradossés ou extradossés est réalisée hors pluie.
+Elle est réalisée :
+    •   Soit de préférence après coulage de la dalle de couverture, les entrées d’eau pluviale devront
+        être raccordées à un exutoire, les trémies provisoirement obturées,
+    •   Soit avec des protections provisoires sur les zones de travail.
+
+
+4. OBTENTION D’UNE HUMIDITE MASSIQUE INFERIEURE À 4,5%
+L’humidité massique du support béton inférieure à 4,5% est obtenue en respectant les exigences
+suivantes :
+    •   Mise hors d’eau de la fouille,
+    •   Âge du béton supérieur à 21 jours,
+    •   Ventilation de l’ouvrage.
+Pour les procédés intradossés et les ouvrages réalisés sans limite d’emprise, la fonction gradient
+hydraulique du béton doit être assurée aussi bien en partie courante qu’au droit des points singuliers par
+le respect des conditions suivantes :
+    •   Un béton homogène et de bonne compacité conforme aux fascicules 65 et 69,
+    •   Dans les ouvrages en béton armé, mise en place de bande d’arrêt d’eau au droit des joints de
+        fonctionnement,
+    •   Mise en place de bandes d’arrêt d’eau ou de remordu entre les panneaux de paroi moulée, des
+        réservations doivent être réalisées au droit des joints pour éviter le cheminement de l’eau dans la
+        reprise plancher/paroi moulée et permettre d’assurer la continuité du traitement ultérieur (Cf
+        cahier 10 « structure intégrée),
+    •   Mise en place de joints hydrogonflants dans les joints de plots des voûtes en béton non armé,
+    •   Le traitement des reprises de bétonnage ou embrèvement, sera conforme à l’article 8.4.1.2 du
+        fascicule 65. En cas de doute sur la bonne réalisation de la reprise, il est possible de mettre des
+        joints hydrogonfants ou, en préventif, des tubes injectables ou les deux,
+    •    Le clavage et le remplissage des vides à l’extrados du revêtement béton (cf terminologie du
+        fascicule 68) doivent être réalisés avant la mise en œuvre du procédé d’étanchement intradossé.
+
+
+
+
+                             Figure 2-Exemple de coupe sur bande d'arrêt d'eau (BAE)
+
+
+5. PROCEDE D’IMPERMEABILISATION OU ETANCHEITE INTRADOS
+Dans ce cas, le revêtement béton est construit avant la mise en œuvre des procédés d’imperméabilisation
+ou d’étanchéité.
+
+    5.1. Présence d’une nappe phréatique
+
+        5.1.1. Rabattement provisoire de la nappe
+        Généralités
+
+
+                                                           9
+                      Recommandation de l’AFTES du GTguide – N°GT9.C3F1 – Mai 2024 - Prépublication
+Le rabattement de la nappe est provisoire ; il doit être maintenu jusqu’à ce que le béton de génie civil et
+le procédé d’étanchement aient acquis leurs caractéristiques spécifiques. L’arrêt d’un pompage avant
+cela est dramatique pour les procédés intrados qui se mettent en charge et compromettent leur
+adhérence avec le support et leur résistance à la pression d’eau. La reprise nécessite la dépose et la mise
+à nu du revêtement béton.
+A l’issue des pompages les opérations de fermeture devront s’effectuer telles que décrites dans la norme
+NF X 10-999. Le rabattement est réalisé par l’intermédiaire de pointes filtrantes ou de pompes installées
+dans des puits, ils sont souvent associés à des piézomètres qui permettent de contrôler le niveau de la
+nappe. Pour éviter une remontée de la nappe en cas d’une panne de pompe, il est conseillé, d’une part,
+d’organiser une maintenance préventive de nettoyage et d’entretien et, d’autre part, de mettre une
+pompe de secours avec une source d’énergie indépendante dans le cas où le rabattement est réalisé
+avec une seule pompe ou de dimensionner l’ensemble des pompes pour qu’elles prennent le relais de
+la pompe défaillante.
+           Rabattement par puits de pompage
+      •    Dans le cas d’ouvrage sans limite d’emprise : TSLE, il est préférable de réaliser le rabattement par
+           des pompages situés à l’extérieur de l’ouvrage. Cette disposition évite, d’une part, d’avoir un
+           raccordement de l’étanchéité sur un puits de pompage et, d’autre part, des interférences avec les
+           travaux de terrassement et de génie civil
+      •    Les puits de pompage sont équipés d’une pièce de fontainerie, installée en encuvement dans le
+           radier.
+Lorsque les puits sont réalisés à l’intérieur de l’ouvrage, la pièce de fontainerie rapportée sur le tube
+crépiné comporte :
+      •    1 tube lisse,
+      •    Une collerette d’ancrage dans le radier,
+      •    Une bride et contre-bride pleine (tampon étanche),
+      •    Deux percements dans la bride pleine pour l’injection.
+
+
+
+
+ 1.       Radier                                             6. Deux percements pour injection
+ 2.       Tube lisse                                         7.Courbe piézométrique
+ 3.       Tube crépiné                                       8.Rebouchage de l’encuvement
+ 4.       Collerette d’ancrage                               9.Traitement des reprises de bétonnage
+ 5.       Bride et contre bride                              10.Raccordement du procédé
+                                                             d’étanchement par recouvrement
+
+                                                              10
+                         Recommandation de l’AFTES du GTguide – N°GT9.C3F1 – Mai 2024 - Prépublication
+                        Figure 3- Fermeture d'un puits de pompage par tampon étanche
+
+        Rabattement par « pointes filtrantes »
+Dans ce cas, les forages sont de faible section (diamètre d’environ 150 mm).
+Un programme et les méthodes de fermeture devront être établis entre l’étancheur et l’entreprise de
+génie civil en respectant l’ordre suivant :
+    •   La fermeture démarre par l’obturation des puits inactifs, ils sont remplis par du béton à l’aide d’un
+        tube plongeur,
+    •   Les puits sont classés du moins débitant au plus débitant,
+    •   Ils sont obturés dans cet ordre suivant une des techniques décrites pour les puits de pompage.
+        Rebouchage des forages
+Après arrêt du rabattement, les puits, pointes filtrantes, piézomètres seront rebouchés conformément à
+la réglementation. Les opérations de fermeture devront s’effectuer, telles que décrites dans la norme NF
+X 10-999 et le CCTP marché.
+    •   Après fermeture des puits et mise en place de la bride pleine si des suintements subsistent les
+        puits seront injectés par les taraudages prévus à l’aide d’une résine acrylique ou gel de
+        polyuréthane (Cf. recommandations AFTES des arrêts d’eau Réf GT9.R1F3).
+    •   L’encuvement sera rebouché avec du béton, un raccord d’imperméabilisation ou d’étanchéité
+        sera effectué suivant les procédures décrites dans le CMO du procédé d’étanchement.
+Note : le rebouchage des piézomètres sera réalisé, en décalé pour contrôler la remontée de la nappe.
+
+        5.1.2.Confinement sous hyperbare (tunnel creusé)
+Le procédé d’imperméabilisation ou d’étanchéité est réalisé après exécution de l’ouvrage et remise à la
+pression atmosphérique. L’ouvrage est sous charge d’eau et on se retrouve dans le cas des percolations
+au travers du revêtement béton.
+
+        5.1.3.Congélation du terrain (tunnel creusé)
+Le procédé d’étanchéité ou l’imperméabilisation est réalisé après décongélation. L’ouvrage est sous
+charge d’eau et on se retrouve dans le cas des percolations au travers du revêtement béton.
+
+    5.2. Percolations au travers du revêtement béton
+Les procédés intrados doivent être mis en œuvre sur un support non ruisselant, le débit d’eau AFTES sera
+inférieur ou égal à 1, le taux d’humidité massique sera inférieur à 4,5%.
+Si les dispositifs de mise hors d’eau décrits ci-dessus s’avèrent insuffisants pour obtenir ces critères, le
+cuveleur doit procéder à des travaux complémentaires pour assécher la paroi (cf. article 5.2.5.2 du DTU
+14.1). Ces travaux consistent :
+    •    Soit à réduire le débit des fuites par injection, soit à dévier provisoirement l’eau à l’aide de drains
+        de décharge pour permettre la réparation de la paroi et appliquer l’imperméabilisation ou
+        l’étanchéité. Les drains de décharge seront retirés en fin de travaux et obturés à l’aide de bourre
+        de colmatage ou par injection, un raccord d’imperméabilisation ou d’étanchéité sera appliqué au
+        droit des drains (voir recommandations de l’AFTES dans le traitement des arrêts d’eau Réf :
+        GT9.R1F3).
+    •   Soit à augmenter le gradient hydraulique du revêtement béton pour obtenir un taux d’humidité
+        massique inférieur à 4,5%. Les nids de cailloux et les zones poreuses seront éliminés et remplacés
+        par un mortier de réparation ou hydrofuge ; les fissures, reprises de bétonnage et joints de plots
+        seront ouverts puis calfeutrés à l’aide d’un mortier de réparation ou hydrofuge.
+
+
+
+                                                         11
+                    Recommandation de l’AFTES du GTguide – N°GT9.C3F1 – Mai 2024 - Prépublication
+    5.3. Cas particulier des structures intégrées
+Les structures intégrées sont décrites dans le cahier 10.
+Le rabattement de nappe est généralement réalisé jusqu’à 50 cm sous le fond de fouille à l’intérieur de
+l’enceinte suivant la profondeur du soutènement, le rabattement à l’intérieur de l’enceinte va rabattre plus
+ou moins à l’extérieur. En milieu urbain, on cherchera bien entendu à approfondir suffisamment le
+soutènement (ou à réaliser un fond injecté) pour ne pas rabattre à l’extérieur, ou, au moins, le minimiser.
+    •   En radier, les travaux sont réalisés conformément au § 5.1,
+    •   En parois, qui restent en charge, il est utilisé l’assèchement suivant les techniques de percolation
+        au travers du revêtement béton conformément au § 5.2.
+
+
+
+
+                                                         12
+                    Recommandation de l’AFTES du GTguide – N°GT9.C3F1 – Mai 2024 - Prépublication
+1.   Paroi moulée
+2.   Joint J1
+3.   Radier
+4.   Bande d’arrêt d’eau
+5.   Joint triple J1 : J2
+6.   Joint hydrogonflant
+7.   Courbe piézométrique
+8.   Pompe durant l’exécutions
+9.   Puits de pompage
+
+
+                    Figure 4- Rabattement sous radier dans une structure intégrée
+
+
+
+                                                    13
+               Recommandation de l’AFTES du GTguide – N°GT9.C3F1 – Mai 2024 - Prépublication
+    5.4. Eau de pluie
+Pour éviter le délavage des matériaux du procédé de cuvelage pendant leur mise en œuvre et jusqu’à
+leur durcissement, la zone à cuveler doit être à l’abri de la pluie. Il convient que cette eau soit
+provisoirement collectée et évacuée et les trémies provisoirement obturées.
+
+
+6. PROCEDES D’ETANCHEITE EXTRADOSSES
+Dans ce cas, le revêtement béton est construit après la mise en œuvre des procédés d’étanchéité.
+
+    6.1. Généralités
+Pour les 4 types d’arrivées d’eau, ces dernières doivent être collectées et évacuées pendant la mise en
+œuvre du procédé d’étanchement jusqu’à la réalisation du revêtement béton.
+On distingue 3 cas :
+    •   Les ouvrages sans limite d’emprise ; dans ce cas, l’évacuation des eaux d’infiltration et de
+        rabattement est souvent réalisée à l’extérieur de l’ouvrage,
+    •   Les ouvrages avec limite d’emprise ; dans ce cas, le pompage des eaux est généralement
+        réalisé à partir de puits situés en radier de l’ouvrage,
+    •   Les tunnels creusés ; dans ce cas, toutes les eaux doivent être collectées et évacuées à
+        l’extérieur du tunnel.
+
+    6.2. Ouvrage sans limite d’emprise
+L’évacuation des eaux est limitée à l’emprise du fond de fouille.
+        Présence d’une nappe phréatique
+Les puits de pompage ou les pointes filtrantes sont disposés à l’extérieur de l’ouvrage. Leur nombre et
+dimension (diamètre, profondeur) sont déterminés pour rabattre la nappe généralement 50 cm sous le
+niveau du béton de propreté.
+Le rabattement de la nappe est provisoire. Afin d’éviter le déchirement du procédé d’étanchéité extrados,
+le rabattement de nappe doit être maintenu entre la fin du ferraillage et le coulage du béton. La réparation
+est, dans ce cas, difficile à réaliser sans la dépose des armatures.
+        Eau de pluie :
+    •   Pré-radier drainant
+               En radier, un pré radier drainant et un exutoire doivent être prévu pour permettre
+               l’évacuation des eaux de pluie. Le drainage doit être dimensionné pour éviter la mise en
+               charge de l’étanchéité et le soulèvement de la chape de protection. Les
+               recommandations sur la protection et drainage des ouvrages souterrains (Réf GT9.R19F1)
+               donnent des spécifications sur les bétons drainants.
+
+
+    •   Géosynthétiques de drainage surfacique
+               Utiliser des géosynthétiques de drainage surfacique décrits dans les recommandations
+               ci-dessus.
+               Type : nappe à excroissance ou géocomposite avec mini drain (cf cahier 1 « présentation
+               et contrôle des procédés »). Ces drainages doivent être raccordés à un collecteur et
+               disposer d’un exutoire.
+
+
+    •   Suspension des travaux
+La suspension des travaux jusqu’à l’arrêt de la pluie puis l’évacuation des eaux de pluie.
+
+                                                            14
+                       Recommandation de l’AFTES du GTguide – N°GT9.C3F1 – Mai 2024 - Prépublication
+Note : En radier, l’eau accumulée sur l’étanchéité est poussée par soufflage au moment du coulage du
+béton, elle doit ensuite être évacuée par pompage / aspiration ou par un exutoire si l’ouvrage d’étanchéité
+le permet.
+
+    6.3. Ouvrage avec limite d’emprise
+    •   Percolations provenant du soutènement
+    Le traitement des arrivées d’eau est décrit ci-dessus au § 6.2 Venues d’eau provenant du fond de
+    fouille
+    •   Rabattement de la nappe
+Des puits de pompage doivent être installés dans les ouvrages avec limite d’emprise (TALE) dès qu’il est
+nécessaire de rabattre la nappe ou d’évacuer des eaux d’infiltration. Les procédés d’étanchement sont
+raccordés à ces puits suivant les techniques décrites au cahier 6 « dispositions constructives et
+traitements des points singuliers.
+Les puits de pompage sont disposés dans la partie la plus basse du radier, leur nombre et leurs
+dimensions (diamètre et profondeur) sont déterminés pour rabattre la nappe de 50 cm sous le niveau bas
+du radier.
+Le rabattement est maintenu jusqu’à ce que l’équilibre de l’ouvrage soit assuré. Pour permettre le
+raccordement du procédé d’étanchement et la fermeture des puits, une pièce de fontainerie doit être
+disposée en tête du puits.
+Après enlèvement des pompes, les puits de pompage doivent être complètement remplis et obturés. La
+procédure de remplissage doit être adaptée à la vitesse des remontées des eaux.
+Note : En radier, l’eau accumulée sur l’étanchéité est poussée par soufflage au moment du coulage du
+béton, elle doit ensuite être évacuée par pompage / aspiration ou par un exutoire si l’ouvrage d’étanchéité
+le permet.
+
+    6.4. Cas particulier d’une arrivée d’eau inopinée
+Malgré toutes les précautions prises ci-dessus, une arrivée d’eau peut se présenter pendant la mise en
+œuvre du procédé d’étanchement.
+Deux situations peuvent se présenter :
+    •   L’arrivée d’eau se produit avant la pose du procédé,
+    •   L’arrivée se produit pendant la pose du procédé.
+
+
+        Arrivée d’eau avant la pose du procédé d’étanchement
+Des inserts taraudés type prise d’eau pour liner de piscine sont installés dans la membrane. Un tube est
+vissé dans cet insert, il servira de drain de décharge et sera pris au coulage du béton, après prise du béton,
+le tube sera bouchonné. Dans le cas d’un DEG, un compartimentage équipé de pipettes isolera l’insert.
+
+
+
+
+                                                         15
+                    Recommandation de l’AFTES du GTguide – N°GT9.C3F1 – Mai 2024 - Prépublication
+               Figure 5- Pose de drain de décompression avant la pose du procédé d'étanchement
+
+
+
+
+                            Figure 6- Pose d'évents pour éviter le piégeage de l'eau
+
+
+
+        Arrivée d’eau pendant la pose du procédé
+Dans ce cas l’eau va s’accumuler entre la membrane et le soutènement et créer des gonfles. Ces gonfles
+doivent être éliminées car, d’une part, elles gênent la mise en œuvre du ferraillage et surtout, d’autre part,
+elles risquent d’éclater lors du bétonnage, une solution consiste en la mise en place de chaussettes
+suivant la procédure suivante :
+
+
+
+
+                                                         16
+                    Recommandation de l’AFTES du GTguide – N°GT9.C3F1 – Mai 2024 - Prépublication
+Figure 7-Élimination de l’eau dans des gonfles à l’aide d’une chaussette drainante
+
+
+
+
+                                                          17
+                     Recommandation de l’AFTES du GTguide – N°GT9.C3F1 – Mai 2024 - Prépublication
+7. PAROI MOULEE
+La technique de la paroi moulée est une solution généralement bien adaptée en présence de nappe
+phréatique.
+La connaissance du régime des nappes est nécessaire pour la conception et l’exécution de l’ouvrage. La
+présence de l’ouvrage, une fois terminé, avec son étanchéité relative, conduit à un effet de barrage
+lorsque la nappe est en écoulement. C’est notamment le cas des ouvrages sur pente, mais aussi des
+ouvrages de rives, compte tenu des échanges naturels entre les berges et le canal ou la rivière.
+Dans ce cas, des précautions doivent être respectées pour obtenir une paroi relativement étanche :
+   •    Surveiller la quantité de sable dans la boue bentonitique pour permettre une bonne mise en place
+        du béton,
+   •    Réduire le gradient hydraulique en allongeant la fiche,
+   •    Éviter le dévalement du béton pendant sa prise, la poussée de la boue doit être supérieure à celle
+        de la poussée hydrostatique ; à cet effet, il convient notamment de réaliser la paroi moulée depuis
+        une plateforme de travail au moins 1.00 m au-dessus du niveau de la plus haute nappe phréatique
+        pendant la durée du chantier.
+
+
+
+
+   1.   Diagramme de poussée sur la paroi de forage
+   2.   Nappe phréatique
+   3.   Diagramme de poussée de la boue
+   4.   Cake
+   5.   Boue bentonitique
+
+                                  Figure 8- Principe de soutènement à la boue
+
+
+
+
+                                                         18
+                    Recommandation de l’AFTES du GTguide – N°GT9.C3F1 – Mai 2024 - Prépublication
+La qualité des joints entre panneaux est particulièrement essentielle. Si l’on ne prend pas en compte ces
+trois aspects dans le dimensionnement de l’ouvrage, des désordres significatifs (renard, boulance)
+peuvent apparaître.
+Pour assurer le débit d’eau admissible, la continuité hydraulique au droit des joints de panneaux doit être
+assurée par des bandes d’arrêt d’eau ancrées dans les deux panneaux adjacents (système coffrage-joint)
+ou par des joints correctement remordus.
+
+
+8. TUNNEL A VOUSSOIRS
+La construction de tunnel foré au tunnelier à front pressurisé, avec revêtement à voussoirs, est adaptée
+pour traverser des terrains aquifères.
+
+
+
+
+                                                         19
+                    Recommandation de l’AFTES du GTguide – N°GT9.C3F1 – Mai 2024 - Prépublication
+9. COMPATIBILITE DE LA MISE EN ŒUVRE DES PROCEDES AVEC LES TECHNIQUES DE MAÎTRISE DES
+   ARRIVEES D’EAU
+
+                                                                                                                                                           Pluie –
+                                                                                                                                                           Tous les
+                                                                                                                                                           procédés
+                               Nappe phréatique                                                   Infiltration
+                                                                                                                                                           doivent être
+                                                                                                                                                           appliqués
+            Procédés                                                                                                                                       hors pluie
+                               Rabattement
+                                                                                                                                                           Avant
+                               avec ou sans                                                       Drainage        Drainage          Captage
+                                                Congélation        Hyperbare                                                                   Injection   coulage
+                               traitement                                                         généralisé      linéaire          ponctuel
+                                                                                                                                                           béton
+                               de sol
+                                                                                                                                                           Évacuation
+            Géomembrane                         Oui mais
+                                                                                                                                                           eau avant
+            synthétique                         tubes de
+                                                                                                                              Oui                          coulage du
+                                                congélation
+            DEG-S                                                                                                                                          béton en
+                                                en périphérie
+                                                                                                                                                           radier
+                                                                                                                                                           Évacuation
+            Géomembrane                         Oui mais
+                                                                                                                                                           eau avant
+            bitumineuse                         tubes de                      Non
+                               Oui                                                                                            Oui                          coulage du
+                                                congélation
+            DEG-B                                                                                                                                          béton en
+                                                en périphérie
+                                                                                                                                                           radier
+            Feuille
+            préfabriquée
+                                                Non                                               Non concerné (ne s’applique pas sur un
+            bitumineuse                                                                                                                                    Non
+            monocouche                                                                            soutènement)
+                                                                                                                                                           concerné
+ Extrados
+
+
+
+
+            FPM
+            Feuille
+                               Non concerné (application hors nappe phréatique)                   Non concerné (hors piédroit et voûte)
+            bitumineuse avec
+
+                                                                                   20
+                                              Recommandation de l’AFTES du GTguide – N°GT9.C3F1 – Mai 2024 - Prépublication
+protection par
+couche d’asphalte
+FPA
+Feuille
+préfabriquée                                                                                                                         Évacuer
+recouverte                                                                                                                           l’eau avant
+                                                                                                                 Oui
+                                                                                                                                     coulage du
+FPR
+                                    Oui mais                                                                                         béton
+Pré appliqué                       tubes de
+                    Oui                                          Non
+Feuille                            congélation
+préfabriquée                       en périphérie
+recouverte                                                                           Non concerné (ne s’applique pas sur un          Non
+                                                                                     soutènement)                                    concerné
+FPR
+Post appliqué
+Asphalte 8/22                                                                        Non concerné (application uniquement en dalle
+                    Non concerné (application hors nappe phréatique)
+ASB 8/22                                                                             de couverture)
+
+Asphalte
+monocouche                                                                           Non concerné (application uniquement en dalle
+                    Non concerné (application hors nappe phréatique)
+                                                                                     de couverture)
+ASM
+                                                                                                                                     Exposé à la
+                                                                                                                                     pluie 15
+                                                                                                                                     jours maxi
+                                                                                                                                     (sauf chape
+Géosynthétique
+                                                                                                                                     de
+bentonitique avec                                                                               Non
+                                               Oui                                                                     Oui           protection)
+ou sans film
+                                                                                                                                     Evacuation
+GSB
+                                                                                                                                     eau avant
+                                                                                                                                     coulage du
+                                                                                                                                     béton en
+                                                                                                                                     radier
+
+                                                                      21
+                                 Recommandation de l’AFTES du GTguide – N°GT9.C3F1 – Mai 2024 - Prépublication
+Système
+d’étanchéité                      Non concerné (ne s’applique ni sur un             Non concerné (ne s’applique pas sur un               Non
+liquide                           soutènement, ni à l’intrados)                     soutènement)                                         concerné
+SEL
+
+Système           Oui                                                                                                 Oui pose
+                                                                                                                                         Hors pluie
+d’étanchéité                                                                                                          de drain
+                                                                                                                                         jusqu’à
+projeté confiné                   Non                                                                                 de
+                                                                 Oui                Non              Oui                           Oui   coulage ou
+                                  concerné                                                                            décharge
+SEPC Copolymère                                                                                                                          projection
+                                                                                                                      à
+extrados                                                                                                                                 du béton
+                                                                                                                      calfeutrer
+Géocomposite
+d’étanchéité                                                                                                                             Evacuer
+adhèrent pré-                                                                                                                            l’eau avant
+                                                                                                                Oui
+appliqué                                                                                                                                 coulage du
+                                                                                                                                         béton
+GEA-P
+                  Oui             Non concerné
+Géocomposite
+d’étanchéité
+adhérent post-                                                                       Non concerné (ne s’applique pas sur un              Non
+appliqué                                                                            soutènement)                                         concerné
+
+GEA-PO
+
+                  Tableau 1- Compatibilité des procédés intradossés avec les techniques de maîtrise des arrivées d'eau
+
+
+
+
+                                                                     22
+                                Recommandation de l’AFTES du GTguide – N°GT9.C3F1 – Mai 2024 - Prépublication
+                                                                                                                                                       Pluie –
+                                                                                                                                                       Tous les
+                                                                                                                                                       procédés
+                                                                                                                                                       doivent
+                                  Nappe phréatique                                                Percolation
+                                                                                                                                                       être
+           Procédé                                                                                                                                     appliqués
+                                                                                                                                                       hors pluie
+
+                                                                                                                                                       Avant
+                                                                                                  Drainage         Drainage   Captage
+                                  Rabattement   Congélation           Hyperbare                                                            Injection   coulage
+                                                                                                  généralisé       linéaire   ponctuel
+                                                                                                                                                       béton
+                                                La congélation
+                                                du terrain pour
+                                                l’exécution du
+                                                revêtement            L’hyperbare est
+                                                béton est             permise pour                                            Oui pose
+                                                possible.             l’exécution du                                          de drain
+                                                                      revêtement béton.                                       de
+           SEL-A                  Oui           Le terrain doit       Elle doit être arrêtée                                  décharge
+                                                être                  pour la mise en                                         à
+Intrados
+
+
+
+
+                                                décongelé             œuvre du procédé                             Oui        calfeutrer               Non
+                                                pour la mise                                      Non                                      Oui
+                                                                      d’étanchement                                Encastré                            concerné
+                                                en œuvre du
+                                                procédé
+                                                d’étanchement
+           Système
+           d’étanchéité projeté
+           confiné                Non concerné (application hors nappe phréatique)                                            Oui
+           SEPC copolymère
+           intrados
+
+
+
+
+                                                                                  23
+                                             Recommandation de l’AFTES du GTguide – N°GT9.C3F1 – Mai 2024 - Prépublication
+Enduit épais
+d’imperméabilisation
+adjuvanté base                           La congélation
+mortier épais                            du terrain pour
+EIA-P                                    l’exécution du        L’hyperbare est
+                                         revêtement            permise pour                                            Oui pose
+Enduit mince                             béton est             l’exécution du                                          de drain
+d’imperméabilisation                     possible.             revêtement béton.                            Oui        de                 Non
+adjuvanté base          Oui                                                                                                         Oui
+                                         Le terrain doit       Elle doit être arrêtée                       Encastré   décharge           concerné
+mortier mince                                                  pour la mise en                                         à
+                                         être décongelé
+EIA-M                                    pour la mise en       œuvre du procédé                                        calfeutrer
+                                         œuvre du              d’étanchement
+Système                                  procédé
+d’imperméabilisation                     d’étanchement
+liquide
+SIL
+                                         La congélation
+                                         du terrain pour
+                                         l’exécution du        L’hyperbare est
+                                         revêtement            permise pour
+Enduit                                   béton est             l’exécution du
+d’imperméabilisation                     possible.                                                                     Oui drain
+                                                               revêtement béton.                            Oui                           Non
+par minéralisation      Oui                                                                Non                         de           Oui
+                                         Le terrain doit       Elle doit être arrêtée                       encastré                      concerné
+                                                                                                                       décharge
+EIM                                      être décongelé        pour la mise en
+                                         pour la mise en       œuvre du procédé
+                                         œuvre du              d’étanchement
+                                         procédé
+                                         d’étanchement
+
+
+
+                       Tableau 2- Compatibilité des procédés extradossés avec les techniques de maîtrise des arrivées d'eau
+
+
+
+
+                                                                           24
+                                      Recommandation de l’AFTES du GTguide – N°GT9.C3F1 – Mai 2024 - Prépublication
+10.   SOURCES BIBLIOGRAPHIQUES
+  •   Normes
+      NF P94-282 compil 2 : Calcul géotechnique – Ouvrage de soutènement – Écrans –
+      Texte compilé de la norme NF P94-282 et de ses amendements A1 et A2 de février
+      2015 et A2 de novembre 2020
+      NF EN 12715 : Exécution des travaux géotechniques spéciaux - Injection
+      NF X 10-999 : Forage d’eau et de géothermie – Réalisation, suivi et abandon d’ouvrage
+      de captage ou de surveillance des eaux souterraines réalisés par forages
+  •   DTU
+      DTU 14.1 : NF DTU 14.1 « Travaux de cuvelage-Partie 1-1 : cahier des clauses techniques
+      types – Partie 1-2 : critères généraux de choix des matériaux – Partie 2 : cahier des
+      clauses administratives spéciales types
+
+  •   Fascicule du CCTG (Cahier des clauses techniques générales applicables aux marchés
+      publics de travaux de génie civil)
+      Fascicule 65
+      Fascicule 68
+      Fascicule 69
+  •   Recommandations AFTES
+      GT9.R1F3 : Traitements d’arrêts d’eau dans les ouvrages souterrains
+      GT9.R19F1 : Recommandation sur la protection des étanchéités extradossées et le
+      drainage des ouvrages souterrains
+
+
+
+  •   Recommandations Professionnelles
+      CFMS et SEEG rabattement nappe
+  •   Revue TES
+      N° 202 juillet/Août 2007 congélation terrain
+      N° 252 oct-nov-dec 2017 hyperbare
+      N°263 janv-Fév-Mars 2018 hyperbare
+
+
+
+
+                                                   25
+              Recommandation de l’AFTES du GTguide – N°GT9.C3F1 – Mai 2024 - Prépublication
+11. ANNEXES
+
+
+  11.1.    Annexe n°1 – Synoptique des procédés d’étanchement et
+      dispositifs de drainage
+
+
+
+
+                                                26
+           Recommandation de l’AFTES du GTguide – N°GT9.C3F1 – Mai 2024 - Prépublication
+11.2.     Annexe n°2 Liste et libellés des cahiers
+
+
+
+
+          N°                                             Libellé
+        Cahier
+
+
+          0                               Cadre général, terminologie
+          1              Présentation des différents procédés d’étanchement et
+                        dispositifs de drainage et de leurs contrôles sur chantier
+          2           Guide de choix des procédés d’étanchement et dispositifs de
+                                               drainage
+          3             Mise hors d’eau provisoire pour l’installation des procédés
+                                d’étanchement et dispositifs de drainage
+          4           Qualité des supports recevant un procédé d’étanchement ou
+                                       un dispositif de drainage
+          5              Protections mécaniques des procédés d’étanchement et
+                                         dispositifs de drainage
+          6           Dispositions constructives et traitement des points singuliers
+          7           Dimensionnement des retours techniques pour les procédés
+                                            intradossés
+          8                       Phasage avec les travaux du Gros-œuvre
+                                             Protections transitoires
+          9                  Étanchéité mixte et raccordements aux existants
+         10                         Étanchement des structures intégrées
+          11                       Compartimentage des DEG-S et DEG-B
+         12                     Sécurité en phase travaux et en exploitation
+         13              Durabilité des procédés d’étanchement et dispositifs de
+                                                drainage
+         14              Entretien des procédés d’étanchement et dispositifs de
+                                               drainage
+         15            Réparation et maintenance des procédés d’étanchement et
+                                        dispositifs de drainage
+         16                         Rex de MOA et coûts de maintenance
+         17                          Assurances et garanties des travaux
+
+
+
+
+                                                    27
+               Recommandation de l’AFTES du GTguide – N°GT9.C3F1 – Mai 2024 - Prépublication
+Éditeur : AFTES (ASSOCIATION FRANÇAISE DES TUNNELS ET DE L’ESPACE SOUTERRAIN)
+                   42 rue Boissière - 75116 PARIS - Tèl. : 01 85 34 33 20
+
+
+
+
+                                               28
+          Recommandation de l’AFTES du GTguide – N°GT9.C3F1 – Mai 2024 - Prépublication
+Association Française des Tunnels et de l'Espace Souterrain
+aftes@aftes.fr
+https://www.aftes.fr
+

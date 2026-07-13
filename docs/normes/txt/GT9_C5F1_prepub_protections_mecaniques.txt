@@ -1,0 +1,1318 @@
+LES RECOMMANDATIONS DE L’AFTES
+
+
+
+Guide pour l'étanchement et le
+drainage des ouvrages souterrains
+CAHIER 5
+Protections mécaniques des procédés
+d’étanchement et de drainage
+
+
+GT9.C5F1
+Mai 2024
+
+
+
+
+PREPUBLICATION
+Guide des Bonnes Pratiques pour l’Étanchement et
+le Drainage des Ouvrages Souterrains.
+
+Cahier 5 : « Protections mécaniques des procédés
+d’étanchement et de drainage »
+N° de la recommandation : GT9.C5F1
+
+
+
+
+Avertissement :
+« Les recommandations de l’AFTES sont l’aboutissement de travaux de synthèse, de réflexions
+méthodologiques, de recherches et de retours d’expérience menés par l’Association ayant vocation
+à servir de référence pour la conception, la réalisation ou l’exploitation des ouvrages souterrains.
+Elles s’adressent uniquement à un public de professionnels avertis, seuls à même de pouvoir en
+apprécier la pertinence dans chaque contexte particulier, et d’en appliquer le contenu, totalement
+ou partiellement, sous leur seule responsabilité.
+L’AFTES décline expressément toute responsabilité quant à l’interprétation                        de   ses
+Recommandations, y compris les dommages éventuels en résultant ou étant liés. »
+
+                                                       1
+                  Recommandation de l’AFTES du GTguide – N°GT9.C5F1 – Mai 2024 - Prépublication
+             Recommandation de l’AFTES N° GT9.C5F1
+
+
+Guide des Bonnes Pratiques pour l’Étanchement et le
+Drainage des Ouvrages Souterrains.
+
+Cahier 5 : « protections mécaniques des procédés
+d’étanchement et de drainage »
+
+       Texte présenté par : Jean Louis MAHUET, animateur du groupe de travail GTguide et de
+                                   Jean Noël LOUCHART vice-animateur
+
+
+                           Ce document a été réalisé avec la collaboration de :
+Christophe AUBRY (EDF), Axel AUGUSTIN (RENOLIT), Brahim BENZIANE (SNCF RÉSEAU), Xavier-Blaise
+MARTIN (MAPEI FRANCE), Gustavo BOMBEN (FAMA), Olivier BORODINE (GERFA), Stéphane BUISSON
+(EGIS RAIL), Arnaud BURY (APAVE), Alexandra CALLIGARO (FAMA), Daniel CAMELIN (SIKA), Raphaël
+CERDA (SATEC), François CHALLIER (GCP), David CHAMOLEY (CETU), Fréderic CHAPERON (APRR),
+Gilles CHRISTIEN (HILTI), Manuel DECOODT (ETANDEX), Baïla DEME (SGP), Quentin DREUX (MB
+EUROPE) Laurent FAUQUIGNON (UGC CONSULTING), Pascal FRISON (SIKA), Jean-Bernard GAMAY
+(EUROTUNNEL), Marthe JACQUEAU-GRAMAGLIA (SOCOTEC puis SECC), Paul GUINARD
+(APRODEG/SOPREMA), Véronique HEILI (CEREMA-EST), Alan JALIL (CSTB), Mathieu JANES (OPTIMAS),
+Jean-Louis JUGE (RESIPOLY), Jean Noël LOUCHART (ETANDEX), Jean-Louis MAHUET (EXPERT
+JUDICIAIRE), Alexandre MARCHAND (SOPREMA), Romain MECHALI (SPPM), Mesut MANEVI (GCC),
+Edouard MOREAU (BOUYGUES-CONSTRUCTION), Sylvie MORTIER (SETEC), Maria NENOVA (SOPREMA),
+Françoise PRESSIER (SOPREMA), Karine PUYJARINET (IMPLENIA), Franck LEDAGUENEL (RATP), Louis
+RAMONDOU (RTM), Thomas SAHM (ICOPAL puis RESIPOLY), Laurent SAUGER (CEREMA), Jean-Serge
+SAMBOURG (LILLE-MÉTROPOLE), Yan TAIBI (BOUYGUES-CONSTRUCTION), Ludovic TANGUY (RATP),
+Sébastien VERBRUGGHE (LOWANDBONAR), Mathilde RIOT-VERDIER (AFITEXINOV), Paul VIDIL
+(SOLETANCHE BACHY), Jean-Pierre VIGOUROUX (EXPERT), Erik VIMOND (ETANDEX/APSEL)
+
+
+                                  Ce manuscrit a été révisé et corrigé par :
+Michel PRÉ (Setec), François LAIGLE (BG Ingénieurs conseils SAS), Jean-Marc KOEBEL (Spie Batignolles),
+Laurent CHASSAGNE (RATP), François RENAULT (Vinci-Construction), Christophe JASSIONNESSE (Spie
+Batignolles)
+
+
+            Le texte qui suit a été validé par le Comité Technique de l’AFTES le 30 mai 2024
+
+
+                 L’AFTES recueillera avec intérêt toute suggestion relative à ce texte.
+
+
+
+                                                     2
+                Recommandation de l’AFTES du GTguide – N°GT9.C5F1 – Mai 2024 - Prépublication
+                                    Le cas échéant, Réédition comportant la correction d’errata.
+
+
+
+TABLE DES MATIÈRES
+
+FIGURES..................................................................................................................................... 4
+TABLEAUX ................................................................................................................................. 5
+Avant- Propos ............................................................................................................................ 6
+1.          INTRODUCTION ................................................................................................................ 7
+     1.1.     Les procédés d’étanchement extradossés .................................................................................. 7
+     1.2.     Les procédés d'étanchement intradossés ................................................................................... 7
+     1.3.     Les dispositifs de drainage......................................................................................................... 7
+2.          PROTECTION MECANIQUE DES PROCEDES D’ETANCHEMENT EXTRADOSSES ...................... 8
+     2.1.     Tunnels creusés ou forés (double anneau) ................................................................................. 8
+     2.2.     Tranchées couvertes – Cas des procédés d’étanchéité extradossée revêtues de béton .............. 10
+     2.3.     Tranchées couvertes – Cas des procédés d’étanchéité extradossée remblayée ......................... 13
+       2.3.1.       Tranchées couvertes – Cas des procédés d’étanchéité extradossée remblayée ...................................... 13
+       2.3.2.       Hauteur de couverture .............................................................................................................................. 13
+       2.3.3.       La nature des matériaux de remblai ......................................................................................................... 13
+
+3.          PROTECTIONS DES PROCEDES INTRADOSSES ................................................................... 19
+     3.1.     Tunnel routier ......................................................................................................................... 19
+       3.1.1.       Voûte et piédroits gabarit de passage ...................................................................................................... 19
+       3.1.2.       Parements rapportés et habillage ............................................................................................................. 21
+       3.1.3.       Radier ........................................................................................................................................................ 21
+     3.2.     Tunnel de transport guidé ....................................................................................................... 21
+     3.3.     Gares et stations ..................................................................................................................... 23
+       3.3.1.       Gares et stations non aménagées ............................................................................................................. 23
+       3.3.2.       Gares et stations aménagées (espaces commerciaux) ............................................................................. 23
+
+4.          PROTECTIONS MECANIQUES DES STRUCTURES RELATIVEMENT ETANCHES ...................... 25
+5.          PROTECTIONS MECANIQUES DES DISPOSITIFS DE DRAINAGE........................................... 25
+     5.1.     Tunnel avec limite d'emprise (TALE) ........................................................................................ 25
+     5.2.     Tunnel sans limite d'emprise (TSLE) ......................................................................................... 26
+     5.3.     Calcul de la poussée des terres sur une nappe drainante .......................................................... 26
+     5.4.     Calcul de la poussée du béton sur une nappe drainante ........................................................... 30
+6.          SOURCES BIBLIOGRAPHIQUES ......................................................................................... 31
+7.          ANNEXE.......................................................................................................................... 32
+     7.1.     Annexe N°1 - Liste et libellés des cahiers.................................................................................. 32
+     7.2.     Annexe N°2 - Synoptique des procédés d’étanchement et de drainage ..................................... 33
+                                                                                        3
+                               Recommandation de l’AFTES du GTguide – N°GT9.C5F1 – Mai 2024 - Prépublication
+                                                                                                    FIGURES
+Figure 1- Protections d'un DEG-S ........................................................................................................................................................................ 9
+Figure 2- Étanchéité à protéger par une dalle béton (cas d'un ouvrage "voûte" avec remblai < 0,50 m) ... 13
+Figure 3- Exemple de mise en œuvre du remblai autour d'un ouvrage cadre étanché (cas d'une hauteur
+de remblai < 50 cm) .....................................................................................................................................................................................................18
+Figure 4- Définition des marges de sécurité ............................................................................................................................................. 19
+Figure 5-Exemple d'espace de circulation en tunnel routier ...................................................................................................... 20
+Figure 6- Panneau de signalisation B12 ....................................................................................................................................................... 20
+Figure 7- Exemple de barre de protection à l'entrée d'un tunnel routier ........................................................................... 21
+Figure 8- Exemple de protection d'un procédé intradossé en tunnel de transport guidé .................................... 22
+Figure 9- Exemple de protection d'un procédé intradossé par carrelage collé ou un enduit au droit des
+emplacements publicitaires ..................................................................................................................................................................................23
+Figure 10- Exemple de cloison de doublage pour les procédés d'imperméabilisation ...........................................24
+Figure 11- Principe d'un drainage dans un tunnel avec limite d'emprise ............................................................................25
+Figure 12- Principe d'un drainage dans un tunnel sans limite d'emprise ........................................................................... 26
+
+
+
+
+                                                                                                            4
+                                         Recommandation de l’AFTES du GTguide – N°GT9.C5F1 – Mai 2024 - Prépublication
+                                                                                                     TABLEAUX
+
+
+Tableau 1-Types de protections admises en tunnel creusé ou foré (double anneau) ................................................ 8
+Tableau 2-Type de protections admises en tranchée couverte (cas des étanchéités extradossées
+revêtues de béton) ....................................................................................................................................................................................................... 12
+Tableau 3-Type de protections admises en tranchée couverte (cas des étanchéités extradossées
+remblayées).......................................................................................................................................................................................................................18
+Tableau 4- Gabarit autorisé en tunnel routier .......................................................................................................................................... 19
+
+
+
+
+                                                                                                                5
+                                           Recommandation de l’AFTES du GTguide – N°GT9.C5F1 – Mai 2024 - Prépublication
+                                     Avant-Propos
+Le cahier 17 fait partie d'une série de 18 cahiers thématiques. Ces cahiers constitueront le « Guide
+des Bonnes Pratiques pour l'étanchement et le drainage des ouvrages souterrains ».
+Ces cahiers élaborés par un groupe de travail dédié de l’AFTES, le GTguide, comprenant plus de 50
+professionnels acteurs pluridisciplinaires intervenants dans l'étanchement et le drainage des
+ouvrages souterrains : Maîtres d'Ouvrage, Maîtres d'Œuvre, Contrôleurs Techniques, Exploitants,
+Gros Œuvre, Fondations Spéciales, Fabricants, Étancheurs, Laboratoires.
+Chacun apporte, dans son domaine de compétence son expertise et retour d'expérience des
+différentes pratiques permettant de concevoir, réaliser, et d’entretenir, de façon optimale et
+pérenne, l'étanchement et le drainage d'un ouvrage souterrain. Les membres du GT9 y sont
+fortement représentés.
+La constitution des cahiers se réalise en deux étapes :
+    • Étape 1 : rédaction et Obtention d'un consensus au sein du groupe de travail ;
+    • Étape 2 : relecture et validation par le Comité Technique de l'AFTES.
+Le « Guide des Bonnes Pratiques » décrit précisément tous les procédés d’étanchement (*) et les
+dispositifs de drainage surfaciques utilisés en ouvrages souterrains. A travers ses cahiers
+thématiques rédigés dans le respect du cadre règlementaire et normatif applicable et de l’état de
+l’art, le Guide traite en particulier :
+   •   De leurs spécificités de mise en œuvre (y compris le traitement de certains points singuliers)
+       et des différents contrôles associés ;
+   •   Des conditions de chantier requises (mise hors eau, qualité du support béton, protections,
+       etc.) ;
+   •   Des interactions avec les autres corps de métier (gros œuvre, équipements, etc.) ;
+   •   De l’interopérabilité entre les procédés ;
+   •   De leur entretien et maintenance afin d’assurer leur durabilité ;
+   •   Des critères de choix des procédés en fonction des conditions géotechniques et
+       hydrogéologiques du terrain, du mode constructif de l'ouvrage, des résultats attendus par
+       le MOA ;
+   •   De l'assurabilité des travaux d'étanchement.
+
+
+(*) Les procédés d'étanchement décrits se déclinent en deux catégories :
+     • Les procédés traditionnels décrits dans le fascicule 67 titre III et bénéficiant d'un Avis
+         Technique CETU ;
+     • Les procédés innovants examinés dans le cadre d'une Évaluation AFTES.
+
+
+
+
+                                                     6
+                Recommandation de l’AFTES du GTguide – N°GT9.C5F1 – Mai 2024 - Prépublication
+1. INTRODUCTION
+
+    1.1. Les procédés d’étanchement extradossés
+Les procédés d’étanchement extradossés sont soumis à des agressions pendant la réalisation du
+revêtement béton ou du remblayage ; il convient de prendre des dispositions, comme une protection vis-
+à-vis des remblais, pour ne pas endommager l’étanchéité.
+On distingue :
+    •    Les ouvrages sans limite d’emprise.
+         L’agression est principalement due aux matériaux et techniques de remblayage.
+    •    Les ouvrages avec limite d’emprise.
+         Les agressions proviennent de la nature et l’état des écrans de soutènement et de la réalisation
+         du revêtement béton (ferraillage, coffrage et bétonnage).
+    •    Les tunnels creusés par méthode conventionnelle.
+         Les agressions proviennent de la nature et de l’état du support et du phasage de la réalisation de
+         l’ouvrage (ce cas fait l’objet d’un chapitre particulier).
+Les protections ont surtout été étudiées pour les DEG et ont fait l’objet de nombreuses publications de
+l’AFTES. Elles sont aussi décrites dans le nouveau fascicule 67 titre III. La nouvelle recommandation
+AFTES GT9.R19F1 regroupe et synthétise l’ensemble des différentes spécifications qui ont été extrapolées
+aux autres procédés.
+Dans le présent chapitre, seuls les tableaux du chapitre 5 des recommandations GT9.R19F1 ont été repris.
+Pour la définition et la composition des différentes protections, il faut se reporter à ces recommandations.
+
+    1.2. Les procédés d'étanchement intradossés
+Les procédés d'étanchement intradossés sont soumis à des agressions pendant les travaux liés aux corps
+d’état intervenant sur le procédé et pendant l'exploitation de l'ouvrage.
+Pour ce dernier on distingue :
+    •    Les tunnels routiers : les agressions proviennent surtout de l’entretien, de la maintenance des
+         équipements, des fixations diverses, mais également des chocs accidentels de PL/VL ;
+    •    Les tunnels de transport guidés et ferroviaires : les agressions proviennent surtout de l’entretien,
+         de la maintenance des équipements et des voies, des fixations diverses ;
+    •    Gares et stations recevant du public : les agressions proviennent surtout de l’évolution des
+         équipements et systèmes d’exploitation, de l’entretien, des engins de manutention et des actes
+         de vandalisme.
+Note :
+Pour les ouvrages hydrauliques et d’assainissement, se référer au Fascicule 74.
+
+    1.3. Les dispositifs de drainage
+Les procédés de drainage sont soumis à l'agression des remblais ou au coulage du béton.
+
+
+
+
+                                                          7
+                     Recommandation de l’AFTES du GTguide – N°GT9.C5F1 – Mai 2024 - Prépublication
+        2. PROTECTION MECANIQUE DES PROCEDES D’ETANCHEMENT EXTRADOSSES
+
+            2.1. Tunnels creusés ou forés (double anneau)
+        Dans ce cas de figure, les protections des procédés d’étanchéité sont choisies en fonction de la nature du support (soutènement, radier, voussoirs). L’étanchéité
+        extradossée (DEG-S uniquement) est mise en œuvre sur la protection inférieure puis recouverte par les protections supérieures et complémentaires qui reçoivent
+        le revêtement (piédroits et voûte) ou le radier en béton.
+
+
+  Procédé               Type de                                                                                   Nature du support
+d’étanchéité           protection                                                                            (tel que défini au cahier 4)
+                                                                                                                                                                           Voussoirs de tunnel
+                                                 Radier de tunnel                                              Soutènement de tunnel                                       (dans le cas des tunnels
+                                                                                                                                                                               double anneau)
+                                                                                Béton projeté non fibré
+                                                                                                                 Profilés métalliques               Béton projeté fibré
+                                                Béton de propreté                 Béton projeté fibré                                                                        Béton préfabriqué
+                                                                                                                      (cintres…)                        métallique
+                                                                                     synthétique
+
+                       Protection
+                                                Géotextile 700 g/m²               Géotextile 700 g/m²            Géotextile 1000 g/m²               Géotextile 1200 g/m²    Géotextile 1000 g/m²
+                       inférieure
+
+                                                                                                               Écran de protection PVC
+Géomembrane                                                                                                         1,90 mm mini
+    PVC                Protection             Ecran de protection PVC                                         (ponctuellement au droit des
+                       supérieure                  1,90 mm mini                                                 abouts de coffrage et de
+(Translucide,                                                                                                     zones ferraillées du
+ 2mm mini)                                                                                                            revêtement)
+                                                                            Classe minimale de résistance au poinçonnement dynamique du complexe : 2
+
+                     Protection                    6 cm de béton
+                                                                                            -                                -                               -                        -
+                   complémentaire              (ou dispositif équivalent)
+
+
+        (-) : pas de protection obligatoire
+                                                              Tableau 1-Types de protections admises en tunnel creusé ou foré (double anneau)
+
+
+
+
+                                                                                                         8
+                                                                    Recommandation de l’AFTES du GTguide – N°GT9.C5F1 – Mai 2024 - Prépublication
+Au droit des abouts de coffrage du revêtement,
+   •    Une bande transversale (cerce) de 1 m de largeur de géoespaceur drainant est placée entre le support et
+        la protection inférieure (repère 4 sur la figure 1) ;
+       Note : une bande drainante longitudinale (lisse) est également disposée en base de piédroits du
+revêtement béton. (Repère 5 sur la figure 1)
+   •    Une bande de protection supérieure PVC, d’épaisseur 1,9 mm sur une largeur minimale de 1 m doit
+        également être systématiquement thermosoudée.
+Pour la réalisation d’éléments ou d’ouvrages annexes fortement ferraillés (corbeau et suspente de dalle de
+ventilation, niche, issue de secours, ouvrage de déversement…), une protection supérieure PVC est
+systématiquement mise en œuvre sur le procédé d’étanchéité.
+
+
+
+
+   1.   Banquette                                               8. Tôle colaminée
+   2.   Soutènement                                             9. Géomembrane
+   3.   Drain                                                   10. Profilé de compartimentage
+   4.   Cerce de géo-espaceur                                   11. Protection supérieure
+   5.   Lisse de géoespaceur                                    12. Béton de protection
+   6.   Protection inférieure                                   13. Acier en attente
+   7.   Rondelles de fixation
+
+
+                                              Figure 1- Protections d'un DEG-S
+
+                                                              9
+                         Recommandation de l’AFTES du GTguide – N°GT9.C5F1 – Mai 2024 - Prépublication
+   2.2. Tranchées couvertes – Cas des procédés d’étanchéité extradossée revêtues de
+        béton
+Dans ce cas de figure, les protections de l’étanchéité sont choisies en fonction de la nature du support
+(soutènement latéral des TALE ou radier). L’étanchéité extradossée est mise en œuvre sur la protection inférieure
+puis recouverte par les protections supérieures et complémentaires qui reçoivent le revêtement (voiles latéraux)
+ou le radier en béton.
+
+
+
+
+                                                             10
+                        Recommandation de l’AFTES du GTguide – N°GT9.C5F1 – Mai 2024 - Prépublication
+                                                                                                  Nature du support
+                    Type de protection
+                                                                                              (tel que défini au cahier 11)
+
+                                         Radier (TSLE et TALE)                                 Soutènement latéral (TALE, hors structures intégrées)
+
+                                                                           Béton coulé et préfabriqué
+                                                                                                                       Parois berlinoises
+                                                                             Béton projeté non fibré
+                                                                                                                Parois moulées non rabotées      Béton projeté fibré
+                                           Béton de propreté             Béton projeté fibré synthétique
+                                                                                                                                                    métallique
+                                                                                                                Rideau de palplanches (avec
+                                                                            Parois moulées rabotées
+                                                                                                                  remplissage des ondes)
+                                                                               Paroi à coulis (PAC)
+
+                        Protection
+                                          Géotextile 700 g/m²                  Géotextile 700 g/m²                   Géotextile 1000 g/m²       Géotextile 1200 g/m²
+                        inférieure
+
+ Géomembrane           Protection                                        Ecran de protection PVC-P 1,90
+     PVC               supérieure                                                   mm mini
+(translucide, 2mm
+       mini)                                                Classe de résistance au poinçonnement dynamique du complexe ≤ 2
+
+                       Protection             6 cm de béton
+                                                                                          -                                    -                          -
+                     complémentaire      (ou dispositif équivalent)
+
+
+
+                        Protection
+                                                                       Géotextile 700 g/m²                           Géotextile 1000 g/m²       Géotextile 1200 g/m²
+ Géomembrane            inférieure
+  Bitumineuse
+                       Protection
+    (> 4 mm)                                                                   Géotextile 700 g/m²
+                       supérieure
+
+                                                            Classe de résistance au poinçonnement dynamique du complexe ≤ 2
+
+
+
+
+                                                                                  11
+                                             Recommandation de l’AFTES du GTguide – N°GT9.C5F1 – Mai 2024 - Prépublication
+    Procédé                 Type de                                                                       Nature du support
+  d’étanchéité             protection                                                              (Tel que défini au tableau n°3)
+
+                                                    Radier (TSLE et TALE)                                Soutènement latéral (TALE, hors structures intégrées)
+
+                                                                                     Béton coulé et préfabriqué
+                                                                                                                                Parois berlinoises
+                                                                                       Béton projeté non fibré
+                                                                                                                         Parois moulées non rabotées       Béton projeté fibré
+                                                     Béton de propreté             Béton projeté fibré synthétique
+                                                                                                                                                              métallique
+                                                                                                                          Rideau de palplanches (avec
+                                                                                      Parois moulées rabotées
+                                                                                                                            remplissage des ondes)
+                                                                                         Parois à coulis (PAC)
+                           Protection
+                                                               -                                    -                                   -                           -
+                           inférieure
+                                                        6 cm de béton
+       GSB
+                           Protection                         OU
+ (Avec pression de                                                                                  -                                   -                           -
+   confinement >           supérieure                Treillis soudé ST25C
+      10 kPa)
+                                                   (ou dispositif équivalent)
+                          Protection
+                                                               -                                    -                                   -                           -
+                        complémentaire
+
+Légende :    (-) : pas de protection obligatoire
+
+
+                               Tableau 2-Type de protections admises en tranchée couverte (cas des étanchéités extradossées revêtues de béton)
+
+
+
+
+                                                                                            12
+                                                       Recommandation de l’AFTES du GTguide – N°GT9.C5F1 – Mai 2024 - Prépublication
+   2.3. Tranchées couvertes – Cas des procédés d’étanchéité extradossée remblayée
+
+       2.3.1. Tranchées couvertes – Cas des procédés d’étanchéité extradossée remblayée
+Dans ce cas de figure, les protections de l’étanchéité sont choisies en fonction du procédé d’étanchéité, de la
+hauteur et de la nature du remblai. L’étanchéité extradossée est mise en œuvre (directement ou avec sa protection
+inférieure) sur le support en béton coffré puis recouverte, au-dessus de l’ouvrage, par les protections supérieures
+et complémentaires. Par définition, pour un ouvrage « cadre », les éléments extradossés à protéger sont les voiles
+latéraux et la dalle de couverture ; pour un ouvrage « voûte », il s’agit des piédroits et de la voûte.
+
+       2.3.2. Hauteur de couverture
+La hauteur de couverture à prendre en compte est celle mesurée au point le plus haut de l’ouvrage par rapport
+au terrain naturel. L’éventuelle structure de chaussée n’est pas prise en compte dans la hauteur du remblai. Pour
+un ouvrage « voûte », ce point correspond à la position de la clé de voûte. Sur un ouvrage « voûte » à faible
+couverture (≤ 0,50 m), la protection complémentaire en béton devra être présente en tout point où la hauteur de
+remblai est inférieure à 0,50 m.
+
+
+
+
+           Figure 2- Étanchéité à protéger par une dalle béton (cas d'un ouvrage "voûte" avec remblai < 0,50 m)
+
+
+
+
+       2.3.3. La nature des matériaux de remblai
+Elle est définie conformément au Guide des Terrassements Routiers (IDDRIM / CEREMA – mai 2023), couramment
+appelé GTR, pour la réalisation des remblais et couches de forme de chaussées. La classification des matériaux
+selon leur nature (sols à tendance sableuse de classe S, sols à tendance graveleuse de classe G, sols blocailleux
+de classe VC et matériaux rocheux de classe R) est donnée en annexe D. Concernant le risque de perforation
+d’étanchéités, les paramètres retenus sont :
+    • La granularité du remblai : Plus un matériau est important dans ses dimensions (caractérisé par son Dmax,
+         dimension maximale des plus gros éléments), plus il est potentiellement agressif. Pour cela, il est
+         recommandé de limiter le Dmax à 200 mm sur les 2 premiers mètres du remblai autour de la structure ;
+    • La forme des éléments du remblai : Des matériaux à bords arrondis (granulats roulés) sont potentiellement
+         moins poinçonnant qu’une forme anguleuse (granulats concassés).
+
+Seuls les sols de classes S, G, VC et R composés de matériaux réputés les plus poinçonnants sont indiqués dans
+le tableau n°8 ci-dessous.
+A noter : Même s’ils sont peu agressifs, certains remblais de classes F et I peuvent être déconseillés en remblais
+sur étanchéité (difficulté de compactage et risque d’endommagement de l’étanchéité). Les classes des matériaux
+organiques ou anthropiques sont, dans tous les cas, à exclure.
+
+
+
+                                                              13
+                         Recommandation de l’AFTES du GTguide – N°GT9.C5F1 – Mai 2024 - Prépublication
+Procédé d’étanchéité
+                         Type de protection                                                                         Nature et hauteur du remblai
+
+
+
+                                                                                                Voûte / dalle de couverture (TSLE et TALE) et piédroits / voiles (TSLE)
+
+
+                                                          Hauteur de remblai ≤ 0,50 m                                                                      Hauteur de remblai > 0,50 m
+
+                                                     Matériaux de remblai roulés ou concassés                               Matériaux de remblai roulés                             Matériaux de remblai concassés
+
+                                                              avec Dmax ≤ 200 mm                                         avec Dmax ≤ 100 mm (classe VC2)                     avec Dmax ≤ 200 mm sur les 2 premiers mètres
+
+                                                              (classes S, G, VC et R)                                   ou Dmax ≤ 63 mm (classes S, G et R)                                 (classes VC et R)
+
+
+                       Protection inférieure                 Géotextile 700 g/m²                                             Géotextile 700 g/m²                                         Géotextile 700 g/m²
+
+                                                                                                                                                                            2 x Ecran de protection PVC 1,90 mm mini
+                       Protection supérieure        Ecran de protection PVC 1,90 mm mini                           Ecran de protection PVC 1,90 mm mini                                           OU
+                                                                                                                                                                                     2 x Géotextile 1200 g/m²
+Géomembrane PVC
+                                                                                                                                                                       Classe de résistance au poinçonnement dynamique
+(Translucide, 2 mm                                             Classe de résistance au poinçonnement dynamique du complexe ≤ 2
+       mini)                                                                                                                                                                             du complexe : 0
+                                                   Ouvrage cadre                        Ouvrage voûte (*)
+                                               Sur dalle de couverture :                 6 cm de béton                                   -                                                         -
+                           Protection
+                         complémentaire             6 cm de béton
+
+                                                                                                               + Grillage avertisseur dans le remblai
+
+
+                       Protection inférieure                 Géotextile 700 g/m²                                             Géotextile 700 g/m²                                         Géotextile 700 g/m²
+
+
+                       Protection supérieure                 Géotextile 700 g/m²                                             Géotextile 700 g/m²                                     2 x Géotextile 1200 g/m²
+
+  Géomembrane                                                                                                                                                          Classe de résistance au poinçonnement dynamique
+   Bitumineuse                                                 Classe de résistance au poinçonnement dynamique du complexe ≤ 2
+                                                                                                                                                                                         du complexe : 0
+     (> 4 mm)                                      Ouvrage cadre                        Ouvrage voûte (*)
+                                               Sur dalle de couverture :                 6 cm de béton                                   -                                                         -
+                           Protection
+                         complémentaire             6 cm de béton
+
+                                                                                                               + Grillage avertisseur dans le remblai
+
+
+
+
+                                                                                                      14
+                                                         Recommandation de l’AFTES du GTguide – N°GT9.C5F1 – Mai 2024 - Prépublication
+Procédé d’étanchéité      Type de protection                                                                                    Nature et hauteur du remblai
+
+
+                                                                                                            Voûte / dalle de couverture (TSLE et TALE) et piédroits / voiles (TSLE)
+
+
+                                                                     Hauteur de remblai ≤ 0,50 m                                                                       Hauteur de remblai > 0,50 m
+
+
+                                                               Matériaux de remblai roulés ou concassés                                 Matériaux de remblai roulés                             Matériaux de remblai concassés
+
+                                                                          avec Dmax ≤ 200 mm                                         avec Dmax ≤ 100 mm (classe VC2)                     avec Dmax ≤ 200 mm sur les 2 premiers mètres
+
+                                                                          (classes S, G, VC et R)                                   ou Dmax ≤ 63 mm (classes S, G et R)                                 (classes VC et R)
+
+
+
+                          Protection inférieure                                                                                  Sans objet (adhérent au béton)
+
+
+
+                          Protection supérieure                    Géotextile 700 g/m² (le cas échéant)                                     Géotextile 1200 g/m²                                     2 x Géotextile 1200 g/m²
+
+
+                                                               Ouvrage cadre                        Ouvrage voûte (*)
+         FPM                                              Sur dalle de couverture :                   6 cm de béton
+
+                                                  4 cm d’enrobé (appliqué directement sur la
+                                                                                                                                                       -                                                        -
+                              Protection                           FPM)
+                            complémentaire                           OU
+
+                                                               6 cm de béton
+
+                                                                                                                              + Grillage avertisseur dans le remblai
+
+
+
+
+                          Protection inférieure                                                                                  Sans objet (adhérent au béton)
+
+
+                          Protection supérieure                                                                            25 mm d’asphalte AG3 (intégré au procédé)
+
+
+         FPA                                                     22 mm d’asphalte AG3 sur grille de verre
+
+(uniquement en dalle de                                                               OU
+  couverture d’ouvrage
+                                                                               4 cm d’enrobé                                                           -                                                        -
+         cadre)
+                              Protection
+                            complémentaire                                            OU
+
+                                                                 Géotextile 1200 g/m2 et 6 cm de béton
+
+
+                                                                                                                              + Grillage avertisseur dans le remblai
+
+
+
+
+                                                                                                                  15
+                                                                    Recommandation de l’AFTES du GTguide – N°GT9.C5F1 – Mai 2024 - Prépublication
+Procédé d’étanchéité      Type de protection                                                                                 Nature et hauteur du remblai
+
+
+
+                                                                                                         Voûte / dalle de couverture (TSLE et TALE) et piédroits / voiles (TSLE)
+
+
+                                                                  Hauteur de remblai ≤ 0,50 m                                                                         Hauteur de remblai > 0,50 m
+
+
+                                                            Matériaux de remblai roulés ou concassés                                       Matériaux de remblai roulés                          Matériaux de remblai concassés
+
+                                                                        avec Dmax ≤ 200 mm                                              avec Dmax ≤ 100 mm (classe VC2)                  avec Dmax ≤ 200 mm sur les 2 premiers mètres
+
+                                                                        (classes S, G, VC et R)                                        ou Dmax ≤ 63 mm (classes S, G et R)                             (classes VC et R)
+
+
+
+                          Protection inférieure                                                                               Sans objet (adhérent au béton)
+
+
+                          Protection supérieure                                                                               Sans objet (intégré au procédé)
+Asphalte monocouche
+
+       (20 mm)                                                22 mm d’asphalte AG3 sur grille de verre
+
+                                                                                 OU
+
+(Uniquement en dalle en                                                    4 cm d’enrobé                                                                  -                                                    -
+  couverture d’ouvrage        Protection
+         cadre)             complémentaire                                       OU
+
+                                                              Géotextile 1200 g/m2 et 6 cm de béton
+
+                                                                                                                           + Grillage avertisseur dans le remblai
+
+
+
+
+                          Protection inférieure                                                                               Sans objet (adhérent au béton)
+
+
+
+                          Protection supérieure                         Géotextile 700 g/m²                                                    Géotextile 1200 g/m²                                 2 x Géotextile 1200 g/m²
+
+
+                                                              Ouvrage cadre                          Ouvrage voûte (*)
+
+         SEL                                             Sur dalle de couverture :                       6 cm de béton
+
+                                                              6 cm de béton
+                                                                                                                                                          -                                                    -
+                              Protection                           OU
+                            complémentaire
+                                                  4 cm d’enrobé (sur couche d’accrochage
+                                                               gravillonnée)
+
+
+                                                                                                                           + Grillage avertisseur dans le remblai
+
+
+
+
+                                                                                                               16
+                                                               Recommandation de l’AFTES du GTguide – N°GT9.C5F1 – Mai 2024 - Prépublication
+      Légende : (-) : pas de protection obligatoire            (*) Figure 2
+Procédé d’étanchéité       Type de protection                                                                               Nature et hauteur du remblai
+
+                                                                                                     Voûte / dalle de couverture (TSLE et TALE) et piédroits / voiles (TSLE)
+
+
+                                                                Hauteur de remblai ≤ 0,50 m                                                                              Hauteur de remblai > 0,50 m
+
+
+                                                          Matériaux de remblai roulés ou concassés                                     Matériaux de remblai roulés                                     Matériaux de remblai concassés
+
+                                                                   avec Dmax ≤ 200 mm                                              Avec Dmax ≤ 100 mm (classe VC2)                           avec Dmax ≤ 200 mm sur les 2 premiers mètres
+
+                                                                   (Classes S, G, VC et R)                                        ou Dmax ≤ 63 mm (classes S, G et R)                                         (Classes VC et R)
+
+
+
+                           Protection inférieure                                                                                             -
+
+
+                                                                                                                        Sur dalle de couverture : 6 cm de béton
+         GSB                                                                                                                                et
+
+                                                                                                                En piédroits/voiles, le remblai peu agressif doit vérifier :
+                           Protection supérieure
+   (Avec pression de                                  −   Dmax < 40 mm,
+confinement horizontal >
+        10 kPa)                                       −   Coeff d’uniformité > 10,
+                                                      −   Compactage à 95 % du Proctor normal
+
+                               Protection
+                                                                                                                           Grillage avertisseur dans le remblai
+                             complémentaire
+
+
+
+
+                           Protection inférieure                                                                             Sans objet (adhérent au béton)
+
+
+                                                                                                                                           Pour Dmax ≤ 63 mm :
+
+                                                                                                                                           Géotextile 700 g/m²
+          FPR
+                           Protection supérieure                    Géotextile 1200 g/m²                                                                                                                  2 x Géotextile 1200 g/m²
+    (post-appliqué)
+                                                                                                                                          Pour Dmax ≤ 100 mm :
+
+                                                                                                                                           Géotextile 1200 g/m²
+(Uniquement en piédroits
+   ou voiles de TSLE)
+                                                                    Géotextile 1200 g/m²                                                              -                                                               -
+                               Protection
+                             complémentaire
+                                                                                                                          + Grillage avertisseur dans le remblai
+
+
+
+
+                                                                                                           17
+                                                              Recommandation de l’AFTES du GTguide – N°GT9.C5F1 – Mai 2024 - Prépublication
+NOTA : Des protections supérieures plus légères au tableau n° 3 peuvent être proposées, sous réserve d’essais
+complémentaires, sans toutefois être inférieures à un géotextile de 700 g/m² dans le cas où :
+• la hauteur de remblais est > 0,50 m,
+• et les matériaux utilisés en remblai ont des agressivités moins fortes que celles indiquées dans le tableau n° 8 (comme,
+par exemple, utilisation d’une couche sableuse de classe S),
+• et ces matériaux sont mis en œuvre sur une épaisseur minimale de 20 cm au-dessus du procédé d’étanchéité.
+
+
+
+       Tableau 3-Type de protections admises en tranchée couverte (cas des étanchéités extradossées remblayées)
+
+
+
+
+Figure 3- Exemple de mise en œuvre du remblai autour d'un ouvrage cadre étanché (cas d'une hauteur de remblai < 50 cm)
+
+
+
+
+Pour les procédés d’étanchéité, hors DEG, les préconisations du tableau n°3 ci-dessus sont basées sur les pratiques
+de chantiers et retours d’expérience apportant satisfaction. Afin de confirmer et/ou optimiser les protections
+spécifiées, une campagne d’essais de poinçonnement dynamique sera menée en laboratoire, conjointement entre
+les fournisseurs de procédés d’étanchéité et l’AFTES.
+
+
+
+
+                                                               18
+                          Recommandation de l’AFTES du GTguide – N°GT9.C5F1 – Mai 2024 - Prépublication
+3. PROTECTIONS DES PROCEDES INTRADOSSES
+Deux solutions existent :
+    •       Soit les procédés d’étanchement intradossés reçoivent une protection mécanique rapportée ;
+    •       Soit un espace libre de protection est aménagé entre les engins de circulation et la paroi étanchée.
+
+    3.1. Tunnel routier
+
+            3.1.1. Voûte et piédroits gabarit de passage
+
+Les principales agressions proviennent des chocs des véhicules sur les piédroits ou en voûte. Le parement
+intrados des tunnels routiers est protégé de la circulation par des dispositions réglementaires, notamment
+l'instruction ministérielle sur la signalisation routière. L’espace de circulation se définit à partir de la largeur
+roulable entre trottoirs et la hauteur libre sous les équipements en voûte. Il s’inscrit sous la forme d'un rectangle
+dans le profil en travers du tunnel.
+A cela, des marges de sécurité sont ajoutées :
+    •       En hauteur :
+        −     Rp la revanche de protection est de 10 cm au droit des équipements supérieurs. Elle est nulle en cas
+              d’absence d’équipements ;
+        −     Rd la revanche dynamique est de 20 à 30 cm. Elle permet de tenir compte des mouvements
+              dynamiques des véhicules en circulation ;
+        −     En tunnel routier, les hauteurs à respecter sont données dans le tableau suivant :
+
+
+
+
+                                          Tableau 4- Gabarit autorisé en tunnel routier
+
+
+
+
+Le gabarit autorisé correspond au gabarit maximum admis sous l’ouvrage prenant en compte les revanches
+précédentes.
+
+
+
+
+                                           Figure 4- Définition des marges de sécurité
+
+    •       En largeur :
+        −     La largeur des trottoirs n’est pas inférieure à 60 cm pour des piédroits concaves et de 75 cm pour des
+              piédroits verticaux. À noter : Le dimensionnement des trottoirs tient compte également des réseaux
+              divers devant être mis sous trottoirs ;
+
+
+                                                                 19
+                            Recommandation de l’AFTES du GTguide – N°GT9.C5F1 – Mai 2024 - Prépublication
+        −     Ri la revanche latérale de protection est de 10 cm. Elle est nulle en cas de présence d’une BAU. Elle est
+              augmentée de 15 cm en cas de présence d’équipements latéraux.
+
+
+
+
+                                   Figure 5-Exemple d'espace de circulation en tunnel routier
+
+
+
+
+En complément, des dispositifs de signalisation sont installés à l'entrée des tunnels routiers (cf Note d'information
+N°18 du CETU mise à jour en 2020) :
+    •       Le panneau de signalisation B12 fixant le gabarit règlementaire autorisé
+
+
+
+
+                                             Figure 6- Panneau de signalisation B12
+
+A noter : Le panneau B12 est également implanté dès l’accès à la portion d’itinéraire routier au gabarit limité.
+    •       Le panneau de signalisation de danger A14 dans le cas des tunnels de hauteur limitée (hauteur libre
+            inférieure à 4.30 m)
+
+                                                                 20
+                            Recommandation de l’AFTES du GTguide – N°GT9.C5F1 – Mai 2024 - Prépublication
+    •   Des barres de protection, des dispositifs de détection de véhicules hors gabarit, des dispositifs physiques
+        additionnels (ex : fléaux suspendus au-dessus de la chaussée, …) etc.
+
+
+
+
+                          Figure 7- Exemple de barre de protection à l'entrée d'un tunnel routier
+
+
+        3.1.2. Parements rapportés et habillage
+Les procédés d’étanchement intradossés peuvent recevoir des éléments rapportés qui peuvent les protéger :
+    •   Les voûtes et piédroits peuvent recevoir des tôles parapluie, bardages, tôles métalliques en matériaux
+        composites ou préfabriqués en béton ;
+    •   Des éléments de protection passive contre les incendies.
+On distingue les parements adhérents, plaqués ou décalés par leur mode de fixation à la structure de l’ouvrage.
+Le système de fixation ne doit pas dégrader l’étanchéité (cf cahier 6 « dispositions constructives et points
+singuliers »).
+
+
+
+
+        3.1.3.Radier
+Le procédé d’étanchéité intradossé est protégé soit directement par une couche de roulement, soit par une
+protection additionnelle sous la couche de roulement et définie dans le CMO du procédé. Elle doit être adaptée
+aux sollicitations de circulation et être compatible avec le procédé.
+Les travaux de mise en œuvre de la couche de roulement doivent être exécutés sans endommager l’étanchéité.
+La conception de cette protection doit permettre de régénérer la couche de roulement, sans risque
+d’endommagement du procédé intradossé.
+
+
+
+
+    3.2. Tunnel de transport guidé
+
+L’installation d’équipements en tunnel de transport guidé doit systématiquement se faire en dégageant le Gabarit
+d’Implantation des Obstacles défini en fonction du réseau considéré, et de conditions locales telles que la
+géométrie de la voie (courbure, dévers, etc.) et du type de pose de la voie. Ce gabarit est déduit d’un contour de
+référence dans lequel s’inscrit l’ensemble des véhicules amenés à parcourir le réseau.
+Afin de garantir la sécurité des circulations tout au long du cycle de vie des installations de la voie, il est nécessaire
+d’ajouter, au contour de référence, des marges pour obtenir les Gabarits d’Implantation des Obstacles. Ces marges
+sont définies par le gestionnaire d’infrastructures et sont intimement liées aux gammes de maintenance de
+l’infrastructure.
+Sur le réseau métro de la RATP, un gabarit dynamique unifié est défini pour l’ensemble des lignes, en fonction des
+rayons de courbure parcourus. Les marges de voie ajoutées à ce gabarit permettent de tenir compte des
+différentes usures et déplacement de la voie dans le temps. L’ensemble des gabarits d’implantation d’obstacles
+et leur utilisation sont définis dans la NT-UV 37.
+
+
+
+                                                               21
+                          Recommandation de l’AFTES du GTguide – N°GT9.C5F1 – Mai 2024 - Prépublication
+Sur le réseau RER, les contours de référence utilisés sont le contour de référence FR3.3 pour les parties hautes et
+le contour de référence GI2 pour les parties basses, tels que définis dans la norme EN 15273. Les marges et saillies
+considérées pour la définition des gabarits d’obstacles sont celles présentées dans les notices SNCF IC00162.
+
+Ces marges constituent des protections vis-à-vis des procédés intradossés.
+   •   Voûte et piédroits : le procédé d’étanchéité intradossé est protégé par le respect des gabarits de passage ;
+   •   Radier : Le procédé intradossé est protégé par le béton de voie, un géotextile d’au moins 700g/m2 protège
+       l’étanchéité lors du coulage du béton de voie.
+
+
+
+
+   1- Revêtement béton réalisé en sections divisées
+   2- Bande d’arrêt d’eau transversale
+   3- Procédé d’étanchéité SEL-A
+   4- Bande d’arrêt d’eau longitudinale
+   5- Cunette
+   6- Trottoir
+   7- Géotextile 700 g/m2
+   8- Rail
+   9- Recharge béton
+   10- Gabarit de passage des trains
+   11- Gabarit de passage des pantographes
+
+
+                  Figure 8- Exemple de protection d'un procédé intradossé en tunnel de transport guidé
+
+
+
+
+                                                             22
+                        Recommandation de l’AFTES du GTguide – N°GT9.C5F1 – Mai 2024 - Prépublication
+    3.3. Gares et stations
+
+        3.3.1.Gares et stations non aménagées
+
+Les agressions proviennent principalement de :
+    •   Usagers ;
+    •   Entretien et choc d'échafaudage ou d'engin de manutention ;
+    •   Aménagement tel que affiches publicitaires, fresques.
+
+
+Les protections peuvent être :
+    •   Enduit mortier ;
+    •   Carrelage collé ;
+    •   Cloison de doublage.
+
+
+
+
+   Figure 9- Exemple de protection d'un procédé intradossé par carrelage collé ou un enduit au droit des emplacements
+                                                      publicitaires
+
+Note : Dans les zones d’accès publiques, la protection est obligatoire.
+
+        3.3.2. Gares et stations aménagées (espaces commerciaux)
+Certaines gares ou stations souterraines peuvent contenir des espaces commerciaux. Les principaux risques sont
+le percement du procédé intradossé par l'installation d'aménagements.
+Pour éviter ces percements, la solution la plus simple est de mettre en place des cloisons de doublage le long
+des parois étanchées.
+Il est distingué deux cas :
+        Procédés d'imperméabilisation
+Rappel : Les procédés d’imperméabilisation ne sont pas étanches à la vapeur d’eau.
+Les dispositions du DTU 14.1 doivent être respectées :
+La pose de contre-cloisons est admise si elles sont démontables ou si elles comportent des trappes de visite pour
+permettre l'examen du dispositif, ces dernières étant préférentiellement disposées au droit des joints de piédroits
+(e.g. Joint J1 d’une paroi moulée). Le vide d'air ainsi crée doit être ventilé et une cunette étanchée est à prévoir en
+pied.
+
+
+
+
+                                                               23
+                          Recommandation de l’AFTES du GTguide – N°GT9.C5F1 – Mai 2024 - Prépublication
+                                                           Légende
+
+ 1       Muret béton                      5    Trappe de 0,60 m x 0,60 m
+ 2       Ventilation basse                6    Ventilation haute
+ 3       Cunette étanchée                 7    Joint J1 de paroi moulée, joint de dilatation ou reprise de
+                                               bétonnage
+ 4       Cloison de doublage              8    Écartement
+
+
+                   Figure 10- Exemple de cloison de doublage pour les procédés d'imperméabilisation
+
+
+          Procédés d'étanchéité type SEL-A
+Les ouvrages de doublage de mur peuvent être de type :
+     •    Complexe de doublage collé ;
+     •    Contre-cloison sur ossature métallique ;
+     •    Cloison de doublage en maçonnerie de petits éléments ;
+     •    Contre-cloison en carreaux de plâtre.
+Ces ouvrages rapportés en protection du procédé SEL-A sont sensibles à l’humidité. Il convient donc d’être
+vigilant aux phénomènes de flux de vapeur d’eau et de condensation susceptibles de les altérer.
+La ventilation normale des locaux permet d’éviter la condensation sur la face intérieure des murs, elle est
+nécessaire.
+Dans les locaux à faible et moyenne hygrométrie, il n’y a pas de risque de dégradation par l’humidité des
+ouvrages de doublage de mur.
+Dans les locaux à forte et très forte hygrométrie :
+     •    Soit une étude hygrothermique permet de justifier de l’absence de dégradation de l’ouvrage de
+          doublage de mur par condensation sur le procédé SEL-A et par élévation de l’humidité massique dans
+          l’ouvrage de doublage de mur dû aux flux de vapeur d’eau ;
+     •    Soit un vide d’air ventilé de 5 cm est ménagé entre le SEL-A et l’ouvrage de doublage de mur ; il permet
+          de se prémunir des phénomènes de condensation.
+
+                                                                  24
+                             Recommandation de l’AFTES du GTguide – N°GT9.C5F1 – Mai 2024 - Prépublication
+4. PROTECTIONS MECANIQUES DES STRUCTURES RELATIVEMENT
+   ETANCHES
+Les protections sont identiques aux procédés intradossés d’imperméabilisation.
+
+
+5. PROTECTIONS MECANIQUES DES DISPOSITIFS DE DRAINAGE
+Pour assurer leur fonction drainante, les dispositifs de drainage sont directement en contact avec les eaux et ne
+reçoivent pas de protection inférieure. Les opérations de remblayage ou de bétonnage ne doivent pas dégrader
+le dispositif drainant.
+
+   5.1. Tunnel avec limite d'emprise (TALE)
+Dans ce cas, le béton est coulé directement sur un élément permettant d’empêcher le colmatage de l’âme
+drainante par la laitance du béton (filtre non-tissé ou tissé, polyane, membrane…).
+Dans le cas d’un produit thermoformé ou à excroissances, le drainage est obtenu par les vides entre les alvéoles
+formées. Si du béton est coulé sur la face non soumise au drainage, la face des alvéoles de drainage ne sera pas
+impactée et les vides drainants entre alvéoles seront conservés. Dans ce cas, c'est l'élément thermoformé ou à
+excroissances lui-même qui joue le rôle de filtre en contact avec le béton.
+La mise en œuvre du béton doit être réalisée sur des hauteurs faibles de manière que la pression du béton ne
+dépasse pas les valeurs requises pour le dispositif de drainage pour conserver sa capacité drainante. La capacité
+drainante est déterminée dans les recommandations AFTES GT9.R19F1 en prenant en compte la quantité d’eau à
+évacuer et le fluage du dispositif.
+
+
+
+
+   1.   Radier
+   2.   Soutènement
+   3.   Drain collecteur
+   4.   Protection amovible
+   5.   Âme drainante
+   6.   Filtre
+   7.   Revêtement béton
+
+
+                        Figure 11- Principe d'un drainage dans un tunnel avec limite d'emprise
+
+
+
+
+                                                             25
+                        Recommandation de l’AFTES du GTguide – N°GT9.C5F1 – Mai 2024 - Prépublication
+   5.2. Tunnel sans limite d'emprise (TSLE)
+Dans ce cas, le remblai est réalisé directement sur la nappe drainante. Deux contraintes sont à respecter :
+   •       La poussée des terres ne doit pas dépasser la contrainte admissible pour le dispositif de drainage (voir
+           calcul ci-après) ;
+   •       La nature des matériaux de remblais et leur mise en œuvre sont conformes au chapitre 5 du DTU 12 :
+       −     Le compactage doit être effectué par un matériau léger et des précautions sont à prendre pour éviter
+             les chocs d'engins. Le remblai ne doit pas contenir des pierres à arêtes vives (on pourra se référer à la
+             note d’information CEREMA n°34 « Construire des remblais contigus aux ouvrages d’art- Murs de
+             soutènement et culées de pont (janvier 2012) » ;
+       −     L'épaisseur des couches de compactage ne devra pas dépasser 50 cm.
+
+
+
+
+1. Béton de propreté
+2. Radier
+3. Piédroit
+4. Nappe drainante en piédroit
+5. Filtre
+6. Collecteur
+                            Figure 12- Principe d'un drainage dans un tunnel sans limite d'emprise
+
+
+
+
+   5.3. Calcul de la poussée des terres sur une nappe drainante
+
+ I.1. Calcul de la poussée des terres sur une nappe drainante
+
+
+L’objectif de ce paragraphe est de calculer la profondeur maximale admissible pour un ouvrage souterrain avec
+nappe drainante, de façon que les sollicitations sur la structure ne dépassent pas la capacité de résistance d'une
+nappe drainante donnée.
+L’exemple présenté ci-dessous considère une charge répartie q en surface, une seule couche de terrain jusqu’en
+sous-face de la structure, et un niveau d’eau en deçà de la structure.
+
+
+
+
+                                                                26
+                           Recommandation de l’AFTES du GTguide – N°GT9.C5F1 – Mai 2024 - Prépublication
+                                      Figure 8 : Disposition de la structure dans le sol
+
+
+Les sources de pression horizontale sur la paroi de structure sont par conséquent :
+    -  La pression exercée par les sols,
+    -  La pression exercée par la charge 𝑞𝑞 appliquée en surface.
+La pression d’eau 𝑢𝑢 est nulle car le niveau d’eau EE est inférieur à l'arase inférieure de la structure (et donc du
+système de drainage).
+
+Deux cas de figure se présentent alors, suivant la rigidité de la structure considérée et les déformées admissibles.
+
+        1er cas : la structure est supposée infiniment rigide
+
+La structure ne se déformera alors pas (ou très peu) sous l’effet de la poussée des terres ; il y a lieu de retenir le
+coefficient de poussée des terres au repos K0 pour l’évaluation de la poussée des terres.
+D’après la NF EN 1997-1, la pression des terres 𝜎𝜎𝑎𝑎 (𝐻𝐻) est déterminée suivant la formule suivante :
+                                                  𝜎𝜎𝑎𝑎 (𝐻𝐻) = 𝐾𝐾0 (𝛾𝛾𝛾𝛾 + 𝑞𝑞)
+Avec :
+    -   𝑞𝑞, la charge appliquée à la surface de terrain,
+    -   𝐻𝐻, la profondeur,
+    -   𝐾𝐾0 , le coefficient de poussée horizontale des terres au repos déterminé selon la formule du §9.5.2 de la NF
+        EN 1997-1 : 𝐾𝐾0 = (1 − sin 𝜑𝜑 ′ )�𝑅𝑅𝑂𝑂𝑂𝑂
+
+Afin que la nappe drainante soit capable de résister à la pression exercée sur les parois de la structure, la condition
+suivante doit être vérifiée :
+                                                        𝐹𝐹𝑆𝑆 𝜎𝜎𝑎𝑎 ≤ 𝜎𝜎𝑁𝑁𝑁𝑁
+Avec :
+    -   𝐹𝐹𝑆𝑆 , le facteur de sécurité (à défaut on prendra FS= 2)
+    -   𝜎𝜎𝑁𝑁𝑁𝑁 , la capacité de résistance de la nappe drainante
+
+La pression maximale est localisée sur la face inférieure de la structure. Pour calculer la profondeur maximale H,
+il faut donc vérifier la condition suivante :
+                                                   𝐹𝐹𝑆𝑆 𝜎𝜎𝑎𝑎 (𝐻𝐻) ≤ 𝜎𝜎𝑁𝑁𝑁𝑁
+
+                                                      𝐹𝐹𝑆𝑆 [𝐾𝐾0 (𝛾𝛾𝛾𝛾 + 𝑞𝑞)] ≤ 𝜎𝜎𝑁𝑁𝑁𝑁
+
+                                                             1 1 𝜎𝜎𝑁𝑁𝑁𝑁
+                                                      𝐻𝐻 ≤     � �       � − 𝑞𝑞�
+                                                             𝛾𝛾 𝐾𝐾0 𝐹𝐹𝑆𝑆
+
+
+
+
+                                                                   27
+                            Recommandation de l’AFTES du GTguide – N°GT9.C5F1 – Mai 2024 - Prépublication
+        2ème cas : la structure est supposée suffisamment déformable
+
+La structure se déformera alors sous l’effet de la poussée des terres ; il y a lieu de retenir le coefficient de
+poussée active des terres Ka pour l’évaluation de la poussée des terres.
+D’après la NF EN 1997-1, la pression des terres 𝜎𝜎𝑎𝑎 (𝐻𝐻) est déterminée suivant la formule suivante :
+                                                𝜎𝜎𝑎𝑎 (𝐻𝐻) = 𝐾𝐾𝑎𝑎 (𝛾𝛾𝛾𝛾 + 𝑞𝑞) − 𝑐𝑐𝐾𝐾𝑎𝑎𝑎𝑎
+Avec :
+    -   𝑐𝑐, la cohésion,
+    -   𝐾𝐾𝑎𝑎 , le coefficient de poussée horizontale des terres,
+    -   𝐾𝐾𝑎𝑎𝑎𝑎 , le coefficient de poussée due à la cohésion,
+    -   𝑞𝑞, la charge appliquée à la surface de terrain,
+    -   𝐻𝐻, la profondeur.
+
+𝐾𝐾𝑎𝑎 et 𝐾𝐾𝑎𝑎𝑎𝑎 sont obtenus généralement à partir des tables de Kérisel Absi (cf. annexe C de la NF P 94-282).
+L’annexe C de la NF EN 1997-1 donne cependant des graphes pour déterminer 𝐾𝐾𝑎𝑎 et une expression analytique
+pour déterminer 𝐾𝐾𝑎𝑎𝑎𝑎 :
+                                                                   𝑎𝑎
+                                           𝐾𝐾𝑎𝑎𝑎𝑎 = 2�𝐾𝐾𝑎𝑎 �1 + �, limité à 2,56�𝐾𝐾𝑎𝑎
+                                                                   𝑐𝑐
+                                                              𝑎𝑎 tan 𝛿𝛿
+                                                                =
+                                                              𝑐𝑐 tan 𝜑𝜑
+Avec :
+    - 𝑎𝑎, l’adhésion (homogène à une contrainte) entre le terrain et le mur,
+    - 𝛿𝛿 L’angle de frottement entre le terrain et le mur,
+    - 𝜑𝜑 L’angle de frottement interne.
+
+Afin que la nappe drainante soit capable de résister à la pression exercée sur les parois de la structure, la
+condition suivante doit être vérifiée :
+                                                         𝐹𝐹𝑆𝑆 𝜎𝜎𝑎𝑎 ≤ 𝜎𝜎𝑁𝑁𝑁𝑁
+Avec :
+    -   𝐹𝐹𝑆𝑆 , le facteur de sécurité ! à défaut on prendra FS= 2),
+    -   𝜎𝜎𝑁𝑁𝑁𝑁 , la capacité de résistance de la nappe drainante.
+
+La pression maximale est sur la face inférieure de la structure. Donc, pour calculer la profondeur maximale H, il
+faut vérifier la condition suivante :
+                                                  𝐹𝐹𝑆𝑆 𝜎𝜎𝑎𝑎 (𝐻𝐻) ≤ 𝜎𝜎𝑁𝑁𝑁𝑁
+
+                                               𝐹𝐹𝑆𝑆 [𝐾𝐾𝑎𝑎 (𝛾𝛾𝛾𝛾 + 𝑞𝑞) − 𝑐𝑐𝐾𝐾𝑎𝑎𝑎𝑎 ] ≤ 𝜎𝜎𝑁𝑁𝑁𝑁
+
+                                                       1 1 𝜎𝜎𝑁𝑁𝑁𝑁
+                                                𝐻𝐻 ≤     � �        + 𝑐𝑐𝐾𝐾𝑎𝑎𝑎𝑎 � − 𝑞𝑞�
+                                                       𝛾𝛾 𝐾𝐾𝑎𝑎 𝐹𝐹𝑆𝑆
+
+
+ I.2. Exemple : Applications numériques de la poussée des terres
+
+
+        1er cas : la structure est supposée infiniment rigide
+
+On considère les hypothèses suivantes :
+   -   Capacité de résistance de la nappe drainante : 𝜎𝜎𝑁𝑁𝑁𝑁 = 200 𝑘𝑘𝑘𝑘𝑘𝑘,
+   -   Poids volumique terres : 𝛾𝛾 = 18 𝑘𝑘𝑘𝑘/𝑚𝑚3 ,
+   -   Angle de frottement interne : 𝜑𝜑 = 25°,
+   -   Rapport de surconsolidation : 𝑅𝑅𝑂𝑂𝑂𝑂 = 1,
+   -   Cohésion : 𝐶𝐶 = 20 𝑘𝑘𝑘𝑘𝑘𝑘,
+   -   Charge répartie - Catégorie G selon NF EN 1991-1-1 (𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃 ≤ 160 𝑘𝑘𝑘𝑘) : 𝑄𝑄 = 5 𝑘𝑘𝑘𝑘/𝑚𝑚2 ,
+   -   Facteur de sécurité : 𝐹𝐹𝐹𝐹 = 2.
+
+On détermine 𝐾𝐾0 :
+                                                             𝐾𝐾0 = 0,58
+
+Et on obtient la hauteur H maximale :
+                                                          1 1 200
+                                                   𝐻𝐻 ≤     �    �  � − 5�
+                                                          18 0,58 2
+
+                                                          ⇒ 𝐻𝐻 ≤ 9, 3 𝑚𝑚
+
+                                                                   28
+                          Recommandation de l’AFTES du GTguide – N°GT9.C5F1 – Mai 2024 - Prépublication
+        2ème cas : la structure est supposée suffisamment déformable :
+
+On considère les hypothèses suivantes :
+   -   Capacité de résistance de la nappe drainante : 𝜎𝜎𝑁𝑁𝑁𝑁 = 200 𝑘𝑘𝑘𝑘𝑘𝑘,
+   -   Poids volumique terres : 𝛾𝛾 = 18 𝑘𝑘𝑘𝑘/𝑚𝑚3 ,
+   -   Angle de frottement interne : 𝜑𝜑 = 25°,
+   -   Angle de frottement entre le terrain et le mur : 𝛿𝛿 = 0°,
+   -   Cohésion : 𝐶𝐶 = 20 𝑘𝑘𝑘𝑘𝑘𝑘,
+   -   Charge répartie - Catégorie G selon NF EN 1991-1-1 (𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃 ≤ 160 𝑘𝑘𝑘𝑘) : 𝑄𝑄 = 5 𝑘𝑘𝑘𝑘/𝑚𝑚2 ,
+   -   Facteur de sécurité : 𝐹𝐹𝐹𝐹 = 2.
+
+
+Selon la figure C.1.1 de l’annexe C de la NF EN 1997 – 1 :
+
+
+
+
+                                                           𝐾𝐾𝑎𝑎 = 0,42
+
+Ensuite, on calcule 𝐾𝐾𝑎𝑎𝑎𝑎 en considérant que l’inclinaison des contraintes entre le terrain et le la paroi de la
+structure est nulle (𝑎𝑎 = 0°).
+Soit :
+                                                   𝐾𝐾𝑎𝑎𝑎𝑎 = 2�0,42 = 1,30
+
+Au final, on obtient la hauteur H maximale :
+                                                   1 1 200
+                                            𝐻𝐻 ≤     �    �  + 20 × 1,30� − 5�
+                                                   18 0,42 2
+
+                                                         ⇒ 𝐻𝐻 ≤ 16 𝑚𝑚
+
+
+
+
+                                                               29
+                          Recommandation de l’AFTES du GTguide – N°GT9.C5F1 – Mai 2024 - Prépublication
+    5.4. Calcul de la poussée du béton sur une nappe drainante
+
+La poussée du béton est habituellement calculée suivant la méthode anglaise CIRIA 108 de 1985.
+Toutefois :
+    •   Pour les bétons courants il peut être utilisé la méthode simplifiée suivante :
+        P= 24 h en kPa avec h la hauteur bétonnée plafonnée à 120 kPa ;
+    •   Pour le béton autoplaçant le calcul est réalisé suivant la norme DIN 18218 avec une vitesse maximale de
+        coulage de 7m/h.
+
+
+
+
+                                                              30
+                         Recommandation de l’AFTES du GTguide – N°GT9.C5F1 – Mai 2024 - Prépublication
+6. SOURCES BIBLIOGRAPHIQUES
+
+  •   Normes
+      NF EN 15273 + A1 : Applications ferroviaires – Gabarits – Partie 1 : Généralités
+      DIN 18218 : Pression de béton fraîchement malaxé sur les coffrages verticaux
+
+  •   DTU
+      DTU 12 : « Terrassement pour le bâtiment « § V5 – Remblaiements »
+      DTU 14.1 : NF DTU 14.1 « Travaux de cuvelage-Partie 1-1 : Cahier des clauses techniques types – Partie
+      1-2 : Critères généraux de choix des matériaux – Partie 2 : Cahier des clauses administratives
+      spéciales types »
+
+  •   Eurocodes
+      NF EN 1997-1 : Eurocode 7 : Calcul géotechnique – Partie 1 : Règlements
+
+  •   Documents CETU et CEREMA
+      CEREMA : Guide des terrassements des remblais et des couches de forme - mai 2020
+      SETRA : Note d’information N°34 : Construire des remblais contigus aux ouvrages d’art – Murs de
+      soutènement et culées de pont.
+      CETU : Note d’information N°18- « Prise en compte des véhicules hors gabarit aux abords des tunnels
+      routiers »
+  •   Recommandations AFTES
+       GT9.R19F1 : Recommandation sur la protection des étanchéités extradossées et le drainage des
+      ouvrages souterrains
+
+
+  •   Recommandations Professionnelles
+      Concrete pressure on formwork - Report 108 – CIRIA 1985
+
+      SNCF Référentiel Infrastructure Conception – IC00162 : Implantation des obstacles par rapport aux
+      voies (gabarits d’obstacles) et des voies entres elles (entraxes), pour des vitesses de circulation ne
+      dépassant pas 200 km/h ,ou éventuellement 220 km/h pour les seuls matériels de type TAGV
+
+
+
+
+                                                           31
+                      Recommandation de l’AFTES du GTguide – N°GT9.C5F1 – Mai 2024 - Prépublication
+7. ANNEXE
+
+  7.1. Annexe N°1 - Liste et libellés des cahiers
+
+
+
+
+                 N°                                             Libellé
+               Cahier
+
+
+                 0                               Cadre général, terminologie
+                 1              Présentation des différents procédés d’étanchement et
+                                dispositifs de drainage et de leurs contrôles sur chantier
+                 2           Guide de choix des procédés d’étanchement et dispositifs de
+                                                      drainage
+                 3             Mise hors d’eau provisoire pour l’installation des procédés
+                                       d’étanchement et dispositifs de drainage
+                 4           Qualité des supports recevant un procédé d’étanchement ou
+                                              un dispositif de drainage
+                 5              Protections mécaniques des procédés d’étanchement et
+                                                dispositifs de drainage
+                 6           Dispositions constructives et traitement des points singuliers
+                 7           Dimensionnement des retours techniques pour les procédés
+                                                   intradossés
+                 8                       Phasage avec les travaux du Gros-œuvre
+                                                    Protections transitoires
+                 9                  Étanchéité mixte et raccordements aux existants
+                 10                        Étanchement des structures intégrées
+                 11                       Compartimentage des DEG-S et DEG-B
+                 12                    Sécurité en phase travaux et en exploitation
+                 13             Durabilité des procédés d’étanchement et dispositifs de
+                                                       drainage
+                 14             Entretien des procédés d’étanchement et dispositifs de
+                                                      drainage
+                 15           Réparation et maintenance des procédés d’étanchement et
+                                                dispositifs de drainage
+                 16                        Rex de MOA et coûts de maintenance
+                 17                         Assurances et garanties des travaux
+
+
+
+
+                                                           32
+                      Recommandation de l’AFTES du GTguide – N°GT9.C5F1 – Mai 2024 - Prépublication
+7.2.     Annexe N°2 - Synoptique des procédés d’étanchement et de
+    drainage
+
+
+
+
+                                                  33
+             Recommandation de l’AFTES du GTguide – N°GT9.C5F1 – Mai 2024 - Prépublication
+Éditeur : AFTES (ASSOCIATION FRANÇAISE DES TUNNELS ET DE L’ESPACE SOUTERRAIN)
+                    42 rue Boissière - 75116 PARIS - Tèl. : 01 85 34 33 20
+
+
+
+           Recommandation de l’AFTES du GTguide – N°GT9.C5F1 – Mai 2024 - Prépublication
+Association Française des Tunnels et de l'Espace Souterrain
+aftes@aftes.fr
+https://www.aftes.fr
+

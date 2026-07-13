@@ -1,0 +1,1009 @@
+                    ASSOCIATION FRANÇAISE DES TUNNELS
+                            ET DE L’ESPACE SOUTERRAIN
+
+                             Organisation nationale adhérente à l’AITES
+www.aftes.asso.fr
+
+
+
+
+  Recommandations
+     de l’AFTES
+
+     Etanchéité des tunnels
+         en voussoirs par
+      joints hydrogonflants
+  Procédures d'évaluation et de
+    contrôle qualité des joints
+                          GT9R9F1
+                                                                    APTES
+                                              RECOMMANDATIONS RELATIVES A
+
+                ETANCHEITE DES TUNNELS EN VOUSSOIRS
+                    PAR JOINTS HYDROGONFLANTS
+              PROCEDURES D'EVALUATION ET DE CONTROLE
+                         QUALITE DES JOINTS
+                       L'A.F.T.E.S. recueillera avec intérêt toute suggestion relative à ce texte.
+
+
+
+
+Version I - 1998 - approuvée par le Comité Technique du 7/04/98
+
+                                                                Texte présenté par
+                                     Jean Louis MAHUET, Animateur du Groupe de Travail n°9
+                                  Claude MEYNIEL etTAILLEBOIS, RATP, Responsables du dossier
+                                         Ont participé à l'élaboration du texte :
+ Jean Paul BENNETON, CETE de Lyon - Bernard CONSTANTIN, CETU - Alain DONJON, RATP - Jean-François JABY, EQS.
+       Pierre HINGANT.SCETAUROUTE - JL. LEOGANE, RATP - Jean-Louis MAHUET, SEMALY - C. MEYNEIL, RATP
+              P. MEYER, LRCCP - Jacques PERFETTI, CSNE - M.TAILLEBOIS, RATP - Jean Luc REITH, CETU
+                                    Sont remerciés pour leur participation à la relecture du document :
+                                         Yann LEBLAIS, SIMECSOL - Fabien MAUROY, S1STRA
+
+
+
+
+I - PRESENTATION GENERALE DES PROCEDURES                             47     6.2 - Force de réaction après vieillissement
+                                                                            6.3 - Pression de fuite après vieillissement
+II - PROCEDURE D'EVALUATION DES JOINTS                              4?    7 - CRITERES D'ACCEPTATION
+1 - INTRODUCTION                                                    4?      7.1 - Critères d'acceptation pour les pressions de fuite
+2 -AVANT PROPOS DE LA PROCEDURE                                     4?      7.2 - Critères d'acceptation pour les forces de réaction
+3 - RECEPTION ET DESIGNATION DU JOINT                               4?      7.3 - Critères d'acceptation sur le taux de matière extractible
+4-ANALYSES CHIMIQUES
+                                                                          ANNEXES I - Montage de mesure de la pression de contact
+ 4.1 - Identification de la nature du polymère de base
+                                                                          ANNEXES 2 - Montage de mesure de la pression de fuite
+ 4.2 - Détermination de la composition centésimale du mélange
+                                                                          ANNEXES 3 - Modélisation du vieillissement accéléré par un
+ 4.3 - Présentation des résultats des analyses chimiques
+                                                                                      mécanisme de tye Arrhénius
+5 - CARACTERISATION DU JOINT AVANT VIEILLISSEMENT
+ 5.1 - Contexte général                                                   III - PROCEDURE CONTROLE QUALITE
+ 5.2 - Mesures des forces de réaction et des pressions limites de         1 - DETERMINATION DE LA COMPOSITION PONDERALE
+       fuite                                                                 I. I - Teneur en plastifiants
+ 5.3 - Mesures du taux de matière extractible du joint après                1.2 - Composition pondérale centésimale
+       gonflement à l'équilibre                                     m 2 - IDENTIFICATION DE LA NATURE DU POLYMERE DE
+6 - CARACTERISATION DU JOINT APRES VIEILLISSEMENT                    S3      BASE                                                             59
+    ACCELERE                                                         ta   3 - PRESENTATION DES RESULTATS DES ANALYSES
+ 6.1 - Contexte général                                                       CHIMIQUES
+
+
+
+
+     TUNNELS ET OUVRAGES SOUTERRAINS - N° 1 5 1 - J A N V I E R / F E V R I E R                      1999
+                                                                                                                                                                                      Etanchéité des tunnels en voussoirs par joints hydrogonflants
+                                                                                                                                                                                        Procédures d'évaluation et de contrôle qualité des joints
+                                                                                                                                         I - PRESENTATION GENERALE                                     la composition de celui-ci (mono matière ou        pon à pH 12 simulant les constituants
+                                                                                                                                                                                                       multi matière) et de la nature chimique de ces     basiques hydrosolubles du béton,
+                                                                                                                                         DES PROCEDURES                                                constituants hydrogonflants très différente         - test d'étanchérté (joint gonflé dans un mon-
+                                                                                                                                         L'utilisation de joints hydrogonflants s'est par-             d'un joint à l'autre.                              tage spécifique) destiné à déterminer la pres-
+                                                                                                                                         ticulièrement développée ces dernières                        S'appuyant sur une étude financée par la           sion à laquelle le joint conduit à la perte
+                                                                                                                                         années pour assurer l'étanchéité des tunnels                  RATP et réalisée par le laboratoire de             d'étanchéité après contact durant 2 semaines
+                                                                                                                                         constitués de voussoirs. Ces joints sont mis en               Recherche et de Contrôle du Caoutchouc et          avec de l'eau du réseau de distribution.
+                                                                                                                                         œuvre selon deux techniques :                                 des Plastiques, le groupe de travail n° 9 a éla-   Parallèlement cette procédure évaluera éga-
+                                                                                                                                         • Utilisation d'un joint hydrogonflant seul, en               boré ces deux procédures permettant d'une          lement le taux de matière extractible des
+                                                                                                                                         remplacement d'un joint compressible.                         part d'évaluer et d'autre part d'assurer les       joints à l'état de réception, après immersion à
+                                                                                                                                                                                                       contrôles de réception sur le site des joints      température ambiante dans l'eau permutée
+                                                                                                                                          • Utilisation d'un joint hydrogonflant associé à
+                                                                                                                                                                                                       hydrogonflants. (Figure I)                         et séchage à poids constant
+                                                                                                                                         un joint compressible. Dans ce cas le joint
+Tous droits de reproduction, traduction, adaptation, totales ou partielles sous quelques formes que ce soit sont expressément réservés
+
+
+
+
+                                                                                                                                         hydrogonflant est mis en œuvre sort selon la                                                                     Enfin, dans un troisième temps, compte tenu
+                                                                                                                                         pose «double joint», le joint étant posé sur le                                                                  de la composition chimique du joint, un
+                                                                                                                                         périmètre du voussoir, sort selon la pose du                  II - PROCEDURE                                     vieillissement accéléré (définition d'un
+                                                                                                                                         «simple joint», celui-ci étant posé uniquement                D'EVALUATION DES JOINTS                            couple temps/température approprié) asso-
+                                                                                                                                         sur le demi périmètre du voussoir (contact                                                                       cié à un cyclage physico-chimique préalable
+                                                                                                                                         joint-béton).                                                                                                    (10 cycles de gonflement-dégonflement puis
+                                                                                                                                                                                                       I - INTRODUCTION                                   séchage à poids constant) sera appliqué au
+                                                                                                                                         Dans les deux cas de pose indiquée ci-dessus,
+                                                                                                                                         le joint hydrogonflant se trouve toujours en                                                                     matériau. Des mesures comparatives seront
+                                                                                                                                                                                                       Le présent document est une procédure des-
+                                                                                                                                                                                                                                                          menées à l'issue de ce traitement :
+                                                                                                                                         amont du joint compressible.                                  tinée à évaluer les caractéristiques et perfor-
+                                                                                                                                                                                                       mances de joints à base de matériaux hydro-        - pression de contact liée au gonflement du
+                                                                                                                                         L'arrivée sur le marché de nombreux joints
+                                                                                                                                                                                                       gonflants (à l'origine et après vieillissement     joint dans l'eau à pH 7 et dans une solution
+                                                                                                                                         hydrogonflants suscite de la part des martres
+                                                                                                                                                                                                       accéléré) utilisés pour assurer l'étanchéité       tampon à pH 12 simulant les constituants
+                                                                                                                                         d'œuvre et des entreprises de nombreuses
+                                                                                                                                                                                                       entre des voussoirs de tunnels.                    basiques hydrosolubles du béton,
+                                                                                                                                         questions concernant la caractérisation phy-
+                                                                                                                                         sico-chimique des joints à établir dans le but                Au cours du temps, les joints peuvent gonfler      - test d'étanchéité (joint gonflé dans un mon-
+                                                                                                                                         d'assurer la pérennité de leur fonction étan-                 et dégonfler selon l'évolution hygrométrique       tage) après contact durant 2 semaines avec
+                                                                                                                                         chéité dans le temps.                                         du milieu environnant (humidité, ruisselle-        de l'eau du réseau de distribution.
+                                                                                                                                         Cette caractéristation, susceptible de débou-                 ment d'eau). Dans ce contexte, la dégradation
+                                                                                                                                         cher sur des spécifications à intégrer par                    éventuelle de la fonction étanchéité du pro-       2 - AVANT-PROPOS DE LA
+                                                                                                                                         exemple dans des articles d'un Cahier des                     duit serait liée essentiellement à l'évolution     PROCEDURE
+                                                                                                                                         Clauses Techniques Particulières (C.C.T.R)                    de l'état physico-chimique du joint (vieillisse-
+                                                                                                                                         spécifiques à la mise en oeuvre de ce type de                 ment), les forces consécutives au gonflement       Cette procédure d'évaluation est applicable à
+                                                                                                                                         joint, est devenue une nécessité, en regard de                (pression de contact) devenant alors insuffi-      des joints, constitués totalement ou en partie
+                                                                                                                                                                                                       santes pour contenir les effets de pression liés   de matériaux hydrogonflants, dont la section
+                                                                                                                                                                                                       à la hauteur d'eau.                                est rectangulaire ou pouvant être inscrite
+                                                                                                                                                                                                       La procédure distingue plusieurs étapes            dans un rectangle avec une largeur égale à au
+                                                                                                                                                                                                       expérimentales dont la finalité est d'évaluer,     moins 2 fois l'épaisseur Un exemple de joint
+                                                                                                                                                                                                       dans des conditions d'essai bien déterminées,      hydrogonflant présentant une structure de
+                                                                                                                                                                                                       la déchéance de la fonction étanchéité avec le     joint classique apparaît figure I.
+                                                                                                                                                                                                       vieillissement du matériau.                        Aucune restriction concernant la pose des
+                                                                                                                                                                                                       Dans un premier temps, cette procédure défi-       joints sur site n'est appliquée dans cette pro-
+                                                                                                                                                                                                       nit un protocole visant à déterminer; par ana-     cédure (joint posé ou non avec une prédéfor-
+                                                                                                                                                                                                       lyse chimique, la composition des                  mation statique).
+                                                                                                                                                                                                       mélanges constituant les joints. Cette             Ce document précise la démarche expéri-
+                                                                                                                                                                                                       démarche est nécessaire car elle conditionne       mentale adoptée dans le but d'évaluer la
+                                                                                                                                                                                                       les couples temps/température de vieillisse-       fonctionnalité du joint : les conditions de
+                                                                                                                                                                                                       ment compatibles avec la nature du ou des          vieillissement appliquées au produit dans le
+                                                                                                                                                                                                       polymères constituant le joint                     cas d'un joint multi-matériaux (hydrogon-
+                                                                                                                                                                                                       Dans un deuxième temps, les caractéris-            flant/hydrogonflant ou hydrogonflant/élasto-
+                                                                                                                                                                                                       tiques à l'état de réception du joint sont         mère classique) seront définies en considé-
+                                                                                                                                                                                                       évaluées après cyclage physico-chimique (10        rant le constituant le plus sensible
+                                                                                                                                                                                                       cycl ;s de gonflement-dégonflement puis            chimiquement. (Figure 1)
+                                                                                                                                                                                                       séchage à poids constant) :
+                                                                                                                                                                                                        • pression de contact liée au gonflement du       3 - RECEPTION ET
+                                                                                                                                                                                                       joint dans l'eau (évolution de la force déve-      DESIGNATION DU JOINT
+                                                                                                                                                                                                       loppée par une section de joint) ; cette
+                                                                                                                                                                                                       mesure est menée à l'aide d'un montage spé-        La réalisation du programme d'évaluation du
+                                                                                                                                         Détail double joint d'étanchéité d'un voussoir, avec joint    cifique sur le joint immergé durant 2 semaines     joint nécessite de préciser la désignation et
+                                                                                                                                                        hydrogonflant en extrados                      dans l'eau à pH 7 et dans une solution tam-        l'origine du matériau testé (tableau I). Un cli-
+
+
+
+                                                                                                                                                                                                      TUNNELS ET OUVRAGES SOUTERRAINS - N° 151 -JANVIER/FEVRIER 1999
+                                                                                                                                                                                 Etanchéité des tunnels en voussoirs par {oints hydrogonflants
+                                                                                                                                                                                   Procédures d'évaluation et de contrôle qualité des {oints
+                                                                                                                                         ché photographique du joint peut accompa-                 autre solvant approprié à la formulation                   On précisera la méthode d'identification de la
+                                                                                                                                         gner ces informations.                                    considérée (à préciser dans le tableau de                  nature du ou des polymères de base retenue
+                                                                                                                                         Dans ce tableau, on désigne par origine le
+                                                                                                                                                                                                   résultat). Si le joint est multi-matières, les             (IRTF ou CG/MS).
+                                                                                                                                                                                                   extractions seront réalisées sur chaque
+                                                                                                                                         fournisseur du joint qu'il sort fabricant ou dis-                                                                    En général, la phase pyrotysable est attribuable
+                                                                                                                                                                                                   constituant
+                                                                                                                                         tributeur                                                                                                            aux polymères et la phase oxydable aux
+                                                                                                                                         Dans la ligne description, on fera apparaître                                                                        charges organiques (noirs de carbone par
+                                                                                                                                                                                                   4.2.2 - Composition pondérale centési-
+                                                                                                                                                                                                   male                                                       exemple) ; les résultats de l'analyse pondérale
+                                                                                                                                         toute remarque concernant la composition
+                                                                                                                                                                                                                                                              s'expriment en pourcentage de la masse de la
+                                                                                                                                         théorique et la construction du joint.                    La composition pondérale du joint sera                     prise d'essai.
+                                                                                                                                         Les dimensions de la section du profilé seront            déterminée par analyse thermogravimétrique
+                                                                                                                                         mesurées à l'aide d'un pied à coulisse électro-           sur le matériau après extraction. Cette tech-
+                                                                                                                                         nique permettant des mesures à 0,1 mm ; les               nique d'analyse, consistant à suivre l'évolution            5 - CARACTERISATION DU
+                                                                                                                                         cotes indiquées résulteront d'une moyenne                 de la masse de l'échantillon en fonction de la             JOINT AVANT VIEILLISSEMENT
+Tous droits de reproduction, traduction, adaptation, totales ou partielles sous quelques formes que ce soit sont expressément réservés
+
+
+
+
+                                                                                                                                         effectuée à partir de 5 mesures indépen-                  température sous une atmosphère particu-
+                                                                                                                                         dantes suffisamment distantes (réparties sur              lière, sera menée, par exemple, dans les                   5.1 - Contexte général
+                                                                                                                                         le tronçon de joint étudié). Il est possible              conditions suivantes :
+                                                                                                                                         d'utiliser éventuellement un projecteur de                                                                           Afin d'apprécier l'évolution des propriétés
+                                                                                                                                                                                                   • première séquence de chauffe de 35 à
+                                                                                                                                         profil. Dans le cas d'un joint de géométrie                                                                          caractéristiques du joint avec le vieillissement,
+                                                                                                                                                                                                   600°C sous atmosphère inerte (azote),
+                                                                                                                                         complexe, un dessin permettra de repérer les                                                                         il est nécessaire d'évaluer ces dernières à
+                                                                                                                                         différentes cotes mesurées.                               • refroidissement jusqu'à 400°C (azote),                   l'état initial ; trois propriétés importantes ont
+                                                                                                                                                                                                   • deuxième séquence de chauffe de 400 à                    été retenues :
+                                                                                                                                         4 - ANALYSES CHIMIQUES                                    850°C sous atmosphère oxydante (oxygène),                  • la force de réaction développée par le
+                                                                                                                                                                                                   • montée en température de 20°C/min.                       matériau lors de son expansion au contact de
+                                                                                                                                         Cette démarche, préalable aux essais propre-                                                                         l'eau,
+                                                                                                                                                                                                   Remarque : en fonction des appareils utilisés
+                                                                                                                                         ment dits, est menée afn de définir des tempé-                                                                       • la pression limite de fuite à l'état gonflé,
+                                                                                                                                                                                                   et des joints analysés, les conditions propo-
+                                                                                                                                         ratures de vieillissement compatibles avec la
+                                                                                                                                                                                                   sées auparavant pourront être adaptées.                    • le taux de matière extractible du joint après
+                                                                                                                                         nature du ou des polymères de base constituant
+                                                                                                                                         le joint. En fonction des résultats, un couple            Si le joint est multi-matières, l'analyse thermo-          gonflement dans l'eau et séchage à poids
+                                                                                                                                         temps/température de vieillissement sera défini           gravimétrique sera réalisée sur chaque consti-             constant.
+                                                                                                                                         afin d'appliquer au joint un état de vieillisse-          tuant.                                                     Dans le cas des mesures de pression
+                                                                                                                                         ment particulier.                                                                                                    limite de fuite à l'état gonflé et de force
+                                                                                                                                                                                                   4.3 - Présentation des résultats des                       de réaction développée par le maté-
+                                                                                                                                         4.1 - Identification de la nature du                      analyses chimiques                                         riau lors de son expansion au contact de
+                                                                                                                                         polymère de base                                          L'ensemble des résultats de la caractérisation             l'eau, on considère comme état initial l'état
+                                                                                                                                         La nature chimique du ou des polymères de                 chimique du joint sera résumé dans un                      du joint après un conditionnement phy-
+                                                                                                                                         base sera déterminée sur des produits résul-              tableau de synthèse dont
+                                                                                                                                         tant de la pyrolyse du joint, par chromatogra-            un exemple est donné à la Référence fournisseur
+                                                                                                                                         phie en phase gazeuse couplée à la détection              surte (tableau 2).
+                                                                                                                                                                                                                                  Date de réception
+                                                                                                                                         en spectrométrie de masse (CG/MS) ou par                  Si le joint est multi-matière,
+                                                                                                                                         spectrométrie infrarouge à transformée de                                                Origine
+                                                                                                                                                                                                   chaque élément constitutif
+                                                                                                                                         Fourier en transmission (IRTF).                           sera analysé séparément et Date de fabrication
+                                                                                                                                                                                                   fera l'objet d'une synthèse N° de lot matière / joint
+                                                                                                                                         4.2 - Détermination de la composi-                        comme présentée dans le
+                                                                                                                                         tion centésimale du mélange                               tableau 2. Les résultats rela- Description et couleur
+                                                                                                                                                                                                   tifs à chaque matière seront Quantité reçue
+                                                                                                                                         4.2./.Teneur en plastifiant                               présentés de la section la
+                                                                                                                                                                                                                                  Dimensions mesurées
+                                                                                                                                         La teneur en plastifiant sera évaluée par                 plus importante à la plus
+                                                                                                                                         extraction chimique au méthanol ou par tout               faible.                        Dimensions spécifiées
+                                                                                                                                                                                                                                                       Tableau I : origine et désignation du joint
+
+                                                                                                                                                                                                                                                                                         Partie A     PartieB
+                                                                                                                                                                                                                               Référence fournisseur
+                                                                                                                                                                                                                               Nature du ou des polymères de base
+
+
+
+                                                                                                                                           \nnnnïCYw                                          }^\^}^\^ *'/
+                                                                                                                                                                                                                               Phase pyrofysable (%)
+                                                                                                                                                                                                                               Plastifiants et matières extractibles (solvant) (%)
+                                                                                                                                                                                                                               Phase oxydable (%)
+                                                                                                                                                                                                                               Résidu minéral (après ATG) (%)
+                                                                                                                                                                                                                               Observations
+                                                                                                                                                       figure / : exemple d'un joint hydrogonflant compressible                             Tableau 2 : analyses chimiques des matériaux du joint :
+                                                                                                                                                                                                                                                     exemple relatif à un joint bi-matières
+
+
+
+                                                                                                                                                TUNNELS ET OUVRAGES SOUTERRAINS - N° 1 5 1 -JANVIER/FEVRIER 1 999                                         f
+                                                                                                                                                                              Etanchéité des tunnels en voussoirs par joints nydrogonflants
+                                                                                                                                                                                Procédures d'évaluation et de contrôle qualité des joints
+
+                                                                                                                                                                                                                                                           Remarque : à l'issue des séquences de gon-
+                                                                                                                                                                                                                                                           flement dans l'eau et juste avant les pesées,
+                                                                                                                                                                                                                                                           les joints seront légèrement épongés.
+                                                                                                                                                                                                                                                           Conformément à ce qui sera présenté dans la
+                                                                                                                                                                                                                                                           suite, des tronçons de joint de 100 mm (4 tron-
+                                                                                                                                                                                                                                                           çons pour 4 mesures de force de réaction) et de
+                                                                                                                                                                                                                                                           300 mm (8 tronçons pour 2 mesures de pres-
+                                                                                                                                                                                                                                                           sion de fuite) seront soumis à ce cyclage. Les
+                                                                                                                                                                                                                                                           tronçons de joints de 100 mm seront découpés
+                                                                                                                                                                                                                                                           avec une précision de ± I mm ;pour les 300 mm,
+                                                                                                                                                                                                                                                           la précision doit être de ±5 mm (sections ajus-
+Tous droits de reproduction, traduction, adaptation, totales ou partielles sous quelques formes que ce soit sont expressément réservés
+
+
+
+
+                                                                                                                                                                                                                                                           tées à la mise en place dans le montage).
+                                                                                                                                                                                                                                                           Le tableau 3 ci-dessous présente un exemple
+                                                                                                                                                                                                                                                           de synthèse des mesures de masse et de
+                                                                                                                                                                                                                                                           volume ; seules les valeurs moyennes obte-
+                                                                                                                                                                                                                                                           nues d'une part sur les sections de 100 mm
+                                                                                                                                                                                                                                                           et d'autre part sur les sections de 300 mm
+                                                                                                                                                                                                                                                           seront considérées.
+                                                                                                                                                                                                                                                           À partir des résultats reportés dans le tableau
+                                                                                                                                                                    Dispositif complet de mesure des pressions de fuite                                    3, on représentera sous forme de graphique
+                                                                                                                                                                                                                                                           la variation de volume et de masse en fonc-
+                                                                                                                                                                                                                                                           tion du temps. Dans le cas des joints multi-
+                                                                                                                                         sico-chimique constitué de 10 cycles                   Ce cyclage reproduit un phénomène de
+                                                                                                                                                                                                                                                           matières les variations de masse et de volume
+                                                                                                                                         consécutifs d'immersion-séchage (gon-                  fatigue physico-chimique qui survient lorsque
+                                                                                                                                                                                                                                                           seront déterminées par rapport à l'ensemble
+                                                                                                                                         flement/dégonflement) se répartissant                  le joint est pénodiquement au contact d'eau.
+                                                                                                                                                                                                                                                           du produit (mesure globale).
+                                                                                                                                         comme suit :                                           Après chaque séquence de ce pré-condition-
+                                                                                                                                         • 3 jours de gonflement dans de l'eau de ville         nement, on procédera à la mesure de la                      5.2. / - Force de réaction à l'état initial
+                                                                                                                                         à température ambiante,                                masse et du volume des échantillons. Les
+                                                                                                                                                                                                résultats seront consignés dans un tableau où               Cet essai, réalisé à température ambiante,
+                                                                                                                                          • 4 jours de séchage à l'air libre, à tempéra-        apparaîtront pour chaque cycle de gonfle-                   consiste à mesurer la force développée par
+                                                                                                                                         ture ambiante.                                         ment et de séchage les variations de masse et               un tronçon de joint durant le gonflement qui
+                                                                                                                                         À l'issue des 10 cycles de conditionnement             de volume exprimées en pour-cent de la                      survient lors de son immersion dans l'eau à
+                                                                                                                                         physico-chimique, le joint est placé à l'air, à        valeur initiale. Les masses seront mesurées à               pH 7 et dans une solution à pH 12 ; il est
+                                                                                                                                         température ambiante, pour un séchage jus-             l'aide d'une balance de précision 0,01                      réalisé à l'aide d'un montage spécifique per-
+                                                                                                                                         qu'à poids constant                                    gramme près et les volumes seront détermi-                  mettant de tester un segment de joint de
+                                                                                                                                                                                                nés par mesure des cotes du joint à l'aide de                100 mm de longueur (±1 mm) positionné
+                                                                                                                                         En ce qui concerne les mesures de taux                                                                             dans une engravure usinée dans un socle en
+                                                                                                                                                                                                pied à coulisse électronique ou de tout autre
+                                                                                                                                         de matière extractible du joint après                                                                              alliage d'aluminium. L'usinage de l'engravure
+                                                                                                                                                                                                appareil de mesure dont la précision est au
+                                                                                                                                         gonflement dans l'eau, l'état initial du                                                                           doit être de bonne qualité (rugosité Ra= 1,6).
+                                                                                                                                                                                                moins égale à 0,1 mm.
+                                                                                                                                         joint est l'état de réception ; la masse à
+                                                                                                                                         l'origine sera préalablement stabilisée par un         S'il s'avère que la géométrie du joint est trop             Durant son expansion, la section de joint
+                                                                                                                                         passage en dessiccateur jusqu'à obtenir une            complexe pour permettre la détermination                    développe un effort de réaction sur le bar-
+                                                                                                                                         valeur constante.                                      au pied à coulisse du volume, ce dernier                    reau solidaire d'un capteur permettant l'enre-
+                                                                                                                                                                                                devra être évalué par une technique directe                 gistrement de la force d'expansion en fonc-
+                                                                                                                                         5.2 - Mesures des forces de réac-                      (immersion du joint dans un bêcher gradué                   tion du temps. Le capteur est lui même fixé à
+                                                                                                                                         tion et des pressions limites de                       contenant de l'eau : mesure du volume d'eau                 un bâti maintenu par 4 vis parfaitement posi-
+                                                                                                                                         fuite                                                  déplacé).                                                   tionnées par rapport au socle ; la figure 2
+
+                                                                                                                                         Comme cela a déjà été précisé, les mesures de           Référence fournisseur
+                                                                                                                                         pression limite de furte à l'état gonflé et de
+                                                                                                                                         force de réaction développée par le matériau            Longueur des tronçons testés                                                       100 mm         300mm
+                                                                                                                                         lors de son expansion au contact de l'eau               Cycle I : variation masse et volume après immersion
+                                                                                                                                         seront menées à l'état initial, ce dernier étant        Cycle 1 : variation masse et volume après séchage
+                                                                                                                                         considéré comme étant l'état du joint après
+                                                                                                                                                                                                 Cycle 2 : variation masse et volume après immersion
+                                                                                                                                         un conditionnement physico-chimique consti-
+                                                                                                                                                                                                 Cycle 2 : variation masse et volume après séchage
+                                                                                                                                         tué de 10 cycles consécutifs d'immersion-
+                                                                                                                                         séchage (gonflement/dégonflement) comme
+                                                                                                                                         indiqué en 5.1.
+                                                                                                                                                                                                 Cycle 1 0 , variation masse et volume après immersion
+                                                                                                                                         À l'issue des 10 cycles de conditionnement
+                                                                                                                                                                                                 Cycle 1 0 : variation masse et volume après séchage
+                                                                                                                                         physico-chimique, le joint est placé à l'air, à
+                                                                                                                                         température ambiante, pour un séchage jus-              Observations
+                                                                                                                                         qu'à poids constant                                                       Tableau 3 : synthèse des variations de masse et de volume (valeurs moyennes).
+
+
+
+
+                                                                                                                                                                                             TUNNELS ET OUVRAGES SOUTERRAINS - N°                              151 -JANVIER/FEVRIER 1999
+                                                                                                                                                                                 Etanchéité des tunnels en voussoirs par {oints hydrogonflants
+                                                                                                                                                                                   Procédures d'évaluation et de contrôle qualité des joints
+
+                                                                                                                                                                                                                                                          donne un exemple de montage utilisé pour
+                                                                                                                                                                                                                                                          cette mesure (un exemple de schéma coté
+                                                                                                                                                                                                                                                          figure en annexe I).
+                                                                                                                                                                                                                                                          L'ensemble de la chaîne de mesure complète
+                                                                                                                                           Barreau
+                                                                                                                                                                                                                              Capteur de force            (capteur + conditionneur + enregistreur) est
+                                                                                                                                                                                                                                                          préalablement étalonné.
+
+                                                                                                                                                                                                                               Bâti                       L'engravure, usinée dans le socle du montage,
+                                                                                                                                                                                                                                                          est spécifique au joint testé. La longueur de
+                                                                                                                                                                                                                                                          l'engravure est de 102 mm.
+                                                                                                                                                                                                                                                          Dans le cas de joints constitués totale-
+Tous droits de reproduction, traduction, adaptation, totales ou partielles sous quelques formes que ce soit sont expressément réservés
+
+
+
+
+                                                                                                                                                                                                                                                          ment d'élastomère hydrogonflant, la
+                                                                                                                                                                                                                                                          profondeur "h" de l'engravure est égale à
+                                                                                                                                                                                                                                                          l'épaisseur moyenne du joint, la largeur "I" est
+                                                                                                                                                                                                                                                          égale à la largeur maximale du joint majorée
+                                                                                                                                                                                                                                                          de 2 mm. Par la conception même du mon-
+                                                                                                                                                                                                                                                          tage, la distance entre le barreau transmettant
+                                                                                                                                                                                                                                                          les efforts du joint au capteur durant la phase
+                                                                                                                                                                                                                                                          de gonflement et la surface du socle est de
+                                                                                                                                                                                                                                                          2 mm. Cette cote est vérifiée à l'aide de cales
+                                                                                                                                                    Socle                                                                  Eprouvette                     étalons ; un exemple de cotes est fourni
+                                                                                                                                                                                                                                                          tableau 4. Pour lever toute ambiguïté sur les
+                                                                                                                                         Figure 2 : exemple de montage permettant de suivre l'évolution de la force d'expansion du joint en fonction du   conditions de mesure, ce type de tableau doit
+                                                                                                                                                              temps, à température ambiante et après immersion dans le liquide.
+                                                                                                                                                                                                                                                          figurer dans le compte rendu d'essai.
+                                                                                                                                                                                                                                                          Remarque : il est à noter que le contact
+                                                                                                                                                                                                                                                          entre le barreau du montage et le joint ne
+                                                                                                                                                                                                                                                          s'effectue qu'après quelques heures d'immer-
+                                                                                                                                                                                                                                                          sion, lorsque ce dernier s'est suffisamment
+                                                                                                                                                                                                                                                          expansé.
+                                                                                                                                                                                                                                                          Dans le cas de joints multi-matières, il
+                                                                                                                                                                                                                           Eau sous pression
+                                                                                                                                                                                                                                                          est éventuellement nécessaire de considérer
+                                                                                                                                                                                                                                                          la compression initiale ; dans ce cas, la largeur
+                                                                                                                                                                                                                                                          "I" de l'engravure sera suffisamment impor-
+                                                                                                                                                                                                                                                          tante pour que le joint une fois comprimé ne
+                                                                                                                                                                                                                                                          se retrouve pas confiné. La hauteur "h" corres-
+                                                                                                                                                                                                                                                          pondra à la hauteur totale du joint comprimé
+                                                                                                                                                                                                                                                          moins 2 mm, les 2 mm correspondant à la dis-
+                                                                                                                                                                                                                                                          tance "e" entre le barreau et le socle du mon-
+                                                                                                                                                            Figure 3 : schéma de principe du dispositif destiné à Fessai à'étanchésté
+                                                                                                                                                                                                                                                          tage d'essai. Pour ces mesures, on considérera
+                                                                                                                                                                                                                                                          un niveau de compression moyen pour les
+                                                                                                                                                                                                                                                          différentes applications du joint
+                                                                                                                                                                                     Joint                                 Engravure                      Les montages seront immergés pendant 2
+                                                                                                                                             REFERENCE                                                                                                    semaines (336 heures) à température
+                                                                                                                                                                            largeur        épaisseur        largeur 1     profondeur h        distance
+                                                                                                                                                                                                                                                          ambiante dans de l'eau permutée à pH 7 ainsi
+                                                                                                                                                                              mm             mm                mm              mm               mm
+                                                                                                                                                                                                                                                          que dans une solution basique à pH 12 (par
+                                                                                                                                                 xxxxx                     20,0±0,l          5,0±0,3          22,00             5,00            2,00      exemple solution tampon TITRINORM pH
+                                                                                                                                                                                                                                                           12 de PROLABO). Deux tronçons seront tes-
+                                                                                                                                         Tableau 4 : exemple de relevé des caractéristiques dimensionnelles du joint et de son engravure usinée dans te
+                                                                                                                                                sodé du montage destiné à la mesure des forces d'expansion ; cas d'un matériau hydrogonflant              tés dans l'eau à pH 7 et deux autres dans la
+                                                                                                                                                                                                                                                          solution à pH 12.
+                                                                                                                                                                                                                                                          Les résultats seront exprimés d'une part sous
+                                                                                                                                         Référence fournisseur                                                                                            la forme d'un tableau où apparaîtront les
+                                                                                                                                         Force de réaction après 336                  Tronçon 1                                                           valeurs de force de réaction (en N pour
+                                                                                                                                         heures dans l'eau à pH7                      Tronçon 2                                                            100 mm de joint). Les courbes illustrant l'évo-
+                                                                                                                                                                                                                                                          lution de la force de réaction du matériau en
+                                                                                                                                         Observations
+                                                                                                                                                                                                                                                          fonction du temps compléteront le tableau.
+                                                                                                                                         Force de réaction après 336                  Tronçon 1                                                           Un modèle de tableau de résultat est pré-
+                                                                                                                                         heures dans l'eau à pH 1 2                   Tronçon 2                                                           senté ci-après (tableau 5). Pour les joints
+                                                                                                                                         Observations                                                                                                     multi-matières, on rappellera également le
+                                                                                                                                                                                                                                                          niveau de compression.
+                                                                                                                                                      Tableau 5 : mesure des forces de réaction après 2 semaines d'immersion, état initial.
+
+
+
+
+                                                                                                                                              TUNNELS ET OUVRAGES SOUTERRAINS - N° 1 5 1 -JANVIER/FEVRIER 1999»
+                                                                                                                                                                                  Etancnéité des tunnels en voussoirs par joints nydrogonflants
+                                                                                                                                                                                    Procédures d'évaluation et de contrôle qualité des joints
+
+                                                                                                                                         5.2.2 - Pression de fuite
+                                                                                                                                         Ce test d'étanchérté, mené à 23°C, est des-
+                                                                                                                                         tiné à évaluer la pression limite de furte du
+                                                                                                                                         joint hydrogonflant, il est réalisé à l'aide d'un
+                                                                                                                                         montage spécial sur 4 éléments de joint pla-
+                                                                                                                                         cés dans une engravure spécifique
+                                                                                                                                         Le montage d'essai est composé de deux
+                                                                                                                                         plaques en aluminium la plaque inférieure
+                                                                                                                                         (embase) dispose d'une engravure recevant
+                                                                                                                                         le joint et délimitant une chambre intérieure
+                                                                                                                                         de mise en pression , la plaque supérieure
+Tous droits de reproduction, traduction, adaptation, totales ou partielles sous quelques formes que ce soit sont expressément réservés
+
+
+
+
+                                                                                                                                                                                                                Figure 5 alimentation de la chambre interne du montage destiné au test d'étanchérté
+                                                                                                                                         (couvercle) présente une surface d'appui
+                                                                                                                                         venant au contact du joint (figure 3) Pour ce
+                                                                                                                                         test d'étanchérté, on ne distingue pas le cas             nérté de l'épaisseur du joint d'une part et aux             Le couvercle du montage est pourvu de deux
+                                                                                                                                         des joints constitués totalement ou en partie             défauts de contact aux extrémités (les joints               piquages assurant la circulation de l'eau
+                                                                                                                                         de maténau hydrogonflant (Figure 3)                       n'étant pas collés), l'expansion de ce dernier              durant la phase de gonflement du joint , ils
+                                                                                                                                                                                                   après quelques heures conduit théorique-                    permettent également la purge ainsi que la
+                                                                                                                                         Dans l'embase, une engravure carrée (de                   ment à l'arrêt des fuites                                   mise en pression de la chambre interne lors
+                                                                                                                                         côté 250,Q±0,2 mm) et de section rectangu-                                                                            de l'essai d'étanchérté proprement dit
+                                                                                                                                         laire est usinée , la largeur de cette engravure          Le tableau 6 indique les cotes de l'engravure
+                                                                                                                                         représente la largeur totale initiale du joint            pour un exemple de joint L'usinage de l'en-                 La procédure complète de l'essai d'étan-
+                                                                                                                                         (état de livraison) plus 2 mm ( I mm de part              gravure et du couvercle doit être soignée                   chéité est composée de deux parties le
+                                                                                                                                         et d'autre)                                               (Ra= 1,6) L'annexe 2 présente un schéma                     conditionnement du joint et le test d'étan-
+                                                                                                                                                                                                   coté du montage d'essai                                     chérté proprement drt (mesure de la pression
+                                                                                                                                         La conception du montage d'essai dort être                                                                            de furte)
+                                                                                                                                         telle qu'après fermeture, il existe un jeu de             Pour éviter toute ambiguïté sur les conditions
+                                                                                                                                          I mm entre le couvercle et la plaque d'embase            de mesure, un tableau comparable au tableau                 5.2.2 / -Conditionnement du joint avant essai
+                                                                                                                                         coté extérieur et de 2 mm coté intérieur                  6 devra figurer dans le rapport d'essai
+                                                                                                                                                                                                                                                               Le conditionnement auquel est soumis le
+                                                                                                                                         Dans ces conditions, le joint n'est pas com-              Les 4 tronçons de joint sont mis en place à                 joint hydrogonflant avant la mesure propre-
+                                                                                                                                         primé lors de la mise en place du couvercle               l'état sec dans i'engravure, extrémités non                 ment dite est détaillé à la suite
+                                                                                                                                         sur l'embase coté externe du joint (figure 4)             collées Le montage est ensuite fermé puis la
+                                                                                                                                         La fermeture du couvercle par les vis ne dort             chambre interne est alimentée en eau afin de                - contrôle visuel de l'aspect des engravures
+                                                                                                                                         pas entraîner la compression du joint, le cou-            permettre l'expansion du joint (voir figure 5)              usinées dans l'embase ainsi que de l'état de
+                                                                                                                                         vercle venant juste en contact II peut appa-              A l'issue d'une période de deux semaines                    surface du couvercle,
+                                                                                                                                         raître, durant la mise en eau de la chambre               durant laquelle la chambre interne est conti-               - vérification des cotes des engravures lors de
+                                                                                                                                         interne au début de la période de gonfle-                 nuellement drainée, l'essai de mise en pres-                la première utilisation du montage,
+                                                                                                                                         ment, de légères fuites liées à la non homogé-            sion proprement drt est réalisé (Figure 5)
+                                                                                                                                                                                                                                                               - découpe des joints à la longueur de 250 mm
+                                                                                                                                                                                                                                                               avant leur mise en place dans le montage
+                                                                                                                                                                                                                                                               d'étanchérté (pour le conditionnement phy-
+                                                                                                                                                                                     Joint                                Engravure
+                                                                                                                                                                                                                                                               sico-chimique, la longueur des tronçons de
+                                                                                                                                               REFERENCE                    largeur 1      épaisseur e      largeur        hauteur e1       hauteur e2         joint est de 300±5 mm),
+                                                                                                                                                                               mm             mm              mm              mm               mm
+                                                                                                                                                                                                                                                               - vérification des cotes puis mise en place des
+                                                                                                                                                  xxxxx                    20.010.1          5,0±0,3         22,00            4.00                 3.00        tronçons de joint dans les engravures,
+                                                                                                                                                 Tableau 6 caractéristiques di/nensionne//es du joint et de son engravure usinée dans le montage               - fermeture du couvercle parvis,
+                                                                                                                                                                                  destiné aux tests rfétoncftéiîé.
+
+
+
+
+                                                                                                                                                                                                                                                          Chambre interne de
+                                                                                                                                                                                                                                                          mise en pression du
+                                                                                                                                                                                                                                                                 joint
+
+
+                                                                                                                                                                             figure 4 configuration du joint (ors de son positionnement dans le montage de test d'étanchérté
+
+
+
+
+                                                                                                                                                                                              i TUNNELS ET OUVRAGES SOUTERRAINS - N° 151 -JANVIER/FEVRIER 1999
+                                                                                                                                                                              Etanchéité des tunnels en voussoirs par joints hydrogondants
+                                                                                                                                                                                Procédures d'évaluation et de contrôle qualité des joints
+
+                                                                                                                                                                                                       Robinet
+
+
+
+                                                                                                                                                                                                                                                                           225?        I
+Tous droits de reproduction, traduction, adaptation, totales ou partielles sous quelques formes que ce soit sont expressément réservés
+
+
+
+
+                                                                                                                                                            Réservoir d'eau
+
+                                                                                                                                                                                           figure 6 schéma de l'installation de conditionnement des joints
+
+                                                                                                                                         - mise en eau de la chambre interne du mon-           cessifs de 0,5 ou I bar et à noter la pression à              système afin de ne pas solliciter prématuré-
+                                                                                                                                         tage (eau du réseau de distribution), une             laquelle apparaît une fuite                                   ment le joint gonflé,
+                                                                                                                                         pompe assure le drainage continu durant les           La procédure d'essai est décrite à la surte                   - vérification des indications du capteur de
+                                                                                                                                         2 semaines de conditionnement du joint ,
+                                                                                                                                                                                               - mise en chauffe durant au moins une heure                   pression et de l'enregistreur (pression relative
+                                                                                                                                         cette procédure peut être assimilée à un
+                                                                                                                                                                                               des systèmes électroniques de mesure (cap-                    nulle),
+                                                                                                                                         contact prolongé du joint avec une eau de
+                                                                                                                                                                                               teur de pression, conditionneur et enregis-                   - mise en pression de la chambre interne par
+                                                                                                                                         ruissellement ou encore une eau stagnante
+                                                                                                                                                                                               treur), puis calibration (réglages 0 et pleine                paliers successifs de 0,5 ou I ban
+                                                                                                                                         (figure 6)
+                                                                                                                                                                                               échelle),
+                                                                                                                                                                                                                                                             - maintien du palier en pression durant une
+                                                                                                                                         5.2.2.2, Test d'étanchétté - Mesure de la pres-       - raccordement du montage à l'essai à la                      minute , durant cette phase de l'essai, la
+                                                                                                                                         sion de fuite                                         pompe de mise en pression (raccord rapide                     chambre interne est isolée des circuits de
+                                                                                                                                         A l'issue du conditionnement du joint durant
+                                                                                                                                                                                               haute pression),                                              mise en pression (pompe d'épreuve) et de
+                                                                                                                                         deux semaines dans le montage d'essai, il sera        - raccordement de la sortie du montage à la                   purge,
+                                                                                                                                         procédé au test d'étanchérté proprement drt,          purge et au capteur de pression (figure 7),                   - enregistrement continu des différentes
+                                                                                                                                         ce dernier consiste à mettre en pression la           - purge de la chambre interne du montage, la                  séquences de mise en pression durant l'essai
+                                                                                                                                         chambre interne du montage par paliers suc-           purge est effectuée sans mettre en pression le                (Figure 7)
+
+
+                                                                                                                                                                                                                                                                           Vers électronique
+                                                                                                                                                                                                                                                                        • de conditionnement
+                                                                                                                                                                                                                                                                             et enregistreur
+                                                                                                                                                            Pompe
+                                                                                                                                                          d'épreuve
+                                                                                                                                                                                                                                                   Robinet d'isolement
+
+                                                                                                                                                                                                                                                                            Purge
+
+
+
+                                                                                                                                                                                                                                         S/
+                                                                                                                                                                                                                                          --     Raccord rapide
+                                                                                                                                                                                                                                         / «V
+
+
+
+
+                                                                                                                                                                                                             Montage à l'épreuve
+
+
+
+
+                                                                                                                                                                    Bac d'eau
+
+                                                                                                                                                                                                Figure 7 schéma du banc d'essai de mise en pression
+
+
+
+
+                                                                                                                                               TUNNELS ET OUVRAGES SOUTERRAINS - N°                           1 5 1 -JANVIER/FEVRIER 1 999 i
+                                                                                                                                                                                  Etanchéité des tunnels en voussoirs par joints hydrogondants
+                                                                                                                                                                                    Procédures d'évaluation et de contrôle qualité des joints
+Tous droits de reproduction, traduction, adaptation, totales ou partielles sous quelques formes que ce soit sont expressément réservés
+
+
+
+
+                                                                                                                                                           Détail dispositif de mesure de pressions de fuite                               Détail dispositif d'essai de mesure de la force d'expansion du joint
+
+
+                                                                                                                                         Remarque : si l'on constate des phéno-                      blement stabilisée par un passage en dessicca-         - procéder par la suite à des pesées régulières
+                                                                                                                                         mènes de relaxation (légère diminution de la                teur jusqu'à obtenir une valeur constante.             jusqu'à obtenir une masse constante : cette
+                                                                                                                                         pression avec le temps) lors des mesures, on                                                                       masse m0 sera la masse initiale retenue pour
+                                                                                                                                                                                                     Le but de cet essai est donc d'évaluer le taux
+                                                                                                                                         cherchera à atteindre, à chaque palier, un état                                                                    les calculs,
+                                                                                                                                                                                                     de matière extractible du joint hydrogonflant
+                                                                                                                                         d'équilibre avant de considérer le niveau de
+                                                                                                                                                                                                     durant son expansion libre dans l'eau à tem-           - placer les trois tronçons dans de l'eau démi-
+                                                                                                                                         pression suivant.
+                                                                                                                                                                                                     pérature ambiante. L'immersion du joint sera           néralisée, à la température ambiante,
+                                                                                                                                         Pour apprécier dans de bonnes conditions la                 poursuivie jusqu'à obtenir une masse                   - procéder à des pesées régulières jusqu'à
+                                                                                                                                         pression de fuite, on utilisera, pour mesurer la            constante. Avant essai, il sera nécessaire de          masse constante : cette masse mg sera la
+                                                                                                                                         pression, un capteur électronique associé à un              placer le joint en dessiccateur afin d'éliminer        masse gonflée à l'équilibre,
+                                                                                                                                         conditionneur permettant l'enregistrement                   l'eau préalablement absorbée par le joint
+                                                                                                                                         en continu de la pression en fonction du                    (humidité de l'air). Trois tronçons de joint           - sécher en dessiccateur à température
+                                                                                                                                         temps (table traçante ou système d'acquisi-                 seront testés par qualité ; le résultat sera           ambiante les tronçons de joint gonflés,
+                                                                                                                                         tion de données).                                           exprimé par la variation moyenne de masse              - procéder à des pesées régulières de façon à
+                                                                                                                                         5.2.2.3. Expression des résultats                           des trois mesures.                                     atteindre la masse à l'équilibre à l'état sec ;
+                                                                                                                                                                                                      La procédure retenue pour cette mesure est            cette masse est noté ms,
+                                                                                                                                         Le résultat de cette mesure est la valeur de
+                                                                                                                                         pression qui conduit à la détection d'une fuite ;           résumée à la suite :                                   - calculer le taux de gonflement massique G
+                                                                                                                                         ce résultat sera consigné dans un tableau                   - identification du joint hydrogonflant,               (%) du joint à l'équilibre par la formule :
+                                                                                                                                         (tableau 7). Deux mesures doivent être réali-
+                                                                                                                                                                                                     - découpe de trois tronçons de longueur 100
+                                                                                                                                         sées par qualité de joint.                                                                                                                        mg -m0
+                                                                                                                                                                                                     mm±l mm,
+                                                                                                                                         En fonction des joints testés, la fuite peut se                                                                                  G(%) = 100
+                                                                                                                                                                                                     - repérage de trois tronçons de joint,                                                    m
+                                                                                                                                         manifester de différentes façons ; dans tous
+                                                                                                                                         les cas, la pression de fuite indiquée dans le              - conditionnement durant 48 à 72 heures des            - calculer le taux de matière extractible E (%)
+                                                                                                                                         tableau de résultat concerne la mise en évi-                trois tronçons en salle climatisée à 23°C±2°C          par la formule :
+                                                                                                                                         dence de la fuite par l'apparition de quelques              et 50%±5% d'humidité relative (durant cette                                      m. -rrin
+                                                                                                                                         gouttes (pression qui correspond en fait au                 phase de conditionnement préparatoire, les                           E(%) = 100 ———-
+                                                                                                                                         début de la fuite).                                         tronçons de joint reposeront sur des sup-
+                                                                                                                                                                                                     ports de façon à ce que au moins 95 % de
+                                                                                                                                         5.3 - Mesure du taux de matière                             leur surface totale soit au contact de l'air),         6 - CARACTERISATION DU
+                                                                                                                                         extractible du joint après gonfle-                          - à l'issue du conditionnement peser à 0,01g           JOINT APRES VIEILLISSEMENT
+                                                                                                                                         ment à l'équilibre                                          près de chacun des trois tronçons,                     ACCELERE
+                                                                                                                                         Comme déjà précisé auparavant, les mesures                  - placer les tronçons en dessiccateur (l'agent
+                                                                                                                                         du taux de matière extractible du joint après               hydrophile utilisé peut-être de chlorure de
+                                                                                                                                         gonflement dans l'eau seront menées à l'état                calcium ou du silicagel), à température                6.1 - Contexte général
+                                                                                                                                         de réception ; la masse à l'origine sera préala-            ambiante.
+                                                                                                                                                                                                                                                            Le but du vieillissement accéléré est d'amener le
+                                                                                                                                                                                                                                                           joint dans un état de vieillissement équivalent à
+                                                                                                                                          Référence fournisseur                                                                                             celui du matériau après environ 50 ans de fonc-
+                                                                                                                                                                                                                                                            tionnement à température ambiante et d'éva-
+                                                                                                                                          Pression de fuite essai 1                                                          /                              luer par la suite ses performances, du point de
+                                                                                                                                          Pression de fuite essai 2                                                          /                              vue de ses capacités à s'expanser au contact de
+                                                                                                                                          Observations                                                                                                      Feau et d'assurer un niveau de pression de fuite
+                                                                                                                                                                                                                                                            acceptable, compatible avec les conditions de
+                                                                                                                                                               Tableau 7 : résultats des essais de pression de fuite ; état initial                         fonctionnement de l'ouvrage à étancher.
+
+
+
+                                                                                                                                                                                                 TUNNELS ET OUVRAGES SOUTERRAINS - N° 151 -JANVIER/FEVRIER 1999
+                                                                                                                                                                              Etanchéité des tunnels en voussoirs par joints hydrogonflants
+                                                                                                                                                                                Procédures d'évaluation et de contrôle qualité des {oints
+
+                                                                                                                                         Avant de procéder au vieillissement accéléré,        accélérées pour quatre types de joints hydro-        d'un tronçon de joint de 100 mm Quatre
+                                                                                                                                         les tronçons de joint doivent subir le condi-        gonflants constitués d'EPDM ou d'EPR, de             températures de vieillissement au moins
+                                                                                                                                         tionnement physico-chimique constitué de 10          polyuréthanne, de caoutchouc naturel et un           devront être retenues.
+                                                                                                                                         cycles consécutifs d'immersion - séchage             couplage de polychloroprène et de NR Les
+                                                                                                                                         (gonflement /dégonflement) se répartissant           résultais de ces investigations sont résumés         6.2 - Force de réaction après
+                                                                                                                                         comme surt :                                         dans le tableau présenté ci-après,                   vieillissement
+                                                                                                                                         - 3 jours de gonflement dans de l'eau de ville       L'équivalence de l'état de vieillissement avec 50    Les forces de réaction après vieillissement
+                                                                                                                                         à température ambiante,                              ans d'usage en service n'a pu être établie de        seront mesurées dans les mêmes conditions
+                                                                                                                                                                                              façon rigoureuse par une approche de type            que celles décrites au paragraphe 521. Deux
+                                                                                                                                         - 4 jours de séchage à l'air libre, à tempéra-
+                                                                                                                                                                                              Arrhénius que dans le cas d'un produit formulé       tronçons de joint cycles et vieillis seront
+                                                                                                                                         ture ambiante
+                                                                                                                                                                                              à base d'un élastomère d'EPDM ou d'EPR;dons          caractérisés dans de l'eau à pH 7 et deux
+                                                                                                                                         À l'issue des 10 cycles de conditionnement
+Tous droits de reproduction, traduction, adaptation, totales ou partielles sous quelques formes que ce soit sont expressément réservés
+
+
+
+
+                                                                                                                                                                                              les autres cas, nous préconisons d'appliquer des     autres dans une solution tampon à pH 12.
+                                                                                                                                         physico-chimique, le joint est placé à l'air à       conditions de vieillissement les plus sévères
+                                                                                                                                         température ambiante pour un séchage jus-                                                                 Les résultats seront présentés sous forme
+                                                                                                                                                                                              compatibles avec la nature des matériaux.
+                                                                                                                                         qu'à poids constant Ce cyclage reproduit un                                                               d'un tableau identique au tableau 4.
+                                                                                                                                                                                              Dans le cas de joints mono ou mufti-matières,
+                                                                                                                                         phénomène de fatigue physico-chimique qui
+                                                                                                                                                                                              si la nature du matériau le plus sensible au         6.3 - Pression de fuite après
+                                                                                                                                         survient lorsque le joint est périodiquement
+                                                                                                                                                                                              vieillissement correspond à celle spécifiée          vieillissement
+                                                                                                                                         au contact d'eau
+                                                                                                                                                                                              dans le tableau 8, alors la condition de vieillis-
+                                                                                                                                         Ce conditionnement sera appliqué à des               sement correspondant à ce matériau sera               Les pressions de fuite seront déterminées
+                                                                                                                                         échantillons de 100 mm de longueur (4 élé-           appliquée                                             dans des conditions analogues à celles
+                                                                                                                                         ments) destinés aux mesures des forces de            Si le joint testé est constitué d'un élastomère       décrites au paragraphe 5 2 2 Deux mesures
+                                                                                                                                         réaction et à des éléments de 300 mm pour            dont la nature de base n'apparaît pas dans le         seront menées sur quatre tronçons de joint
+                                                                                                                                         l'essai d'étanchéité (8 tronçons de 300 mm)          tableau 8, alors la condition de vieillissement       de 250 mm préalablement cycles et vieillis
+                                                                                                                                         Les cycles d'immersion-séchage des tronçons          accélérée de 110 jours à 75°C sera retenue            Les résultats seront présentés dans une
+                                                                                                                                         de joint seront suivis simplement par des            À l'issue de ce vieillissement, des essais de         forme comparable à celle du tableau 5
+                                                                                                                                         mesures de variation de masse et de volume           pression de fuite et de force de réaction
+                                                                                                                                         exprimées par rapport à l'état initial du joint à    seront menés si les résultats de ces mesures
+                                                                                                                                         sec Les résultats seront présentés conformé-         ne sont pas satisfaisants, il incombera au fabri-     7 - CRITERES D'ACCEPTATION
+                                                                                                                                         ment ce qui a été défini au paragraphe 5 2           cant ou fournisseur du joint de démontrer
+                                                                                                                                         (tableau et figure)                                  que son matériau répond, après un vieillisse-   Les critères d'acceptation seront basés sur les
+                                                                                                                                                                                              ment accéléré, aux cntères d'acceptation défi-  résultats des mesures de pression de fuite,
+                                                                                                                                         Des figures illustreront l'évolution de la varia-
+                                                                                                                                                                                              nis au paragraphe 7 (Tableau 8)                 avant et après vieillissement, sur les résultats
+                                                                                                                                         tion de masse du joint en fonction du nombre
+                                                                                                                                         de cycles du conditionnement physico-chi-            Remarque : dans le cas où la nature des des mesures de force de réaction toujours
+                                                                                                                                                                                              polymères de base du joint à caractériser ne    avant et après vieillissement et également sur
+                                                                                                                                         mique, pour les tronçons de 100 mm et les
+                                                                                                                                                                                              correspond pas à celle du tableau précédent,    le taux de matière extractible après gonfle-
+                                                                                                                                         tronçons de 300 mm
+                                                                                                                                                                                              les conditions de vieillissement accélérées     ment à l'équilibre puis séchage à masse
+                                                                                                                                         Les conditions de vieillissement à appliquer                                                         constante à température ambiante Les cri-
+                                                                                                                                                                                              devront être déterminées à l'issue d'un traite-
+                                                                                                                                         (couples temps/température) sont bien sûr                                                            tères d'acceptation décrits dans la suite sont
+                                                                                                                                                                                              ment de type Arrhénius La méthodologie
+                                                                                                                                         fonction de la nature du polymère de base le         générale de prévision de comportement à         donnés à titre indicatif et peuvent êtres discu-
+                                                                                                                                         plus sensible constituant le joint (cas des          long terme par une approche de type             tés en fonction des ouvrages considérés
+                                                                                                                                         joints mutti-matières) mais également de sa          Arrhénius est décrite précisément en            D'autres paramètres, indépendant des joints,
+                                                                                                                                         composition                                          annexe 3 La caractéristique mécanique ser-      peuvent modifier les pressions de contact
+                                                                                                                                         Des travaux menés auparavant ont permis de           vant de base à une telle approche sera la rai-  développées et les critères d'acceptation
+                                                                                                                                         déterminer des conditions de vieillissement          deur en compression à 20 % de déformation       requis
+
+                                                                                                                                                      Elastomère de base                       Température limite d'utilisation des                Conditions de vieillissement équivalentes
+                                                                                                                                                                                                    matériaux en continu*
+                                                                                                                                                  caoutchoux naturel (NR) ou
+                                                                                                                                                                                                       de l'ordre de 70 à 80 °C                             110 jours à 75°C retenus
+                                                                                                                                                  polyisoprène de synthèse (IR)
+
+                                                                                                                                                                                                                                                              100joursàllO°Cou
+                                                                                                                                                          EPM ou EPDM                                     de l'ordre de I30°C
+                                                                                                                                                                                                                                                            encore 35 jours à 1 30°C
+
+                                                                                                                                                couplage de caoutchouc naturel               de l'ordre de 1 IO°C pour le polychloroprène
+                                                                                                                                                  et de polychloroprène (CR)                        mais limité à 80 à 90°C par le NR                       ! 1 0 jours à 75°C retenus
+
+                                                                                                                                                        polyuréthane (PU)                                    limitée à 80°C                                 110 jours à 75°C retenus
+
+                                                                                                                                                                                                  Tableau 8 vieillissement accéléré préconisé
+
+                                                                                                                                         * Ces températures sont indicatives et correspondent à une utilisation classique
+
+
+
+
+                                                                                                                                               TUNNELS ET OUVRAGES SOUTERRAINS - N° 151 -JANVIER/FEVRIER 1999
+                                                                                                                                                                             Etancnéité des tunnels en voussoirs par joints hydrogonflants
+                                                                                                                                                                               Procédures d'évaluation et de contrôle qualité des joints
+
+                                                                                                                                         7.1 - Critères d'acceptation pour                 7.2 - Critères d'acceptation pour                     devra pas être inférieure à 200 N.
+                                                                                                                                         les pressions de fuite                            les forces de réaction
+                                                                                                                                                                                                                                                              Frv>0,4Fr,>200N
+                                                                                                                                         En ce qui concerne les pressions limites de       Les critères d'acceptation seront définis à par-
+                                                                                                                                         fuite, le critère d'acceptation du matériau       tir des caractéristiques de :                         Ce critère doit être vérifié pour les immer-
+                                                                                                                                         dépendra directement de la valeur de la pres-                                                           sions à pH 7 et à pH 12.
+                                                                                                                                                                                            • force de réaction à l'état initial notée Ft";
+                                                                                                                                         sion à étancher notée Pe. Dans ce cas, un
+                                                                                                                                                                                           (on considère comme état initial le joint après
+                                                                                                                                         coefficient de sécurité d'au moins 3 est à                                                              7.3 - Critères d'acceptation sur le
+                                                                                                                                                                                           le conditionnement physico-chimique consti-
+                                                                                                                                         considérer, aussi bien pour la valeur de la       tué de 10 cycles consécutifs d'immersion-
+                                                                                                                                                                                                                                                 taux de matière extracrible
+                                                                                                                                         pression limite de fuite après vieillissement     séchage,                                              Le taux de matière extractible après immer-
+                                                                                                                                         notée Pf¥ que dans le cas de la pression à
+                                                                                                                                                                                           • force de réaction après vieillissement notée        sion et gonflement à l'équilibre puis séchage à
+                                                                                                                                         l'état initial noté Pfj.
+Tous droits de reproduction, traduction, adaptation, totales ou partielles sous quelques formes que ce soit sont expressément réservés
+
+
+
+
+                                                                                                                                                                                           Fr,.                                                  poids constant ne devra pas être supérieure à
+                                                                                                                                                           Pf,>3Pe                                                                               1%.
+                                                                                                                                                                                           La force de réaction après la séquence de
+                                                                                                                                                           Pf v >3Pe                       vieillissement accéléré devra être au moins                     E(%)=
+                                                                                                                                         Dans tous les cas, une pression limite de fuite   égale à 40 % de la force de réaction à l'état
+                                                                                                                                         minimale de I bar (0,1 MPa) sera exigée.          initial. Dans tous les cas, sa valeur minimale ne
+
+
+                                                                                                                                                                                 ANNEXES 1
+                                                                                                                                                                   Montage de mesure de la pression de contact
+
+
+
+
+                                                                                                                                                                                                                           LRCCP
+                                                                                                                                                                                                                           6O, ru
+                                                                                                                                                                                                                   S44O8 VITRY-su--SE.'\~ C~C:
+                                                                                                                                                                                                                          Tél. : <S RO Vf •-,-
+
+
+
+
+                                                                                                                                                            » » » » * » * » «          «TUNNELS ET OUVRAGES SOUTERRAINS - N° 151 -JANVIER/FEVRIER 1999
+                                                                                                                                                              Etanchéifé des tunnels en voussoirs par joints hydrogonflants
+                                                                                                                                                                Procédures d'évaluation et de contrôle qualité des joints
+                                                                                                                                                                     ANNEXES 2
+                                                                                                                                                        Montage de mesure de la pression de fuite
+
+                                                                                                                                            ®                     L.P.CCP
+                                                                                                                                                                 80, rue Aubef
+                                                                                                                                                                                                              :-p
+                                                                                                                                                                                                                •••'£ CEDEX
+                                                                                                                                                                Tél. : 49 60 57 57
+Tous droits de reproduction, traduction, adaptation, totales ou partielles sous quelques formes que ce soit sont expressément réservés
+
+
+
+
+                                                                                                                                                                                          et.Echelle.- A
+
+
+
+
+                                                                                                                                                                                                                          m
+                                                                                                                                                                                                                              "sn
+                                                                                                                                                                                                                               l oS
+
+
+
+                                                                                                                                                                                                                     1
+                                                                                                                                                                                                                     T
+                                                                                                                                                                                                                     1 4-
+                                                                                                                                                                                     f.                               T
+
+                                                                                                                                                                                                                                    K
+
+
+
+
+                                                                                                                                                                                                                                    o
+                                                                                                                                                                                                                                    to
+
+
+                                                                                                                                                                                          .3
+                                                                                                                                                                                                                     ..33^
+                                                                                                                                                                                                     A5O
+
+
+                                                                                                                                                                                                     390
+
+
+
+                                                                                                                                                                                     Echelle:
+
+
+
+                                                                                                                                         TUNNELS ET OUVRAGES SOUTERRAINS - N° 151 -JANVIER/FEVRIER 1 9 9 9 s
+                                                                                                                                                 Etanchéité des tunnels en voussoirs par joints nydrogondants
+                                                                                                                                                   Procédures d'évaluation et de contrôle qualité des {oints
+                                                                                                                                                          ANNEXES 2
+                                                                                                                                             Montage de mesure de la pression de fuite
+
+                                                                                                                                                                                                    LHCCP
+                                                                                                                                                                                                  60, rue Auber
+                                                                                                                                                                                          944CÛ VïTHY-sur-SEINE CEDEX
+                                                                                                                                                                                                 Tél. : 49 SO 57 57
+Tous droits de reproduction, traduction, adaptation, totales ou partielles sous quelques formes que ce soit sont expressément réservés
+
+
+
+
+                                                                                                                                                    D(2)ni coupe s u i v a n t : D.       Ec.tia.lla : /f .
+
+
+
+
+                                                                                                                                                                            «030
+
+
+
+
+                                                                                                                                         t                                                      \
+
+
+                                                                                                                                                                      JOf                jo-i
+                                                                                                                                                                                                                   2O
+                                                                                                                                                                                   390
+
+
+
+
+                                                                                                                                             • • • • • • • TUNNELS ET OUVRAGES SOUTERRAINS - N° 151 -JANVIER/FEVRIER 1999
+                                                                                                                                                                              Etanchéité des tunnels en voussoirs par joints hydrogonflants
+                                                                                                                                                                                Procédures d'évaluation et de contrôle qualité des joints
+                                                                                                                                                                                                        ANNEXES 3
+                                                                                                                                         Modélisation du vieillissement accéléré par un mécanisme de type Arrhénius
+                                                                                                                                         La modélisation de type Arrhénius est menée
+                                                                                                                                         à partir d'essais de compression uniaxiale réa-
+                                                                                                                                         lisés sur des tronçons du joint hydrogonflant
+                                                                                                                                         de 100 mm de longueur à l'issue des 10
+                                                                                                                                         cycles d'immersion/séchage puis de la                                     Raideur état vieilli
+                                                                                                                                         séquence de séchage jusqu'à poids constant                              , Raideur état initial
+                                                                                                                                         Les échantillons subissent un vieillissement
+                                                                                                                                                                                                                              T4           T3             T2            Tl
+                                                                                                                                         accéléré en étuve ventilée à quatre tempéra-
+                                                                                                                                                                                                        1,3
+Tous droits de reproduction, traduction, adaptation, totales ou partielles sous quelques formes que ce soit sont expressément réservés
+
+
+
+
+                                                                                                                                         tures au-dessus de l'ambiante, compatibles
+                                                                                                                                         toutefois avec la nature de l'élastomère de
+                                                                                                                                         base du joint Durant le vieillissement nous
+                                                                                                                                         mesurons, à la température ambiante et à des                   1,2
+                                                                                                                                         temps précis, la raideur en compression à 20 %
+                                                                                                                                         de déformation
+                                                                                                                                         Remarque : la réalisation de la prévision du                   1,1
+                                                                                                                                         comportement à long terme du joint néces-
+                                                                                                                                         site de suivre l'évolution d'une grandeur
+                                                                                                                                         mécanique en fonction de la durée du vieillis-
+                                                                                                                                         sement accéléré Les joints hydrogonflants
+                                                                                                                                         n'assurent pas leur fonction étanchéité par                                                                                         log du temps
+                                                                                                                                         leur mise en compression au montage,
+                                                                                                                                         contrairement aux joints compressibles tradi-                                       t4          t3          t2           t1
+                                                                                                                                         tionnels La raideur en compression sera
+                                                                                                                                         considérée comme grandeur mécanique indi-           Évolution du rapport des raideurs en compression en fonction de l'état de vieillissement pour quatre températures
+                                                                                                                                         quant l'incidence et l'avancement du vieillisse-
+                                                                                                                                         ment (certains fabricants considèrent les pro-
+                                                                                                                                         priétés en traction)
+                                                                                                                                         L'exploitation de l'ensemble des données
+                                                                                                                                         conduit au tracé d'un graphe représentant
+                                                                                                                                         l'évolution du rapport raideur à l'état
+                                                                                                                                                                                                                                                          Raideur état vieilli
+                                                                                                                                         vieilli/raideur à l'état initial en fonction du                      log du temps                                Raideur état initial
+                                                                                                                                         logarithme du temps                                                                                                            1,3
+                                                                                                                                         Ensuite, pour différents niveaux du rapport           50 ans
+                                                                                                                                         des raideurs, il faut tracer les droites
+                                                                                                                                         d'Arrhénius illustrant l'évolution du loga-
+                                                                                                                                         rithme du temps de vieillissement en fonction
+                                                                                                                                         de l'inverse de la température
+                                                                                                                                         À l'issue de cette démarche et dans la mesure
+                                                                                                                                         où l'échantillon présente un comportement
+                                                                                                                                         conforme à un mécanisme de type Arrhénius,           10 ans
+                                                                                                                                         il est possible de déterminer les conditions de
+                                                                                                                                         vieillissement équivalentes à appliquer aux
+                                                                                                                                         tronçons de joints destinés aux mesures des
+                                                                                                                                         pressions de contact ainsi qu'aux tests d'étan-
+                                                                                                                                         chérté afin d'obtenir un état de dégradation
+                                                                                                                                         proche du même matériau après 10 et 50 ans
+                                                                                                                                         de vieillissement à 23°C Pour cela, il suffira de
+                                                                                                                                         faire vieillir à une température Tl (ou T2 ou
+                                                                                                                                         T3 ou T4) les échantillons durant un temps
+                                                                                                                                                                                             Tracé des droites d'Arrhénius représentant l'évolution du temps de vieillissement en fonction de l'inverse de la tem-
+                                                                                                                                         correspondant à l'évolution de propriété en
+                                                                                                                                                                                                              pérature (K), pour les différents niveaux du rapport des raideurs en compression
+                                                                                                                                         raideur
+
+
+
+
+                                                                                                                                                TUNNELS ET OUVRAGES SOUTERRAINS - N° 151 -JANVIER/FEVRIER 1999»
+                                                                                                                                                                              Etanchéité des tunnels en voussoirs par joints hydrogonflants
+                                                                                                                                                                                Procédures d'évaluation et de contrôle qualité des joints
+
+                                                                                                                                         III - PROCEDURE CONTROLE                                                                                                         ParteA                   Partie B
+                                                                                                                                         QUALITE                                               Référence fournisseur
+                                                                                                                                                                                               Nature du ou des polymères de base
+                                                                                                                                         Préambule                                             Phase pyrolysabfe (%)
+                                                                                                                                         Une approche chimique lim'rtée à la vérifica-         Plastifiants et matières extractibtes (solvant) (%)
+                                                                                                                                         tion de la composition pondérale du joint             Phase oxydable (%)
+                                                                                                                                         peut être suffisante pour assurer le suivi qua-
+                                                                                                                                         lité d'un matériau. Eventuellement une ana-           Résidu minéral (après ATG) (%)
+                                                                                                                                         lyse complémentaire destinée à vérifier la            Observations
+                                                                                                                                         nature du polymère de base constituant le
+Tous droits de reproduction, traduction, adaptation, totales ou partielles sous quelques formes que ce soit sont expressément réservés
+
+
+
+
+                                                                                                                                                                                                              Analyses chimiques des matériaux du joint : exemple relatif à un joint bi-matières
+                                                                                                                                         joint peut être envisagée. Les démarches
+                                                                                                                                         expérimentales relatives à ces deux contrôles
+                                                                                                                                         sont décrites à la suite.
+                                                                                                                                         Cette procédure de contrôle rapide de la
+                                                                                                                                                                                              autre solvant approprié à la formulation                   2 - IDENTIFICATION DE LA
+                                                                                                                                         qualité des joints hydrogonflants est destinée
+                                                                                                                                                                                              considérée (à préciser dans le tableau de                  NATURE DU POLYMERE DE
+                                                                                                                                         à s'assurer de la conformité du matériau du
+                                                                                                                                                                                              résultat). Si le joint est multi-matières, les
+                                                                                                                                         point de vue chimique ; elle s'inspire de la
+                                                                                                                                                                                              extractions seront réalisées sur chaque
+                                                                                                                                                                                                                                                         BASE
+                                                                                                                                         caractérisation chimique décrite dans la pro-
+                                                                                                                                                                                              constituant.
+                                                                                                                                         cédure complète d'évaluation des joints                                                                        La nature chimique du ou des polymères de
+                                                                                                                                         hydrogonflants. En aucun cas ce contrôle ne                                                                    base sera déterminée sur des produits résul-
+                                                                                                                                                                                              1.2 - Composition pondérale centé-
+                                                                                                                                         peut se substituer à une démarche de carac-                                                                    tant de la pyrolyse du joint, par chromatogra-
+                                                                                                                                         térisation physico-chimique et mécanique
+                                                                                                                                                                                              simale
+                                                                                                                                                                                                                                                        phie en phase gazeuse couplée à la détection
+                                                                                                                                         complète telle que celle décrite dans la pro-        La composition pondérale du matériau                      en spectrométrie de masse (CG/MS) ou par
+                                                                                                                                         cédure d'évaluation des joints hydrogonflants.       constitutif du joint sera déterminée par ana-             spectrométrie infrarouge à transformée de
+                                                                                                                                         Remarque : l'analyse chimique proposée a le          lyse thermogravimétrique sur le matériau                  Fourier en transmission (IRTF).
+                                                                                                                                         mérite d'être relativement rapide ; toutefois, il    après extraction. Cette technique d'analyse,
+                                                                                                                                                                                              consistant à suivre l'évolution de la masse de
+                                                                                                                                         serait bon de considérer également dans le
+                                                                                                                                                                                              l'échantillon en fonction de la température
+                                                                                                                                                                                                                                                         3 - PRESENTATION DES
+                                                                                                                                         cadre du suivi qualité du matériau, deux para-                                                                  RESULTATS DES ANALYSES
+                                                                                                                                         mètres simples à évaluer :                           sous une atmosphère particulière, sera
+                                                                                                                                                                                              menée, par exemple, dans les conditions sui-               CHIMIQUES
+                                                                                                                                         - les caractéristiques géométriques du joint         vantes :
+                                                                                                                                         hydrogonflant,                                                                                                 L'ensemble des résultats de la caractérisation
+                                                                                                                                                                                              - première séquence de chauffe de 35 à                    chimique du joint sera résumé dans un
+                                                                                                                                         - les propriétés en compression (mesures de          600°C sous atmosphère inerte (azote),                     tableau de synthèse.
+                                                                                                                                         raideur ou de module) qui indiqueront si
+                                                                                                                                         l'état de réticulation du joint est comparable à     - refroidissement jusqu'à 400°C (azote),                   Si le joint est multi-matière, chaque élément
+                                                                                                                                         celui du joint testé dans la cadre de la procé-      - deuxième séquence de chauffe de 400 à                    constitutif sera analysé séparément et fera
+                                                                                                                                         dure complète d'évaluation.                          850°C sous atmosphère oxydante (oxygène),                  l'objet d'une synthèse comme présentée dans
+                                                                                                                                                                                                                                                         le tableau 2. Les résultats relatifs à chaque
+                                                                                                                                                                                              - montée en température de 20°C/min,
+                                                                                                                                                                                                                                                         matière seront présentés de la section la plus
+                                                                                                                                         I - DETERMINATION DE LA                              Remorque : en fonction des appareils utilisés              importante à la plus faible.
+                                                                                                                                         COMPOSITION PONDERALE                                et des joints analysés, les conditions propo-
+                                                                                                                                                                                                                                                         On précisera la méthode d'identification de la
+                                                                                                                                                                                              sées auparavant pourront être adaptées.
+                                                                                                                                                                                                                                                         nature du ou des polymères de base retenue
+                                                                                                                                         1.1 - Teneur en plastifiants                         Si le joint est multi-matières, l'analyse thermo-          (IRTF ou CG/MS).
+                                                                                                                                         La teneur en plastifiant sera évaluée par            gravimétrique sera réalisée sur chaque consti-
+                                                                                                                                         extraction chimique au méthanol ou par tout          tuant.
+
+
+
+                                                                                                                                                                      I    **» # *t
+
+                                                                                                                                          T.O*S. n° 86 • GT n"7, Soutènement et revêtement, texte provisoire des recommandations sur les revêtements préfabriqués des tunnels circu-
+                                                                                                                                          laires creusés au tonnelier:
+                                                                                                                                          T.0Â. n° II 6 - GT n°9, Les joints d'étanchéité entre voussoirs.
+                                                                                                                                          T.O.S. n° 131 - GT n"9» L'étanchéîté des voussoirs préfabriqués en béton,
+                                                                                                                                          T.O.S. n" 147 - APTES, Recommandations relatives à la conception, le dimensionnement et l'exécution des revêtements en voussoirs préfabri-
+                                                                                                                                          qués en béton armé installés à l'arrière d'un tunnelien
+                                                                                                                                          APTES, GT n°9 - Sous groupe joints de voussoirs. Présentation des fiches de recommandations pour les joints de voussoirs - Décembre 1991
+                                                                                                                                          NOISIEL
+
+
+
+
+                                                                                                                                                                                             TUNNELS ET OUVRAGES SOUTERRAINS - N° 151 -JANVIER/FEVRIER 1999
+                                        www.aftes.asso.fr
+
+
+
+
+Tous droits de reproduction, adaptation, totales ou partielles sous quelques formes que ce soit, sont expressément réservés.
+

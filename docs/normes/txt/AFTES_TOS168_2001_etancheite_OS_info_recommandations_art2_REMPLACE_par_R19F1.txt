@@ -1,0 +1,290 @@
+                                                                APTES
+                                                    GROUPE DE TRAVAIL N° 9
+
+                   ETANCHEITE DES OUVRAGES SOUTERRAINS
+                     INFORMATIONS - RECOMMANDATIONS
+
+                                                             Texte présenté par
+                                              J.LMAHUET: Animateur du GT n° 9 de l'AFTES
+
+Dn trouvera ci-dessous l'état des réflexions actualisées du GT 9. Les paragraphes I et III sont des recommandations complémentaires, le
+aaragraphe II donne un certain nombre de spécifications qui seront reprises dans une recommandation définitive ultérieure.
+
+
+
+
+1 - CERTIFICATION DE                              Il permet par conséquent de délivrer une       APPLICATION DE LA CERT1FI-
+SERVICE «APPLICATION                              certification des applications soudage des     CAT1ON ASQUAL
+                                                  géomembranes mises en œuvre pour étan-
+DE GEOMEMBRANES»                                                                                 Le Comité Technique de l'AFTES, lors de sa
+                                                  cher les ouvrages souterrains.
+Comme précédemment indiqué dans le                                                               réunion du 9 novembre 2000 a fixé les
+                                                  Le référentiel ne vise que les applications    délais suivants de la certification " soudage "
+T.O.S. n° 162 - novembre/décembre 2000,           soudage des géomembanes, synthétiques
+les applicateurs de géomembranes et leurs                                                        ASQUAL :
+                                                  ou bitumineuses, telles qu'elles sont défi-
+partenaires, ont mis au point deux référen-       nies dans la norme NF-P 84-500. Il ne          - certification applicable aux marchés
+tiels de certification de service pour l'appli-   concerne que les géomembranes manufac-         publics de travaux d'étanchéité d'ouvrages
+cation des géomembranes prenant en                                                               souterrains au 1er janvier 2001 ;
+                                                  turées sous forme de lés, destinés à être
+compte leur compétence, tant au niveau
+                                                  assemblés par soudage pour réaliser l'étan-    - certification exigible pour les marchés
+des personnes (soudeurs et responsables
+                                                  chéité des ouvrages souterrains.               publics de travaux d'étanchéité d'ouvrages
+de chantier) que des matériels utilisés, ou
+                                                  L'ASQUAL est responsable de l'application      souterrains au 1er janvier 2002.
+des géomembranes mises en œuvre.
+                                                  de ce Référentiel et des décisions qui en
+Ainsi, une application désigne une per-
+                                                  résultent.                                     EXEMPLE D'INTEGRATION
+sonne au sein de l'entreprise avec les
+                                                                                                 DE LA CERTIFICATION DANS
+moyens, matériels et l'encadrement de                                                            LES CCTP
+celle-ci.                                         OUVRAGES SOUTERRAINS
+A ce jour, 120 applications sont certifiées en    OU ENTERRES CONCERNES                          Le texte suivant pourra être inséré au cha-
+                                                                                                 pitre III - Mode d'exécution des travaux :
+France par l'ASQUAL* pour le soudage et           Tunnels creusés ou forés - Tranchées cou-
+la responsabilité de chantier.                    vertes - Trémie partiellement immergée -       " Article n° —— Mise en œuvre du
+                                                                                                 D.E.G.** Seul le personnel titulaire d'une
+Le Référentiel Technique " Soudage sur            Ouvrages de génie civil enterrés : parkings
+                                                                                                 certification ASQUAL, ou équivalente
+chantier, en atelier et pour les ouvrages         (hors emprise bâtiment) - Centre de stoc-
+                                                                                                 " application de géomembranes " en
+souterrains " a été établi par l'ASQUAL,          kage, etc.                                     cours de validité, sera habilité à effectuer
+dans le sens de la loi n° 94-442 du 03 juin       Ouvrages d'Art sous plate-forme routière,      les travaux de soudures manuelles ou (et)
+1994 et de son décret d'application n° 95-        autoroutière et ferroviaire (système d'étan-   automatiques sur le chantier ".
+354 du 30 mars 1995, relatif à la certifica-      chéité directement sous le remblai).
+tion des produits industriels et des services.
+
+
+* ASQUAL            Association Qualité -14, rue des Reculettes- 75013 PARIS
+** D.E.G.           Dispositif d'Etanchéité par Géomembrane
+
+
+
+
+ T.O.S. n° 162 - novembre/décembre 2000 - «Une certificat/on française pour les travaux d'étanchéité des ouvrages souterrains».
+
+
+
+
+                                             «TUNNELS ET OUVRAGES SOUTERRAINS - N° 1 68 - NOVEMBRE/DECEMBRE 2OO1
+                     Groupe de Travail n° 9 • Etanchéité des ouvrages souterrains • Informations • Recommandations
+
+
+
+
+                                                                                                                 1 - A89 planche d'essai de dimension-
+                                                                                                                 nement des écrans de protection
+2 - DIMENSIONNEMENT
+DES DISPOSITIFS                                                                                                  2 - Désordres provoqués par un rem-
+D'ETANCHEITE                                                                                                     blaiement sur un D.EG
+                                                                                                                 Endommage/rient des écrans
+                                                                                                                 de protection
+2.1 - DIMENSIONNEMENT
+DES ECRANS DE PROTECTION                                                                                         3 - Détail d'un désordre provoqué par
+D'UN DISPOSITIF                                                                                                  des remblais concassés sur des écrans
+                                                                                                                 de protection
+D'ETANCHEITE PAR
+GEOMEMBRANE (D.E.G.)
+2.1.1 -RAPPEL DE LA
+REGLEMENTATION EN VIGUEUR
+En ce qui concerne la composition des              à l'essai de résistance au poinçonnement         2.1.2 - APPLICATION AUX REMBLAIS
+D.E.G. à base de géomembrane synthé-               dynamique décrit à l'annexe 7 du fascicule       A BASE DE CONCASSES
+tique, celle-ci est précisément spécifiée par      67, titre III du fascicule 67 du CCTG ".
+les articles 7.4.2.3,13.02.2 de l'annexe n° 3,                                                      Récemment, la mise en œuvre de D.E.G.
+et 7 de l'annexe n° 4 du fascicule 67, titre III   A ce jour, cette spécification du CCTG           sur des tranchées couvertes ferroviaires et
+du CCTG.                                           publiée en janvier 1992 correspondait par-       autoroutières, principalement en rase cam-
+                                                   faitement à la nature des remblais mis en        pagne, avec le plus souvent des remblais
+D'une manière générale celle-ci est la sui-        œuvre sur le D.E.G., et ceci plus particuliè-
+vante :                                                                                             comportant des granulats concassés, a mis
+                                                   rement en milieu urbain. La classe 2 est en      en évidence les limites des spécifications du
+- un écran de protection et de désolidarisa-       effet bien adaptée à des remblais générale-      CCTG.
+tion, placé entre le support et la géomem-         ment constitués de granulats roulés et de
+brane d'étanchéité. Celui-ci est un géotex-        granulométrie 0/200 mm.                          De nombreux sinistres, spécifiques à l'en-
+tile dont les caractéristiques physico-                                                             dommagement de l'écran de protection
+                                                   A noter que l'article 7 de l'annexe n° 4 du
+mécaniques ont été complétées par l'article                                                         ayant été enregistrés ces deux dernières
+                                                   CCTG prévoyait une protection du D.E.G.
+4.5 de la recommandation APTES relative "                                                           années, le GT n° 9 a chargé un groupe de
+                                                   complémentaire dans les cas suivants :
+à l'étanchéité et le drainage des ouvrages                                                          travail de préparer une recommandation
+souterrains ", publiée dans la revue T.O.S.        - pour une hauteur de remblais sur D.E.G.        APTES relative " au dimensionnement des
+n° 159 de mai/juin 2000. Rappelons que la          comprise entre 0,50 m et 2,00 m " outre          écrans de protection de D.E.G. en fonc-
+fonction principale affectée à cet écran est       l'écran de protection, il sera mis en place un   tion de la nature des remblais ".
+la résistance au poinçonnement statique ;          grillage avertisseur placé à 10 cm au-dessus
+                                                                                                    Sous l'égide de ce groupe de travail, et en
+- une géomembrane d'étanchéité translu-            de l'étanchéité sur une couche de sable ",
+                                                                                                    partenariat avec SCETAUROUTE et les
+cide qui peut être soit en PVC-P* , soit en        - pour une hauteur de remblais inférieure à      sociétés SACAN, SYNCOTEX et SIPLAST,
+F.P.O.**;                                          0,50 m " une chape béton grillagée de 5 cm       une planche d'essai de dimensionnement
+- un écran de protection mécanique, placé          d'épaisseur sera exécutée sur l'écran de         des écrans de protection a été réalisée le
+entre la géomembrane d'étanchéité et le            protection ".                                    08 novembre dernier à proximité de l'ou-
+revêtement béton, ou le remblaiement, et                                                            vrage PSGF 450 de la section Brive-Ouest-
+                                                   A préciser que dans l'esprit des rédacteurs
+qui est généralement à base de matériau                                                             Tulle Est (TOARC 5.2.1) de l'autoroute A89.
+                                                   du fascicule 67, titre III, ce dispositif com-
+synthétique (PVC-P ou F.P.O.). L'article du        plémentaire avait pour principal objectif de     Cette planche d'essai avait pour objectif de
+CCTG à ce jour toujours applicable précise :       protéger le D.E.G. contre des interventions      valider la nature et le dimensionnement des
+- article 7 de l'annexe n° 4 : " Les écrans de     ultérieures de terrassement, effectuées par      différents composants d'un D.E.G. avec un
+protection mis en place sur la membrane            exemple par des services publics de type         remblai du type 0/150 concassé particuliè-
+d'étanchéité devront être de classe 2 (deux)       EDF-GDF - France-Télécom, etc.                   rement agressif.
+
+
+
+
+      TUNNELS ET OUVRAGES SOUTERRAINS - N° 1 68 - NOVEMBRE/DECEMBRE 2OO1
+                   Groupe de Travail n° 9 • Etanchéité des ouvrages souterrains • Informations • Recommandations
+
+Jle comprenait des essais sur le site (photo      5 cm d'épaisseur peut être spécifiée pour         une masse surfacique minimale de 1800
+i°1) et des essais de vérification de la non      les dalles horizontales de couverture.            g/m2 (avec comme indiqué ci-dessus les
+ Itération de l'étanchéité des géomem-                                                              autres caractéristiques physico-méca-
+iranes réalisés au CETE de LYON.                  D.E.G. à base de géomembrane                      niques conformes à la recommandation
+.es résultats de cette planche d'essai servi-
+                                                  bitumineuse                                       APTES-T.O.S.n° 159).
+ont à la rédaction de la future recomman-         L'utilisation de ce type de géomembrane se        La future recommandation du GT n° 9 de
+lation du GT n° 9 de l'AFTES, qui devrait         développe de plus en plus, notamment              l'AFTES confirmera prochainement les
+itre publiée courant 2002.                        pour l'étanchéité des ouvrages sous plate-        caractéristiques physico-mécaniques qui
+Cependant les premières constatations             forme routière, autoroutière et ferroviaire.      seront à spécifier pour les écrans de protec-
+                                                  Comme indiqué dans l'article commun               tion de D.E.G sous remblai à base de
+aites lors de la réalisation de cette planche
+                                                  AFTES/SETRA, l'étanchéité de ces                  concassés.
+l'essai sont les suivantes :
+                                                  ouvrages rentre dans le champ d'applica-          L'optimisation du dimensionnement des
+).E.G. à base de géomembrane                      tion de la réglementation spécifique aux          D.E.G., synthétiques ou bitumineux ne doit
+synthétique                                       ouvrages souterrains et enterrés, et elle         pas faire oublier aux maîtres d'ceuvre la
+                                                  devra dans ce cadre bénéficier d'un Avis          vérification sur le site du respect des
+En présence d'un remblai composé de               d'Expert APTES.                                   " règles de l'art " en matière de remblaie-
+xmcassés 0/150, les spécifications de l'ar-                                                         ment sur un D.E.G., à savoir :
+                                                  Dans le cas de la mise en œuvre de remblais
+ icle 7 de l'annexe n° 4 du CCTG ne
+                                                  à base de concassés, l'attention des              • limitation du D maxi d'un remblai à base
+:onviennent pas. La dérogation à insérer
+                                                  concepteurs est attirée sur les points sui-       de concassé à 200 mm,
+provisoirement dans un CCTP serait la sui-        vants:
+vante :                                                                                             • obligation d'une mise en œuvre par
+                                                  - La spécification d'un D.E.G. comprenant         couche de 0,50 m d'épaisseur minimum du
+  " En cas de remblai constitué de maté-          une géomembrane bitumineuse, associée à           remblai,
+iaux concassés, les écrans de protection          un écran de protection supérieur en géo-
+nis en place sur la géomembrane d'étan-                                                             • interdiction de déverser directement sur
+                                                  textile de 700 g/m2, comme cela est sou-
+:héité devront être au minimum de classe                                                            le D.E.G les matériaux d'une hauteur supé-
+                                                  vent spécifié dans un CCTP n'est pas
+I (un) à l'essai de résistance au poinçon-                                                          rieure à 1,00m,
+                                                  conforme à l'article 7 de l'annexe n° 4 du
+lement dynamique décrit à l'annexe 7 du           fascicule 67, titre III du CCTG. Cette rédac-     • recommandation de pousser le matériau
+titre III du fascicule 67 du CCTG ".              tion entretient une confusion entre la spéci-     sur la couche sous-jacente du remblai, et
+.a future recommandation du GT n° 9 redé-         fication particulière à l'écran de protection     jamais directement sur le D.E.G.,
+finira les classes, et précisera les moyens       inférieur (placé entre le support et la géo-      • interdiction de faire circuler des engins de
+Dermettant de les obtenir. Ceux-ci pourront       membrane) et l'écran supérieur, qui dans ce       terrassement directement sur le D.E.G.
+éventuellement consister en une associa-          cas de figure doit être un écran synthétique
+tion d'un écran de protection synthétique         de classe 2 (deux) et non pas un géotextile.      2.2 - DIMENSIONNEMENT
+avec un géotextile, par exemple de masse          - Un écran de géotextile de 700 g/m2 de           DES GEOMEMBRANES
+surfacique minimale de 1 200 g/m2. Il est         masse surfacique, comme viennent de le            D'ETANCHEITE SYNTHE-
+toutefois utile de préciser que si la spécifi-    démontrer de récents essais de laboratoire,       TIQUES DE TUNNELS
+cation de la masse surfacique est néces-          associé à une géomembrane bitumineuse
+saire, elle n'est pas suffisante, et que par      n'est pas non plus conforme aux exigences         Dans le cadre de la mise en œuvre de
+conséquent il appartient aux concepteurs          spécifiées pour la résistance au poinçonne-       l'étanchéité dans les tunnels creusés, ou
+l'initiative d'introduire également celles        ment dynamique (annexe 7 du CCTG).                forés, à l'aide d'un D.E.G. synthétique, la
+figurant dans le T.O.S n° 159.                                                                      réglementation en vigueur en matière
+                                                  La planche d'essai réalisée sur A89 semble
+Par ailleurs le recours aux dispositifs de pro-   indiquer que la classe 2 qui pourrait être        d'épaisseur minimale de la géomembrane
+tection complémentaires décrits à l'article       spécifiée en cas d'utilisation de remblais rou-   d'étanchéité est la suivante :
+7, et rappelés ci-dessus pourra également         lés ne pourrait être respectée qu'avec un géo-    • article 7.4.2.2.2 du fascicule 67, titre III du
+être envisagés pour atteindre cet objectif.       textile de 1200 g/m2 de masse surfacique          CCTG " L'épaisseur minimale mesurée
+Par exemple, l'association d'un écran de          minimale alors que pour des remblais concas-      selon la norme NFT 54101 est de 20/10
+classe 2 (deux) avec une chape béton de           sés, elle devrait être de classe 1 ou 0 avec      de mm pour les applications en tunnel
+
+
+      PVC-P - Chlorure de polyvinyle plastifié
+      F.P.O. - Polyéthylène flexible
+
+
+
+ - Fascicule 67, titre III - Etanchéité des ouvrages souterrains n° 92-5 TO.
+ - C.C.T.G. - Cahier des Clauses Techniques Générales.
+ - D.E.G. - Dispositif d'Etanchéité par Géomembrane.
+ - T.O.S. n° 159 - Mai/juin 2000 - Recommandations APTES relatives à «l'étanchéité et le drainage des ouvrages souterrains».
+
+
+
+
+                                       TUNNELS ET OUVRAGES SOUTERRAINS - N° 108- NOVEMBRE/DECEMBRE 2OO1
+                    Groupe de Travail n° 9 • Etanchéité des ouvrages souterrains • Informations • Recommandations
+
+cadre et de 15/10 pour les applications en        La mise en œuvre de telles épaisseurs                 Laboratoire de Recherche et de Contrôle
+tunnels creusés ".                                d'écran de protection s'est révélée particu-          du Caoutchouc et de Plastiques (LR.C.C.R),
+                                                  lièrement délicate du fait, d'une part du             la recommandation publiée dans la revue
+Cette spécification qui, ne l'oublions pas
+                                                  manque de souplesse de ce type de maté-               T.O.S. n° 151 de janvier/février 1999 sera
+date de 1992, découlait essentiellement
+                                                  riau (haut module d'élasticité nécessaire             ponctuellement modifiée de la façon sui-
+des conditions de mise en œuvre de l'étan-
+                                                  pour assurer la résistance au poinçonne-              vante :
+chéité dans les tunnels creusés. A cette
+                                                  ment dynamique) et parfois de la difficulté
+époque, elle se caractérisait essentielle-                                                               - " Article 6.1 - Contexte général, page 54
+                                                  de fixation par thermo-soudure sur !a géo-
+ment par une mise en œuvre manuelle du            membrane d'étanchéité.                                 - deuxième colonne : le 2ème alinéa "
+D.E.G. avec par exemple l'absence de por-                                                                L'équivalence de l'état de vieillissement
+tique de mise en œuvre automatisée et de          Par conséquent, et dans l'attente d'une                ... " est supprimé et remplacé par la
+machines à souder automatiques.                   révision prochaine du fascicule 67, titre III          rédaction et le tableau n° 8 suivant :
+                                                  du CCTG, le GT n° 9 propose aux concep-
+L'épaisseur de 15/10 de la géomembrane            teurs de spécifier une épaisseur minimale             L'équivalence de l'état de vieillissement
+d'étanchéité, par le gain du poids qu'elle        de 20/10 de mm pour les géomembranes                  avec 50 ans d'usage en service n'a pu être
+procurait par rapport au 20/10 a par consé-       d'étanchéité de tunnels creusés et forés.             établie de façon rigoureuse par une
+quent grandement facilité la mise en œuvre                                                              approche de type Arrhénius que dans le
+                                                  La rédaction à insérer dans un CCTP pour-
+de l'étanchéité des tunnels.                                                                            cas d'un produit formulé à base d'un élas-
+                                                  rait être la suivante :
+La généralisation, dans les années qui ont                                                              tomère d'EPDM ou d'EPR ; dans les
+                                                  - " Par dérogation à l'article 7.4.2.2.2 du           autres cas, nous préconisons d'appliquer
+suivi la publication du CCTG de moyens            fascicule 67, titre III du CCTG, l'épaisseur
+automatiques pour la mise en œuvre des                                                                  des conditions de vieillissement les plus
+                                                  minimale de la géomembrane d'étan-                    sévères compatibles avec la nature des
+D.E.G. de tunnels, n'a pas changé cette           chéité, mesurée selon la norme NFP 84
+spécification d'épaisseur de la géomem-                                                                 matériaux.
+                                                  502 est de 20/10 de mm ".
+brane, et ceci jusqu'à l'apparition de revê-                                                            Dans le cas de joints mono ou multi-
+tement armé dans ces ouvrages. La réalisa-                                                              matières, si la nature du matériau le plus
+tion de tunnels creusés dimensionnés pour         3. MODIFICATION PONC-                                 sensible au vieillissement correspond à
+reprendre des pressions hydrostatiques,           TUELLE DE LA RECOMMAN-                                celle spécifiée dans le tableau 8, alors la
+avec notamment la nécessité de ferrailler         DATION DE L'AFTES                                     condition de vieillissement correspondant
+les radiers, et parfois les piédroits des tun-    RELATIVE A " L'ETANCHEITE                             à ce matériau sera appliquée.
+nels, a soulevé la question du dimensionne-       DES TUNNELS EN VOUSSOIRS                              À l'issue de ce vieillissement, des essais
+ment des écrans de protection mécanique           PAR JOINTS HYDRO-                                     de pression de fuite et de force de réac-
+au poinçonnement dynamique du D.E.G.
+                                                  GONFLANTS -                                           tion seront menés : si les résultats de ces
+Les essais réalisés en laboratoire ont mon-       PROCEDURES D'EVALUATION                               mesures ne sont pas satisfaisants, il
+tré que pour respecter la classe 2 spécifiée      ET DE CONTROLE QUALITE                                incombera au fabricant ou fournisseur du
+pour l'écran de protection mécanique, il                                                                joint de démontrer que son matériau
+                                                  DES JOINTS"
+était nécessaire de les dimensionner à des                                                              répond, après un vieillissement accéléré,
+épaisseurs de 20 à 21/10 de mm au lieu des        A la demande des fabricants de joints                 aux critères d'acceptation définis au para-
+15 à 17/10 de mm initialement prévus.             hydrogonflants, et en accord avec le                  graphe 7.
+
+
+            Elastomère de base                        Température limite d'utilisation                         Conditions de vieillissement
+                                                        des matériaux en continu*                                     équivalentes
+         Caoutchouc naturel (NR) ou                        de l'ordre de 70° à80°C                               110 jours à 75°C retenus
+        polyisoprène de synthèse (IR)
+               EPM ou EPDM                                    de l'ordre de 130°C                       100 jours à110°Cou encore 35 jours 130°C
+      Couplage de caoutchouc naturel             de l'ordre de 1 10°C pour le polychloroprène                        110 jours à75°C
+        et de polychloroprène (CR)                   mais limité de 80° à 90°C pour le NR
+             polyuréthane (PU)                                     limité à 80°C                                  110 jours 75°C retenus
+
+* Ces températures sont indicatives et correspondent à une utilisation classique
+                                                       Tableau 8 : Vieillissement accéléré préconisé.
+
+
+ Remarque : dans le cas où la nature des polymères de base du joint à caractériser ne correspond pas à celle du tableau précédent, les condi
+ tions de vieillissement accélérées devront être déterminées à l'issue d'un traitement de type Arrhénius. La méthodologie générale de prévi
+ sion de comportement à long terme par une approche de type Arrhénius est décrite précisément en annexe 3. La caractéristique mécanique
+ servant de base à une telle approche sera la raideur en compression à 20 % de déformation d'un tronçon de joint de 100 mm. Quatre tempe
+ ratures de vieillissement au moins devront être retenues.
+
+
+
+
+      TUNNELS ET OUVRAGES SOUTERRAINS - N°                      1 68 - NOVEMBRE/DECEMBRE 2OO1
+

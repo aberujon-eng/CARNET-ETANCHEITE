@@ -1,0 +1,1766 @@
+LES RECOMMANDATIONS DE L’AFTES
+
+
+
+Guide pour l'étanchement et le
+drainage des ouvrages souterrains
+CAHIER 9
+Étanchement mixte et raccordement aux
+existants
+
+
+GT9.C9F1
+Janvier 2024
+
+
+
+
+PREPUBLICATION
+.
+
+
+
+Guide des Bonnes Pratiques pour l’Étanchement et
+le Drainage des Ouvrages Souterrains.
+
+
+Cahier 9 : Étanchéité mixte et raccordements aux
+existants
+N° de la recommandation : GT9C9F1
+
+
+
+
+Avertissement :
+« Les recommandations de l’AFTES, sont l’aboutissement de travaux de synthèse, de réflexions
+méthodologiques, de recherches et de retours d’expérience menés par l’Association ayant
+vocation à servir de référence pour la conception, la réalisation ou l’exploitation des ouvrages
+souterrains. Elles s’adressent uniquement à un public de professionnels avertis, seuls à même de
+pouvoir en apprécier la pertinence dans chaque contexte particulier, et d’en appliquer le contenu
+totalement ou partiellement sous leur seule responsabilité.
+L’AFTES décline expressément toute responsabilité quant à l’interprétation de ses
+Recommandations, y compris les dommages éventuels en résultant ou étant liés. »
+
+
+
+
+                                                       1
+                  Recommandation du GT9C9F1 du 21 janvier 2024 – Prépublication du : 28/02/2024
+            Recommandation de l’AFTES N° GT9C9F1
+Guide des Bonnes Pratiques pour l’Étanchement et le
+Drainage des Ouvrages Souterrains.
+
+
+Cahier 9 : Étanchement mixte et raccordements aux
+existants
+       Texte présenté par : Jean Louis MAHUET, animateur du groupe de travail GTguide et de
+                                  Jean Noël LOUCHART vice-animateur
+
+
+                          Ce document a été réalisé avec la collaboration de :
+Christophe AUBRY (EDF), Axel AUGUSTIN (RENOLIT), Brahim BENZIANE (SNCF RÉSEAU), Xavier-Blaise
+MARTIN (MAPEI FRANCE), Gustavo BOMBEN (FAMA), Olivier BORODINE (GERFA), Stéphane BUISSON
+(EGIS RAIL), Arnaud BURY (APAVE), Alexandra CALLIGARO (FAMA), Daniel CAMELIN (SIKA), Raphaël
+CERDA (SATEC), François CHALLIER (GCP), David CHAMOLEY (CETU), Fréderic CHAPERON (APRR),
+Gilles CHRISTIEN (HILTI), Manuel DECOODT (ETANDEX), Baïla DEME (SGP), Quentin DREUX (MB
+EUROPE) Laurent FAUQUIGNON (UGC CONSULTING), Pascal FRISON (SIKA), Jean-Bernard GAMAY
+(EUROTUNNEL), Marthe JACQUEAU-GRAMAGLIA (SOCOTEC puis SECC), Paul GUINARD
+(APRODEG/SOPREMA), Véronique HEILI (CEREMA-EST), Alan JALIL (CSTB), Mathieu JANES (OPTIMAS),
+Jean-Louis JUGE (RESIPOLY), Jean Noël LOUCHART (ETANDEX), Jean-Louis MAHUET (EXPERT
+JUDICIAIRE), Alexandre MARCHAND (SOPREMA), Romain MECHALI (SPPM), Mesut MANEVI (GCC),
+Edouard MOREAU (BOUYGUES CONSTRUCTION), Sylvie MORTIER (SETEC), Maria NENOVA (SOPREMA),
+Françoise PRESSIER (SOPREMA), Karine PUYJARINET (IMPLENIA), Franck LEDAGUENEL (RATP), Louis
+RAMONDOU (RTM), Thomas SAHM (ICOPAL puis RESIPOLY), Laurent SAUGER (CEREMA), Jean-Serge
+SAMBOURG (LILLE-MÉTROPOLE), Yan TAIBI (BOUYGUES CONSTRUCTION), Ludovic TANGUY (RATP),
+Sébastien VERBRUGGHE (LOWANDBONAR), Mathilde RIOT-VERDIER (AFITEXINOV), Paul VIDIL
+(SOLETANCHE BACHY), Jean-Pierre VIGOUROUX (EXPERT), Erik VIMOND (ETANDEX/APSEL)
+
+
+                                Ce manuscrit a été révisé et corrigé par :
+     François LAIGLE, Michel PRÉ, Jean-Marc KOEBEL, Laurent CHASSAGNE, François RENAULT
+
+
+
+
+          Le texte qui suit a été validé par le Comité Technique de l’AFTES le 21 janvier 2024
+
+
+                 L’AFTES recueillera avec intérêt toute suggestion relative à ce texte.
+
+
+                     Le cas échéant, Réédition comportant la correction d’errata.
+
+
+
+
+                                                       2
+                  Recommandation du GT9C9F1 du 21 janvier 2024 – Prépublication du : 28/02/2024
+                                                                                     SOMMAIRE
+FIGURES ............................................................................................................................................................................................................................5
+TABLEAUX ....................................................................................................................................................................................................................... 7
+1.       INTRODUCTion .................................................................................................................................................................................................. 9
+2.       Matrice de raccordement des procÉDÉs extradossés .......................................................................................................... 10
+3.       Matrice de raccordement des procÉDÉs intradossés ............................................................................................................ 14
+4.       Raccordement des procÉDÉs intrados et extrados ................................................................................................................. 19
+     4.1.         Cas sans limite d’emprise................................................................................................................................................................ 19
+     4.2.         Cas avec limite d’emprise ............................................................................................................................................................... 20
+5.       Raccordement d’un Drainage avec un procÉDÉ d’Étanchement ................................................................................... 20
+     5.1.         Cas avec un procédé extradossé .............................................................................................................................................. 20
+     5.2.         Cas avec un procédé intradossé .................................................................................................................................................21
+6.       Raccordement d’un tunnel À voussoirs sur station en structure intÉGRÉe.............................................................. 22
+     6.1.         Généralités................................................................................................................................................................................................ 22
+     6.2.         Principe de raccordement sur une station........................................................................................................................... 22
+     6.3.         Éléments du Gros Œuvre ............................................................................................................................................................... 23
+     6.4.         Identification des points singuliers ............................................................................................................................................ 24
+         6.4.1.             Jonction entre éléments ............................................................................................................................... 24
+         6.4.2.             Analyse des points potentiellement fuyards. ............................................................................................... 25
+
+     6.5.         Étanchement à l’aide d’un SEL-A de la liaison voussoirs/Paroi moulée ......................................................... 28
+         6.5.1.             Principe ......................................................................................................................................................... 28
+         6.5.2.             Traitements possibles ................................................................................................................................... 28
+         6.5.3.             Préparation des supports ............................................................................................................................. 34
+         6.5.4.             Mise en œuvre du SEL-A............................................................................................................................... 37
+         6.5.5.             Élément en béton venant en percussion sur le SEL-A .................................................................................. 37
+
+7.       Raccordement d’un tunnel À voussoir sur station en limite d’emprise ....................................................................... 38
+8. Raccordement d’un ProcÉDÉ d’ÉTANCHÉITÉ EXTRADOSSÉ D’UN OUVRAGE ANNEXE SUR UN
+TUNNEL À VOUSSOIRS .......................................................................................................................................................................................40
+     8.1.         Cas d’un DEG-S raccordé par bride boulonnée ...............................................................................................................40
+     8.2.         Cas d’un DEG-S raccordé par collage .................................................................................................................................... 43
+9.       raccordement d’un procÉDÉ intradossÉ d’un ouvrage annexe SUR UN tunnel À voussoirs ....................... 45
+     9.1.         Ouvrage annexe construit avant le sciage des voussoirs .......................................................................................... 45
+     9.2.         Ouvrage annexe construit après le sciage des voussoirs. ......................................................................................... 47
+10.           Raccordement aux existants..............................................................................................................................................................48
+     10.1.             Introduction .........................................................................................................................................................................................48
+     10.2.             Principe ..................................................................................................................................................................................................48
+     10.3.             Exemple Raccordement d’un DEG sur un DEG existant ........................................................................................ 49
+
+                                                                                                                 3
+                                           Recommandation du GT9C9F1 du 21 janvier 2024 – Prépublication du : 28/02/2024
+  10.4.            Raccordement d’un SEL-A sur tunnel existant ............................................................................................................ 53
+  10.5.            Raccordement d’un procédé d’imperméabilisation sur tunnel existant .....................................................56
+11.       SOURCES Bibliographiques ............................................................................................................................................................... 57
+12.       ANNEXES ........................................................................................................................................................................................................58
+  12.1.       ANNEXE N° 1 — Liste et libellés des cahiers ...................................................................................................................... 59
+  12.2.            ANNEXE N° 2 — Synoptique des procédés d’étanchement et de dispositifs de drainage ............ 60
+
+
+
+
+                                                                                                           4
+                                      Recommandation du GT9C9F1 du 21 janvier 2024 – Prépublication du : 28/02/2024
+                                                                                                       FIGURES
+Figure 1-Exemple de raccordement DEG-S/SEPC extrados .......................................................................................................12
+Figure 2-Exemple de raccordement DEG-S/FPM avec tôle colaminée ..............................................................................13
+Figure 3- Exemple de raccordement DEG/FPM avec bande bi-matière ........................................................................... 14
+Figure 4-Raccordement (SIL ou SEL-A) /Minéralisation ................................................................................................................ 16
+Figure 5- Raccordement (Minéralisation/(EIA-P ou M..................................................................................................................... 16
+Figure 6-Raccordement (SEL-A ou SIL) /EIA ........................................................................................................................................ 17
+Figure 7- Raccordement SEL-A/SIL............................................................................................................................................................ 17
+Figure 8- Raccordement (SEL-A ou SIL) / (EIA-M ou EIA-P) ....................................................................................................... 17
+Figure 9- Raccordement EIA-M/EIA-P ...................................................................................................................................................... 17
+Figure 10- Raccordement procédés intrados / paroi moulée .................................................................................................... 18
+Figure 11- Raccordement SEL-A/SEL-A ................................................................................................................................................... 18
+Figure 12-Raccordement SIL/SIL .................................................................................................................................................................. 18
+Figure 13- Raccordement EIA/EIA ................................................................................................................................................................ 19
+Figure 14- Raccordement EIM/EIM .............................................................................................................................................................. 19
+Figure 15- Raccordement extrados/intrados - cas d'un ouvrage immergé dans la nappe phréatique.......... 19
+Figure 16- Raccordement extrados/intrados - cas d'un ouvrage partiellement immergé dans la nappe
+phréatique ..................................................................................................................................................................................................................... 20
+Figure 17- Raccordement d'une nappe drainante avec un procédé d'étanchement intradossé .........................21
+Figure 18- Raccordement d'une nappe drainante avec un procédé intradossé .............................................................21
+Figure 19- Raccordement d'un procédé d'étanchement intradossé avec un drainage sous radier .................. 22
+Figure 20- Cloche pour tunnelier................................................................................................................................................................... 24
+Figure 21- Repérage des jonctions potentiellement fuyardes ................................................................................................... 25
+Figure 22- Décomposition d'un joint de voussoir en alvéoles .................................................................................................... 26
+Figure 23-localisation des sources d’Infiltrations possibles ......................................................................................................... 27
+Figure 24-Traitement local d'un Tympan-élévation.......................................................................................................................... 29
+Figure 25-Traitement local d'un tympan - coupe verticale ..........................................................................................................30
+Figure 26- Traitement partiel d'un tympan...............................................................................................................................................31
+Figure 27- Traitement partiel d'un tympan ...............................................................................................................................................31
+Figure 28- traitement général d'un tympan ............................................................................................................................................ 32
+Figure 29- Joints Hydrogonflants sur les joints J3 et J4 .................................................................................................................. 33
+Figure 30- Reprofilage autour de l'entrée du tunnel ........................................................................................................................ 34
+Figure 31- Traitement des joints J1 du tympan ..................................................................................................................................... 34
+Figure 32-Préparation de la tranche du voussoir et du retour .................................................................................................... 36
+Figure 33-Vu sur une tranche de voussoir ............................................................................................................................................... 36
+Figure 34-Voûte parapluie.................................................................................................................................................................................. 37
+Figure 35-Plancher butonnant ......................................................................................................................................................................... 38
+Figure 36-Raccordement DEG-S sur voussoirs par tôle colaminée ....................................................................................... 39
+
+                                                                                                                5
+                                          Recommandation du GT9C9F1 du 21 janvier 2024 – Prépublication du : 28/02/2024
+Figure 37-Raccordement DEG-S sur voussoirs par bride ..............................................................................................................40
+Figure 38-Principe de raccordement d'un DEG-S sur tunnel à voussoir ............................................................................. 41
+Figure 39-Raccordement d'un DEG-S sur tunnel à voussoir- détail 1 sur l’arrêt d’étanchéité ............................... 42
+Figure 40- Raccordement d'un DEG-S sur tunnel à voussoir -raccordement des plats ........................................... 42
+Figure 41- Raccordement d'un DEG-S sur voussoirs par collage ............................................................................................. 43
+Figure 42-Raccordement d'un DEG-S sur voussoirs par collage-détail sur l'arrêt........................................................ 44
+Figure 43-Raccordement d'un DEG-S sur voussoirs par collage-coupe ............................................................................. 45
+Figure 44-Rameau entre un puits et un tunnel à voussoir ............................................................................................................46
+Figure 45-Joint compressible transversal fuyard (repère 6 de la figure 44) ...................................................................... 47
+Figure 46-Raccordement d'une niche à un tunnel après sciage des voussoirs ............................................................. 47
+Figure 47-Raccordement d’un DEG sur un DEG existant ...............................................................................................................50
+Figure 48-Phasage de raccordement d'un DEG sur un DEG existant .................................................................................... 52
+Figure 49-Exemple de dépose d'une berlinoise pour récupérer une membrane existante .................................. 53
+Figure 50-Exemple de récupération d'une membrane en tunnel ........................................................................................... 53
+Figure 51- Création d'une issue de secours sur un tunnel existant ......................................................................................... 54
+Figure 52-Raccordement SEL-A sur le Tunnel existant .................................................................................................................. 54
+Figure 53-Traitement du joint de dilatation ............................................................................................................................................. 55
+Figure 54- Raccordement d'un SEL-A sur Tunnel existant ........................................................................................................... 55
+Figure 55-Longueur de retour pour obtenir un débit d'eau AFTES de niveau 1 .............................................................56
+
+
+
+
+                                                                                            6
+                                   Recommandation du GT9C9F1 du 21 janvier 2024 – Prépublication du : 28/02/2024
+                                                                    TABLEAUX
+
+
+Tableau 1 : Matrice de raccordement des procédés extradossés ........................................................................................... 10
+Tableau 3- Matrice de raccordement des procédés intradossés ............................................................................................ 15
+
+
+
+
+                                                                            7
+                             Recommandation du GT9C9F1 du 21 janvier 2024 – Prépublication du : 28/02/2024
+                                    Avant-Propos
+Le cahier 17 fait partie d'une série de 18 cahiers thématiques. Ces cahiers constitueront le « Guide
+des Bonnes Pratiques pour l'étanchement et le drainage des ouvrages souterrains ».
+Ces cahiers élaborés par un groupe de travail dédié de l’AFTES, le GTguide, comprenant plus de 50
+professionnels acteurs pluridisciplinaires intervenants dans l'étanchement et le drainage des
+ouvrages souterrains : Maîtres d'Ouvrage, Maîtres d'Œuvre, Contrôleurs Techniques, Exploitants,
+Gros Œuvre, Fondations Spéciales, Fabricants, Étancheurs, Laboratoires.
+Chacun apporte, dans son domaine de compétence son expertise et retour d'expérience des
+différentes pratiques permettant de concevoir, réaliser, et d’entretenir, de façon optimale et
+pérenne, l'étanchement et le drainage d'un ouvrage souterrain. Les membres du GT9 y sont
+fortement représentés.
+La constitution des cahiers se réalise en deux étapes :
+    • Étape 1 : rédaction et Obtention d'un consensus au sein du groupe de travail ;
+    • Étape 2 : relecture et validation par le Comité Technique de l'AFTES.
+Le « Guide des Bonnes Pratiques » décrit précisément tous les procédés d’étanchement (*) et les
+dispositifs de drainage surfaciques utilisés en ouvrages souterrains. A travers ses cahiers
+thématiques rédigés dans le respect du cadre règlementaire et normatif applicable et de l’état de
+l’art, le Guide traite en particulier :
+   •   De leurs spécificités de mise en œuvre (y compris le traitement de certains points singuliers)
+       et des différents contrôles associés ;
+   •   Des conditions de chantier requises (mise hors eau, qualité du support béton, protections,
+       etc.) ;
+   •   Des interactions avec les autres corps de métier (gros œuvre, équipements, etc.) ;
+   •   De l’interopérabilité entre les procédés ;
+   •   De leur entretien et maintenance afin d’assurer leur durabilité ;
+   •   Des critères de choix des procédés en fonction des conditions géotechniques et
+       hydrogéologiques du terrain, du mode constructif de l'ouvrage, des résultats attendus par
+       le MOA ;
+   •   De l'assurabilité des travaux d'étanchement.
+
+
+(*) Les procédés d'étanchement décrits se déclinent en deux catégories :
+     • Les procédés traditionnels décrits dans le fascicule 67 titre III et bénéficiant d'un Avis
+         Technique CETU ;
+     • Les procédés innovants examinés dans le cadre d'une Évaluation AFTES.
+
+
+
+
+                                                       8
+                  Recommandation du GT9C9F1 du 21 janvier 2024 – Prépublication du : 28/02/2024
+1. INTRODUCTION
+
+Les avis des commissions aussi bien pour l’avis technique CETU que les Évaluations AFTES
+(anciennement Avis d’Experts AFTES) sont donnés pour un seul procédé.
+Lors de la réalisation de l’étanchement ou du drainage d’un ouvrage, il est souvent mis en œuvre
+plusieurs procédés adaptés à leur domaine d’emploi, par exemple un procédé pour la partie
+immergée dans la nappe phréatique, un autre procédé pour la partie hors nappe. Lorsqu’il est possible
+de réaliser l’étanchement de l’ouvrage avec une seule famille de procédé, alors ce traitement est à
+privilégier.
+Tous les schémas et principes de raccordement entre les différentes étanchéités sont donnés à titre
+indicatif.
+Chaque raccordement doit être conçu et évalué selon les conditions du projet et la nature des
+étanchements ou drainage.
+
+
+
+
+                                                        9
+                   Recommandation du GT9C9F1 du 21 janvier 2024 – Prépublication du : 28/02/2024
+                                           2. MATRICE DE RACCORDEMENT DES PROCÉDÉS EXTRADOSSES
+                                           La plupart des procédés d’étanchement extradossés et des dispositifs de drainage se raccordent par
+                                           recouvrement et sont chimiquement compatibles sinon une pièce de transition est utilisée. La matrice ci-
+                                           après précise les modes de raccordement. (Pour la nomenclature des procédés — cf. annexe 2)
+
+
+                                     DEG -S
+
+                                                S
+
+
+                                     DEG-B
+                                                             S
+
+
+
+                                     FPM        PT Hors      S
+                                                nappe                S
+
+
+
+                                     FPA                     S       S
+                                                                               CH
+
+
+
+                                     FPR pré    PT           S       S         R+S
+                                                                                         S
+               Étanchéité extrados
+
+
+
+
+                                     FPR        PT           S       S         S         S
+                                     post                                                             S
+                                     appliqu
+                                     é
+
+                                     GSB        R+C          R+C
+
+                                                                                                                            R+C
+
+
+                                     SEL        PT           R       PT        PT ou R   R ou PT      PT         R + AC     R + AC +
+                                                                                                                            C
+                                                                                                                                       R + AC
+
+
+                                     SEPC                                                R + F + AC                         R+ C       R + AC +
+                                     extrados                                                                                          C
+                                                R + F + AC                                                                                        R + AC
+
+
+                                     GEA-P      PT           PT      PT                  PT                                 R+C        R + AC     PT R
+
+                                                                                                                                                           R + CF
+
+
+                                     GEA-PO     PT           PT      PT                  PEL          PEL                   R+C        R + AC     PT       R + CF
+
+                                                                                                                                                                     R + CF
+
+
+                                     Paroi      ANC                  R + CH              R + PEL      CH                    C          R + AC     PT       R + PEL   R + CF
+Relativement étanche
+
+
+
+
+                                     moulée                                                                                                                          R + PEL   Bande
+                                     cf.                                                                                               ANC                 ANC
+                                                                                                                                                                               d’arrêt
+                                     cahier 1                                                                                                                                  d’eau
+                                     0
+
+                                     Voussoir cf. § 9
+                                                                                                                                                                                          Joint
+                                                                                                                                                                                           de
+                                                                                                                                                                                          voussoir
+généralis
+Drainage
+
+
+
+
+                                                R            R       R         R         R            R          R          R          R          R        R         R         R          R        R
+                                                                                                                                                                                                   Hors
+                                                Hors         Hors    Hors      Hors      Hors         Hors       Hors       Hors       Hors       Hors     Hors      Hors      Hors       Hors     nappe
+                                                nappe        nappe   nappe     nappe     nappe        nappe      nappe      nappe      nappe      nappe    nappe     nappe     nappe      nappe
+é
+
+
+
+
+                                                DEG-S        DEG-B   FPM       FPA       FPR pré      FPR post   ASB:       GSB        SEL        SEPC     GEA-P     GEA-PO    Paroi      Voussoir GDmd
+                                                                                                                                                                               cf.        cf.
+                                                                                                      appliqué   8/22 –                           extrados                     Moulée              DNE
+                                                                                                                                                                               cahier
+                                                                                                                                                                               cf. §6 1   cahier 1
+                                                                                                                 AS
+
+                                                                                                      Étanchéité extrados                                                          Relativement      Drainage
+                                                                                                                                                                                     étanche         généralisé
+
+
+                                                                                    Tableau 1 : Matrice de raccordement des procédés extradossés
+
+
+
+                                                                                                                          10
+                                                                          Recommandation du GT9C9F1 du 21 janvier 2024 – Prépublication du : 28/02/2024
+NOMENCLATURE DES ACRONYMES
+
+PT : pièce de transition
+
+R : recouvrement
+
+C : contact confiné
+
+S : soudure à chaud
+
+CH : collage à chaud
+
+CF : collage à froid
+
+AC : adhérence chimique ou/et mécanique
+
+ANC : ancrage avec scellement -Cf cahier 1 « structure intégrée »
+
+F : fixation mécanique
+
+PEL : produit de raccordement fluide d’étanchéité (équerre résine)
+
+
+
+Légende
+
+              (Diagonale) : recouvrement de procédé avec lui-même avec indication mode de liaison
+
+
+
+              Technique courante avec indication du mode de liaison
+
+
+
+              Faisable consulter le fabricant (préciser nappe ou hors nappe)
+
+
+
+              Non connue — consulter le fabricant dès la conception
+
+
+
+Les acronymes des procédés d’étanchement sont détaillés à l’annexe 2
+
+
+
+
+                                                                      11
+                           Recommandation du GT9C9F1 du 21 janvier 2024 – Prépublication du : 28/02/2024
+Légende :
+      1.    Soutènement
+      2.    Géotextile
+      3.    DEG-S
+      4.    Plat métallique (40 mm) fixé mécaniquement
+      5.    SEPC
+      6.    Profil de compartimentage
+      7.    Pipette d’injection
+      8.    Treillis soudé
+      9.    Béton de revêtement
+              Figure 1 — Exemple de raccordement DEG-S/SEPC extrados
+
+
+
+
+                                            12
+       Recommandation du GT9C9F1 du 21 janvier 2024 – Prépublication du : 28/02/2024
+Légende :
+      1.    Dalle de couverture
+      2.    Feuille bitumineuse
+      3.    Tôle colaminée
+      4.    Mastic colle
+      5.    Fixation mécanique
+      6.    Membrane PVC en attente puis rabattue et soudée sur la tôle colaminée
+      7.    Géotextile (la membrane ne doit pas être en contact avec la feuille
+            bitumineuse)
+
+
+
+        Figure 2 — Exemple de raccordement DEG-S/FPM avec tôle colaminée
+
+
+
+
+                                            13
+       Recommandation du GT9C9F1 du 21 janvier 2024 – Prépublication du : 28/02/2024
+   1.   Bande collée bi-matière
+   2.   Tissu incorporé dans la bande bi-matière
+   3.   Adhésif pour coller la bi-matière sur le support
+   4.   Saturation du tissu
+   5.   Protection inferieure de la géomembrane bitumineuse
+   6.   Membrane bitumineuse
+   7.   Protection inferieure de la membrane bitumineuse
+   8.   DEG-S
+   9.   Soudure de la membrane PVC sur la Bande bi-matière
+
+
+                 Figure 3 — Exemple de raccordement DEG/FPM avec bande bi-matière
+
+
+3. MATRICE DE RACCORDEMENT DES PROCÉDÉS INTRADOSSES
+
+Les procédés d’étanchement intradossés se raccordent par recouvrement, toutefois certaines
+configurations n’ont pas de retour d’expérience à ce jour, le raccordement est signalé en rouge
+sur la matrice ci-après.
+
+
+
+
+                                                     14
+                Recommandation du GT9C9F1 du 21 janvier 2024 – Prépublication du : 28/02/2024
+                                 SEL-A
+Étanchéité intrados
+
+
+
+
+                                                   R/ AC
+
+                                                   11
+
+                                 SEPC
+                                 intrados
+                                                                    R/ AC
+
+
+
+                                 EIA-P             R/AC
+
+                                                   6,8                          R/ AC
+
+                                                                                13
+Imperméabilisation intrados
+
+
+
+
+                                 EIA-M             R/AC                         R/AC
+
+                                                   6,8                          9               R/AC
+
+                                                                                                13
+
+                                 SIL               R/AC                         R/ AC           R/ AC
+
+                                                   7                            6,8             6,8           R/ AC
+
+                                                                                                              12
+
+                                 EIM               R/AC                         R/ AC           R/ AC         R/ AC
+
+                                                   4                            5               5             4               R/ AC
+
+                                                                                                                              14
+
+                                 Paroi moulée      Cunette                      Cunette         Cunette       Cunette         Cunette
+Relativement étanche
+
+
+
+
+                                                   10
+                                                                                10              10            10              10        BAE
+
+
+
+                                 Voussoir          Voir § 6                                                                             cf. § 6
+
+                                                                                                                                                     Joint
+
+
+
+
+                                                   SEL.-A           SEPC        EIA-P           EIA-M         SIL             EIM       Paroi        Voussoir
+                                                                    intrados                                                            moulée
+
+                                                         Étanchéité intrados                    Imperméabilisation intrados               Relativement étanche
+
+
+
+
+                              NOMENCLATURE DES ACRONYMES
+
+                              R : recouvrement
+
+                              AC : adhérence chimique ou/et mécanique
+                              Chiffre = numéro du schéma correspondant
+
+                                            (Diagonale) : recouvrement de procédé avec lui-même avec indication mode de liaison
+
+
+
+                                            Technique courante avec indication du mode de liaison
+
+
+
+                                            Non connue — consulter le fabricant dès la conception
+
+
+
+                              Les acronymes des procédés d’étanchement sont détaillés à l’annexe 2
+
+
+
+                                                        Tableau 2 — Matrice de raccordement des procédés intradossés
+
+
+
+                                                                                           15
+                                                 Recommandation du GT9C9F1 du 21 janvier 2024 – Prépublication du : 28/02/2024
+Le recouvrement entre les différents procédés d’étanchement intradossés suit les règles
+exclusives suivantes :
+   •     La longueur de recouvrement est au minimum de 20 cm dès lors qu’elle met en jeu un
+         revêtement hydraulique ou au minimum de 5 cm entre deux revêtements à base de
+         résine ;
+    • Les procédés d’imperméabilisation hydrauliques minces et épais sont compatibles entre
+         eux ;
+    • Une minéralisation doit recevoir dans sa couche fraîche, un gobetis mortier non hydrofugé
+         pour être recouvert par les procédés d’imperméabilisation hydrauliques (Schéma 5) ;
+    • Le SIL ou SEL-A peuvent recouvrir les procédés d’imperméabilisation hydrauliques
+         minces ou épais (Schéma 8) ;
+    • Le SIL ou SEL-A peuvent recouvrir la minéralisation après ponçage du surplus resté en
+         surface (Schéma 4) ;
+    • Le raccordement d’un SEL-A avec un procédé d’imperméabilisation se fait dans la zone
+         imperméabilisée.
+    • Le SIL ou SEL-A doivent être saupoudré de silice pour recevoir les procédés
+         d’imperméabilisation hydrauliques minces ou épais (Schéma 6).
+Note : les figures ci-après peuvent être interprétés en vertical/horizontal ou horizontal/vertical
+ou partie courante à plat
+
+
+
+
+ 1 Béton                                              1 Béton
+ 2 Ouverture et calfeutrement                         2 Ouverture et calfeutrement
+ 3 Minéralisation poncée                              3 Minéralisation (EIM)
+ 4 Minéralisation (EIM)                               4 couche fraiche de minéralisation
+ 5 SIL ou SEL-A                                       5 EIA-P ou M (1 ou 2 couches)
+                                                      6 Barbotine d’accrochage
+                                                      7 Gobetis non hydrofugé (couche fraiche de
+                                                      minéralisation)
+
+ Figure 4 — Raccordement (SIL ou SEL-                 Figure 5 — Raccordement (Minéralisation/(EIA-P ou M
+ A)/Minéralisation
+
+
+                                                     16
+                Recommandation du GT9C9F1 du 21 janvier 2024 – Prépublication du : 28/02/2024
+     1.   Béton                                            1.   Béton
+     2.   Ouverture et calfeutrement                       2.   Ouverture et calfeutrement
+     3.   Saupoudrage du SEL-A ou SIL                      3.   Saupoudrage SEL-A
+     4.   SEL-A ou SIL                                     4.   SEL-A
+     5.   EIA-P ou M                                       5.   SIL
+
+
+Figure 6 — Raccordement (SEL-A ou SIL)/EIA            Figure 7 — Raccordement SEL-A/SIL
+
+
+
+
+1.   Béton                                            1.   Béton
+2.   Ouverture et calfeutrement                       2.   Ouverture et calfeutrement
+3.   EIA-P ou — M                                     3.   EIA-M
+4.   SIL ou SEL-A                                     4.   EIA-P
+
+
+Figure 8 — Raccordement (SEL-A ou SIL)/(EIA-M         Figure 9 — Raccordement EIA-M/EIA-P
+ou EIA-P)
+
+
+
+
+                                                 17
+            Recommandation du GT9C9F1 du 21 janvier 2024 – Prépublication du : 28/02/2024
+1.   Paroi moulée
+2.   Cunette
+3.   Fosse de relevage
+4.   Étanchéité ou imperméabilisation
+
+
+Note : le traitement du raccordement du procédé à la canalisation est décrit dans le
+cahier 6 « points singuliers »
+
+
+
+Figure 10 — Raccordement procédés intrados/paroi moulée
+
+
+
+
+1.   SEL-A                                             1.   SIL
+2.   SEL-A                                             2.   Saupoudrage
+                                                       3.   SIL
+
+
+                                                       Figure 12 — Raccordement SIL/SIL
+Figure 11 — Raccordement SEL-A/SEL-A
+
+
+
+
+                                                  18
+             Recommandation du GT9C9F1 du 21 janvier 2024 – Prépublication du : 28/02/2024
+     1.        EIA                                              1.   EIM
+     2.        Barbotine                                        2.   EIM
+     3.        EIA
+                                                                Figure 14 — Raccordement EIM/EIM
+     Figure 13 — Raccordement EIA/EIA
+
+
+
+4. RACCORDEMENT DES PROCÉDÉS INTRADOS ET EXTRADOS
+
+   4.1. Cas sans limite d’emprise
+
+
+
+
+          1.    Revêtement extrados
+          2.    Revêtement intrados
+          3.    Arrêt immergé cf. Cahier 6 « points singuliers »
+
+          L = Longueur de recouvrement = longueur retour des procédés intradossés (cf.
+          cahier 7)
+          RB= reprise de bétonnage
+
+
+Figure 15 — Raccordement extrados/intrados — cas d’un ouvrage immergé dans la nappe phréatique
+
+                                                         19
+                    Recommandation du GT9C9F1 du 21 janvier 2024 – Prépublication du : 28/02/2024
+       1.   Revêtement extrados
+       2.   Revêtement intrados
+       3.   Arrêt immergé cf. cahier 6 « points singuliers »
+
+       L = Longueur de recouvrement = longueur retour des procédés intradossés (cf.
+       cahier 7)
+       RB= reprise de bétonnage
+
+
+Figure 16 — Raccordement extrados/intrados — cas d’un ouvrage partiellement immergé dans la nappe
+phréatique
+
+
+   4.2. Cas avec limite d’emprise
+Le cahier 1 traite du raccordement entre procédé d’étanchement intradossé et structure
+relativement étanche.
+
+
+5. RACCORDEMENT D’UN DRAINAGE AVEC UN PROCÉDÉ
+   D’ÉTANCHEMENT
+
+   5.1. Cas avec un procédé extradossé
+Une nappe drainante ne peut pas être immergée dans la nappe phréatique. l’arrêt du procédé
+d’étanchement extradossé sera surélevé de 50 cm
+
+
+
+
+                                                     20
+                Recommandation du GT9C9F1 du 21 janvier 2024 – Prépublication du : 28/02/2024
+1.    Piédroit
+2.    Procédé d’étanchement extradossé
+3.    Nappe drainante
+4.    Système d’écartement des eaux de ruissellement
+       Figure 17 — Raccordement d’une nappe drainante avec un procédé d’étanchement intradossé
+
+
+     5.2. Cas avec un procédé intradossé
+    • En Piédroit
+Une nappe drainante ne peut pas être immergée dans la nappe phréatique. L’arrêt du procédé
+d’étanchement intradossé sera surélevé de 50 cm par rapport au niveau EE.
+
+
+
+
+1. Piédroit
+2.Procédé d’étanchement intradossé
+3.Nappe drainante
+4.Système d’écartement des eaux de ruissellement
+
+              Figure 18 — Raccordement d’une nappe drainante avec un procédé intradossé
+
+
+                                                     21
+                Recommandation du GT9C9F1 du 21 janvier 2024 – Prépublication du : 28/02/2024
+     •    En radier
+          Le radier est drainé, le procédé d’étanchement intradossé est retourné sur une longueur
+          minimale de 50 cm
+
+
+
+
+1.       Piédroit
+2.       Terre
+3.       Collecteur
+4.       Nappe drainante
+5.       Radier
+6.       Procédé d’étanchement intradossé
+
+Figure 19 — Raccordement d’un procédé d’étanchement intradossé avec un drainage sous radier
+
+
+6. RACCORDEMENT D’UN TUNNEL À VOUSSOIRS SUR STATION EN
+   STRUCTURE INTÉGRÉE
+
+     6.1. Généralités
+Ce chapitre ne concerne pas les techniques de traitement du terrain (injection, jet-grouting, paroi
+au coulis…) contre la paroi moulée qui sont parfois indispensables avant l’entrée ou la sortie du
+tunnelier dans la station ou le puits
+
+     6.2. Principe de raccordement sur une station
+Un tunnel foré avec des voussoirs béton est par définition une structure relativement étanche
+(Fascicule 67 — Titre III — version 1.0 décembre 2017) s’opposant à la pression hydrostatique qui
+s’exerce radialement à son parcours.
+Il débouche dans la paroi de la station ou d’un puits traité selon la conception de la structure
+intégrée.
+
+
+
+                                                      22
+                 Recommandation du GT9C9F1 du 21 janvier 2024 – Prépublication du : 28/02/2024
+La percussion de ces deux structures relativement étanches, de l’une dans l’autre, et de nature et
+mode constructif différents, ne permettent pas de conserver le plan d’étanchéité. Il y a un risque
+non négligeable d’infiltration d’eau à la jonction Tunnel/station — puits, aggravé par le tunnel
+agissant comme un drain dans le terrain traversé.
+Le cahier détaille les différentes possibilités d’étanchement de la structure intégrée :
+    •   Structure relativement étanche
+    •   Structure relativement étanche avec étanchéité en sous-face de radier
+    •   Procédé d’imperméabilisation
+    •   Procédé d’étanchéité intradossé
+
+    6.3. Éléments du Gros Œuvre
+L’entrée ou la sortie d’un tunnel à voussoirs dans une station ou un puits sont constituées de
+plusieurs éléments :
+    •   Les voussoirs
+    •   La paroi moulée
+    •   Le matériau de remplissage entre les voussoirs et le terrain
+    •   Le béton de confinement au droit du matériau de remplissage
+    •   Éventuellement une voûte parapluie (présoutènement métallique en demi-section
+        supérieure)
+    •   Dalles et voiles en percussion
+
+        La mise en œuvre de ces éléments peut modifier leur comportement et nécessiter des
+        adaptations :
+    •   Ovalisation du tunnel et déconfinement des joints compressibles pouvant nécessiter la
+        mise en œuvre de dispositifs afin de s’opposer au déconfinement des joints entre les deux
+        premiers anneaux
+    •   Ferraillage de la paroi moulée à l’aide de fibres de verre
+    •   Recoupement des joints de la paroi moulée
+    •   Endommagement de la paroi moulée lors de de la traversée du tunnelier
+    •   Dispositifs provisoires en entrée/sortie de terre de confinement du tunnelier : viroles,
+        cloches, bouchons injectés, parois au coulis
+        Note. Matériau de bourrage (Cf § 2.3.7.2 « nature du matériau de bourrage des
+        recommandations AFTES GT18R1F2) injecté in situ et qui au droit de la jonction avec la paroi
+        moulée ne peut pas être bien confiné, cette zone est souvent fuyarde et nécessite des
+        traitements complémentaires (cf. traitement des arrêts d’eau dans les ouvrages souterrains
+        TES N° 257 réf. GT9R1F3.) et une reconstitution de la paroi.
+
+
+
+
+                                                     23
+                Recommandation du GT9C9F1 du 21 janvier 2024 – Prépublication du : 28/02/2024
+                                   Figure 20 — Cloche pour tunnelier
+
+
+
+
+   6.4. Identification des points singuliers
+Le raccordement entre tunnel à voussoirs et structure intégrée présente de nombreux points
+singuliers pouvant potentiellement être fuyards.
+
+       6.4.1. Jonction entre éléments
+       Ces points sont décrits ci-après et repérés sur la figure 21
+   •   Joint J1 verticaux entre panneaux de paroi moulée
+   •   Joint J2 horizontal entre radier et paroi moulée
+   •   Joint J3 circulaire entre le béton de confinement et la paroi moulée.
+   •   Joint J4 circulaire entre le béton de confinement et les voussoirs.
+   •   Joint V rayonnant entre les voussoirs qui se décomposent en 4 points singuliers (cf.
+       figure 21) :
+       −   V1 joint extrados entre voussoirs
+       −   V2 joint d’articulation entre voussoirs
+       −   V3 joint intrados entre voussoirs
+       −   V4 joint compressible
+       Ces joints créent les points triples suivants :
+
+
+                                                    24
+               Recommandation du GT9C9F1 du 21 janvier 2024 – Prépublication du : 28/02/2024
+    •    J 1/J2
+    •    J1/J3
+    •    J4/V
+
+
+
+
+    1.   Radier
+    2.   Voussoir
+    3.   Espace annulaire rempli de matériau de bourrage
+    4.   Paroi moulée
+
+
+                         Figure 21 — Repérage des jonctions potentiellement fuyardes
+
+
+         6.4.2. Analyse des points potentiellement fuyards.
+    •    Joint J1, j2, j1/j2
+Les joints J1 entre panneaux de paroi moulée, j2 entre paroi moulée et radier, le joint triple j1/j2
+sont détaillés dans le cahier 10 « structure intégrée »
+    •    Joints J3 et J4
+Ces deux joints correspondent à l’espace annulaire entre le bouclier du tunnelier et l’extrados des
+voussoirs qui est injecté de matériau de bourrage à l’avancement du percement du tunnel.
+A la jonction avec le tympan ce matériau de bourrage est déconfiné et délavé par les eaux
+d’infiltration,
+    •    Le joint V entre voussoirs
+
+
+
+                                                        25
+                   Recommandation du GT9C9F1 du 21 janvier 2024 – Prépublication du : 28/02/2024
+Le joint V, entre voussoirs, est décomposé en 4 alvéoles (voir figure 22) :
+        −   Alvéole V1 à l’extrados
+        −   Alvéole V2, alvéole locale incluse dans l’alvéole V3 et correspondant à l’articulation
+            (barre de guidage)
+        −   Alvéole V3 côté intrados
+        −   Alvéole V4 correspondant à l’emplacement du joint compressible
+Un revêtement à base de voussoirs est, grâce aux joints d’étanchéité manufacturés, étanche à
+une pression hydrostatique radiale, cependant les joints longitudinaux sont des canaux qui
+peuvent amener l’eau du terrain dans la station
+L’alvéole V1 située à l’extrados amène l’eau qui percole au travers du matériau de bourrage.
+L’alvéole V4 qui contient le joint de voussoir, en cas de blessure de ce dernier ou de
+décompression, l’eau peut s’introduire dans l’alvéole V3 qui se transforment alors en drain
+amenant l’eau en surface et en extrémité du voussoir.
+
+
+
+
+1.    Voussoir
+2.    Réservation pour joint compressible entre anneaux
+3.    Les 4 alvéoles d’un joint de voussoir
+
+
+                      Figure 22 — Décomposition d’un joint de voussoir en alvéoles
+
+
+
+
+                                                     26
+                Recommandation du GT9C9F1 du 21 janvier 2024 – Prépublication du : 28/02/2024
+           1.   Paroi moulée                               6. Béton de confinement
+                                                           7. Voussoir-coupe sur joint de voussoir
+           2.   Pression hydrostatique
+                                                           8. Joint compressible
+           3.   Bande d’arrêt d’eau
+                                                           9. Défaillance du joint compressible
+           4.   Bande d’arrêt d’eau sectionnée
+                                                           10.Joint hydrogonflant
+           5.   Matériau de bourrage
+
+
+
+
+                       Figure 23-localisation des sources d’Infiltrations possibles
+
+
+
+
+        Point triple J1/J3
+Ce point est particulièrement infiltrant, car la Bande d’Arrêt d’eau de la paroi moulée a été
+sectionnée, l’eau du terrain vient directement par ce point triple.
+
+
+        Point triple J4/V
+L’eau du terrain est amenée par le joint V1 (figure n° 23) sur tout le pourtour des voussoirs
+(longitudinalement et transversalement). L’eau du terrain peut s’infiltrer par l’alvéole V3 en cas de
+défaillance du joint compressible.
+
+
+
+
+                                                     27
+                Recommandation du GT9C9F1 du 21 janvier 2024 – Prépublication du : 28/02/2024
+    6.5. Étanchement à l’aide d’un SEL-A de la liaison voussoirs/Paroi moulée
+
+        6.5.1. Principe
+Les Systèmes d’Étanchéité Liquide — Armé (SEL-A) permettent :
+    •   De ponter tous les points singuliers décrits ci-dessus.
+    •   De recouvrir toutes les structures de compositions et formes différentes, même d’avoir les
+        voussoirs saillant par rapport à la paroi moulée.
+ De résister à la sous-pression et fissuration fonctionnelle du support.
+ Le SEL-A sera retourné à l’intrados du voussoir sur une longueur d’environ 50 cm, il permet
+ d’ancrer le traitement de la tranche de voussoir et n’obture pas l’alvéole V3 sur la longueur du
+ voussoir pour le rendre visitable et réparable en cas de venu d’eau.
+
+        6.5.2. Traitements possibles
+Il y a 3 traitements possibles (traitement local, traitement partiel, et traitement général du tympan)
+selon la configuration (hydrogéologie, type de tunnelier, entrée ou sortie d’ouvrage, présence de
+cloche ou non…).
+
+
+        Traitement local du tympan
+Il consiste à réaliser un anneau en SEL-A autour du tunnel comprenant : l’espace annulaire du
+béton de confinement, une extension d’un mètre sur la paroi moulée, un retour sur les voussoirs
+(tranche de voussoir et retour de 50 cm à l’intérieur.
+Une réservation d’au moins 1 m de profondeur et sur toute la largeur du traitement devra être
+ménagée dans le béton de remplissage ou le radier afin de permettre le traitement frontal. Une
+fosse devra également être réalisée pour mettre une pompe de relevage permettant
+l’assèchement du fond de la réservation pendant les travaux d’étanchement.
+Les structures rapportées (plancher, murs de quai) seront, de préférence, non ancrées dans le
+SEL-A, si elles sont réalisées après mise en œuvre du SEL-A), les aciers de liaison seront scellés
+chimiquement au travers du SEL-A, dans le cas contraire le SEL-A sera retourné sur la longueur
+du retour technique (cf. cahier 7).
+
+
+
+
+                                                     28
+                Recommandation du GT9C9F1 du 21 janvier 2024 – Prépublication du : 28/02/2024
+1.   Terrain encaissant                              5.Tunnel à voussoir
+2.   Pré-radier                                      6.Béton de confinement
+3.   Radier                                          7. SEL-A local (en couleur)
+4.   Paroi moulée                                    8. Plancher
+
+
+                        Figure 24 — Traitement local d’un Tympan-élévation
+
+
+
+
+                                                   29
+              Recommandation du GT9C9F1 du 21 janvier 2024 – Prépublication du : 28/02/2024
+     1.    Terrain encaissant                              7.Matériau de bourrage
+
+     2.    Paroi moulée                                    8.Béton de confinement
+
+     3.    Joint de paroi moulée                           9.Reprofilage de la paroi moulée et du béton
+                                                           de confinement
+
+     4.    Radier                                          10.congé
+
+     5.    Fosse pour pompe de relevage                    11. SEL-A
+
+     6. Voussoir                                           12.Recharge béton
+
+
+
+                          Figure 25 — Traitement local d’un tympan — coupe verticale
+
+          Traitement partiel du tympan
+En complément du traitement local, le SEL-A est appliqué sur toute la surface du panneau de la
+paroi moulée armée sollicité par le tunnelier, un traitement confortatif sera assuré en prolongeant
+le SEL-A sur 1 m sur les panneaux contigus (cf. tableau 10 « guide de choix par type de désordre »
+des recommandations AFTES GT9R1F3).
+La réservation en radier devra être réalisée sur la largeur du traitement vertical
+
+
+
+
+                                                         30
+                    Recommandation du GT9C9F1 du 21 janvier 2024 – Prépublication du : 28/02/2024
+                           Figure 26 — Traitement partiel d’un tympan
+
+
+
+
+1.   Paroi moulée
+2.   Tunnel à voussoirs
+3.   Joint J1
+
+
+                           Figure 27 — Traitement partiel d’un tympan
+
+
+
+
+                                                 31
+            Recommandation du GT9C9F1 du 21 janvier 2024 – Prépublication du : 28/02/2024
+         Traitement général du tympan
+En complément du traitement partiel, le SEL-A est étendu à toute la surface de la paroi
+moulée constituant le tympan.
+La réservation en radier devra être réalisée sur la largeur du traitement vertical
+Le SEL-A sera raccordé au procédé d’étanchement extradossé en radier, deux cas se
+présentent :
+•        L’étanchéité en sous-face est simplement raccordée à la paroi moulée (cf. cahier 10), le
+         SEL-A est retourné en surface du radier sur la longueur de cheminement « L ». La largeur
+         de la réservation en radier sera ≥ L.
+•        L’étanchéité en sous-face est raccordée à un procédé d’imperméabilisation sur la tranche
+         de radier, cette dernière dépassera le radier d’au moins de 20 cm (cf. cahier 10), le SEL-A
+         viendra recouvrir le procédé d’imperméabilisation.
+
+
+
+
+    1.    Terrain encaissant                                 9.Plancher ancré dans la paroi moulée
+    2.    Paroi moulée                                       10.Voussoir
+    3.    Joint de paroi moulée                              11.Matériau de bourrage
+    4.    Béton de propreté                                  12.Béton de confinement
+    5.    Procédé d’étanchement extradossé                   13.Reprofilage de la paroi moulée et du béton
+                                                             de confinement
+    6. Raccordement de l’étanchéité à la                     14.Congé
+       paroi moulée
+    7.    Radier                                             15. SEL-A
+    8. Fosse pour pompe de relevage                          16.Recharge béton
+
+
+                                  Figure 28 — traitement général d’un tympan
+
+
+                                                        32
+                   Recommandation du GT9C9F1 du 21 janvier 2024 – Prépublication du : 28/02/2024
+ VI.5.3 REALISATION DU BETON DE CONFINEMENT
+Le béton de confinement est réalisé dans l’espace annulaire devant le matériau de remplissage
+(clavage) du tunnelier. Il s’insère entre les voussoirs et la paroi moulée.
+Après dépose du matériau de confinement sur environ 30 cm et nettoyage des parois, le joint V1
+qui communique avec la nappe phréatique sera rempli de mastic hydrogonflant ou de résine
+époxy.
+Des systèmes d’assèchement provisoire du matériau de remplissage devront être mis en place
+(nappe drainante, drain, injection…)
+Des joints hydrogonflants peuvent être mis en place au droit des joints J3 et J4, la pose de tube
+injectable est déconseillée, car il doit être accessible en surface ce qui oblige à percer le SEL-A
+Le béton est mis en place par projection ou coulage, ces caractéristiques doivent permettent
+d’obtenir une cohésion superficielle d’au moins 1,5 MPa
+
+
+
+
+                          Figure 29 — Joints Hydrogonflants sur les joints J3 et J4
+
+
+
+                                                      33
+                 Recommandation du GT9C9F1 du 21 janvier 2024 – Prépublication du : 28/02/2024
+        6.5.3. Préparation des supports
+
+    •   Paroi moulée
+La surface de la paroi moulée, qui a été au préalable rabotée, sera reprofilée à l’aide d’un mortier
+de resurfaçage.
+Les joints J1 et J2 (si retour en radier seront traités conformément au cahier 1.
+Dans le cas d’un voussoir dépassant la surface de la paroi moulée, un congé sera réalisé dans
+l’angle rentrant.
+
+
+
+
+                          Figure 30 — Reprofilage autour de l’entrée du tunnel
+
+
+    •   Joints de la paroi moulée
+        Les joints J1 et J2 (dans le cas d’un retour en radier seront traités conformément au
+        cahier 1 « structures intégrées »
+
+
+
+
+                             Figure 31 — Traitement des joints J1 du tympan
+
+
+                                                     34
+                Recommandation du GT9C9F1 du 21 janvier 2024 – Prépublication du : 28/02/2024
+    •   Tranche de Voussoir
+
+Le joint compressible circulaire visible sera retiré, les joints longitudinaux entre voussoirs seront
+grugés sur environ 1 cm.
+La tranche du voussoir sera préparée par ponçage diamanté en éliminant la surépaisseur centrale
+et en chanfreinant les angles sortants.
+Les réservations pour bicônes et tirants seront rebouchées à l’aide d’un mortier R4.
+La réservation pour le joint compressible sera remplie de pâte époxy
+Les alvéoles V1, V2, V3, V4 seront comblés par pénétration d’une pâte époxy sur environ 1 cm et
+arasés en surface.
+
+
+    •   Intrados du voussoir
+Il sera poncé sur la longueur du retour, notamment pour annuler les garnitures pour répartitions
+des efforts au contact des voussoirs ; les alvéoles V3 seront comblés par pénétration d’une pâte
+époxy sur environ 1 cm et arasées en surface.
+Note : dans le cas d’une arrivée d’eau due à la blessure ou déconfinement des joints
+compressibles entre voussoirs, un traitement préalable devra être réalisé (blocage, injection…)
+
+
+
+
+             1.   Paroi moulée                                8.Remplissage des réservations pour
+                                                              tirants
+
+
+
+                                                       35
+                  Recommandation du GT9C9F1 du 21 janvier 2024 – Prépublication du : 28/02/2024
+                                                 9.Grugeage du joint compressible
+2.   Matériau de bourrage
+                                                 longitudinal
+                                                 10.Remplissage de la réservation pour
+3.   Voussoir
+                                                 joint compressible transversal (entre
+                                                 anneaux)
+                                                 11.Chanfrein
+4.   Remplissage de l’alvéole V1
+                                                 12.Reprofilage de la tranche du voussoir
+5.   Joint hydrogonflant
+                                                 13.Reprofilage de la paroi moulée et du
+6. Béton de confinement
+                                                 béton de confinement
+7.   Obturation des réservations pour
+     bicônes
+
+
+          Figure 32 — Préparation de la tranche du voussoir et du retour
+
+
+
+
+                    Figure 33 — Vue sur une tranche de voussoir
+
+                                          36
+     Recommandation du GT9C9F1 du 21 janvier 2024 – Prépublication du : 28/02/2024
+   •   Présence d’une voûte parapluie
+       Les tubes seront obturés à l’aide de mortier de classe R4 ou mortier hydrofuge
+
+
+
+
+                                       Figure 34 — Voûte parapluie
+
+
+
+
+       6.5.4.   Mise en œuvre du SEL-A
+Le SEL-A sera mis en œuvre conformément à son CMO (cahier de mise en œuvre)
+
+       6.5.5.   Élément en béton venant en percussion sur le SEL-A
+   •   La connexion d’ouvrage en béton armé venant en percussion sur les SEL-A sera réalisée
+       par scellement d’armature à la résine époxy, celle-ci sera mis en excès de manière à
+       réaliser un bourrelet périphérique recouvrant le SEL-A
+
+
+   •   La fixation d’équipement sur le SEL-A sera réalisée à l’aide de chevilles chimiques (cf. NF
+       EN 1992-4)
+
+
+
+                                                     37
+                Recommandation du GT9C9F1 du 21 janvier 2024 – Prépublication du : 28/02/2024
+   •   La liaison peut également être réalisée sans connecteur
+
+
+
+
+       1.   Paroi moulée
+       2.   Matériau de remplissage
+       3.   Voussoir
+       4.   Béton de confinement
+       5.   Joint hydrogonflant
+       6.   SEL-A
+
+
+                                     Figure 35 — Plancher butonnant
+
+
+7. RACCORDEMENT D’UN TUNNEL À VOUSSOIR SUR STATION EN
+   LIMITE D’EMPRISE
+Le revêtement béton est réalisé dans une fouille soutenue par un soutènement, l’étanchéité est
+assurée par la mise en œuvre d’un DEG-S entre soutènement et revêtement béton au droit de
+l’arrivée du tunnel à voussoir le DEG est raccordé sur la tranche voussoirs par un système de bride
+situé au-delà du joint de voussoir (alvéole V4)
+L’alvéole V1 est étanché par un joint hydrogonflant et des gaines injectables
+Un profilé de compartimentage isole ce raccordement de l’étanchéité en partie courante
+
+
+
+
+                                                     38
+                Recommandation du GT9C9F1 du 21 janvier 2024 – Prépublication du : 28/02/2024
+1.   Terrain encaissant                           10.Pipette d’injection
+
+2.   Matériau de remplissage                      11.Acier de liaison voussoir/tympan
+
+3.   Voussoir                                     12.Joint hydrogonflant
+
+4.   Soutènement en béton projeté                 13.Gaine injectable
+
+5.   Géotextile                                   14.Tôle colaminée
+
+6. Membrane PVC                                   15.Résine époxy
+
+7.   Protection supérieure                        16.Cheville
+
+8. Profilé de compartimentage                     17.Injection de résine acrylique
+
+9. Congé en béton projeté                         18.Tympan réalisé en béton coffré
+
+                Figure 36 — Raccordement DEG-S sur voussoirs par tôle colaminée
+
+
+
+
+                                                39
+           Recommandation du GT9C9F1 du 21 janvier 2024 – Prépublication du : 28/02/2024
+    1.
+ 1. Voussoir                                            8.Joint néoprène
+ 2.Soutènement en béton projeté                         9.Bride en inox ép. 80/10ème, largeur
+                                                        80 mm percée Ø 14 mm tous les 200 mm
+ 3.Tympan réalisé en béton coffré                       10.Boulon inox M12 scellé à la résine époxy
+                                                        tous les 200 mm
+ 4.Joint compressible                                   11. Protection supérieure
+ 5.Géotextile                                           12.Gaines injectables
+ 6.Reprofilage en résine époxy                          13.Congé en résine époxy
+ 7.DEG-S                                                14.Joint hydrogonflant
+
+
+                         Figure 37 — Raccordement DEG-S sur voussoirs par bride
+
+
+
+
+8. RACCORDEMENT D’UN PROCÉDÉ D’ÉTANCHÉITÉ
+   EXTRADOSSÉ D’UN OUVRAGE ANNEXE SUR UN TUNNEL
+   À VOUSSOIRS
+   8.1. Cas d’un DEG-S raccordé par bride boulonnée
+         Exemple d’une niche ou une galerie se raccordant sur un tunnel à voussoir
+L’arrêt du DEG doit être positionné sur la tranche des voussoirs au-delà du joint compressible. Il
+est réalisé à l’aide d’une bride boulonnée.
+Le revêtement béton de l’ouvrage annexe vient recouvrir la tranche des voussoirs, un profilé de
+compartimentage isole cette jonction de la partie courante
+
+                                                      40
+                 Recommandation du GT9C9F1 du 21 janvier 2024 – Prépublication du : 28/02/2024
+               Figure 38 — Principe de raccordement d’un DEG-S sur tunnel à voussoir
+
+
+
+
+1.Terrain encaissant                                    9. Profilé de compartimentage
+2.Soutènement                                           10.Protection supérieure
+3.Voussoir                                              11.Soudures
+4.Revêtement béton de la niche                          12.Fermeture en pâte époxy
+5.Joint compressible                                    13.Joint néoprène
+6.Géotextile                                            14.Plat inox
+7. DEG-S sur la tranche du voussoir                     15.Boulon
+8. DEG-S de la niche                                    16.Au droit des joints de voussoirs, ouverture
+                                                        et calfeutrement à la pâte époxy
+
+
+
+
+                                                   41
+              Recommandation du GT9C9F1 du 21 janvier 2024 – Prépublication du : 28/02/2024
+       Figure 39 — Raccordement d’un DEG-S sur tunnel à voussoir-détail 1 sur l’arrêt d’étanchéité
+
+
+
+
+14. Plats inox 50 mm X 1000 mm
+ 17. Éclisse de jonction entre deux plats.
+
+          Figure 40 — Raccordement d’un DEG-S sur tunnel à voussoir-raccordement des plats
+
+
+
+
+                                                     42
+                Recommandation du GT9C9F1 du 21 janvier 2024 – Prépublication du : 28/02/2024
+    8.2. Cas d’un DEG-S raccordé par collage
+        Exemple d’une niche ou une galerie se raccordant sur un tunnel à voussoir
+
+
+Une bande d’arrêt est collée à l’extrados des voussoirs autour de l’ouverture, une résine de
+colmatage est injectée dans l’alvéole V1 (cf. figure 32) entre le joint compressible et la bande
+d’arrêt.
+Des bandes de pontages sont collées sur les joints entre voussoirs. Ces bandes partent de la
+bande d’arrêt, continuent sur la tranche du voussoir et s’arrêtent à l’intrados du voussoir.
+
+
+La membrane PVC de la partie courante est soudée à l’air chaud sur la bande d’arrêt
+Des dispositifs de sécurité sont mis en œuvre ; tube ré injectable, joints hydrogonflants (cf.
+figure 37)
+
+
+L’ensemble de la zone est compartimenté (cf. cahier 11)
+
+
+
+
+                             1.   Joint compressible
+                             2.   Bande collée à la résine époxy
+                             3.   DEG-S
+                             4.   Soudure à l’air chaud
+                             5.   Injection de coulis chimique entre le joint compressible et le
+                                  DEG-S
+
+
+                    Figure 41 — Raccordement d’un DEG-S sur voussoirs par collage
+
+
+
+
+                                                     43
+                Recommandation du GT9C9F1 du 21 janvier 2024 – Prépublication du : 28/02/2024
+1.   Préparation du support                         6.Colle époxy
+2.   Reprofilage                                    7.collage époxy au droit des joints de
+                                                    voussoirs
+3.   Rayon minimum 200 mm                           8.Tube réinjectable
+4.   DEG-S                                          9.Joint hydrogonflant
+                                                    10.Joint compressible
+5.   Bande collée
+
+
+       Figure 42 — Raccordement d’un DEG-S sur voussoirs par collage-détail sur l’arrêt
+
+
+
+                                                  44
+             Recommandation du GT9C9F1 du 21 janvier 2024 – Prépublication du : 28/02/2024
+        1.    Béton de soutènement                                6. Profilé de compartimentage
+                                                                  7. Pipette
+        2.    Voussoir
+                                                                  8. Tube réinjectable
+        3.    Reprofilage
+                                                                  9. Joint hydrogonflant
+        4.    Géotextile
+        5.    DEG-S
+
+
+                      Figure 43 — Raccordement d’un DEG-S sur voussoirs par collage-coupe
+
+
+
+
+9. RACCORDEMENT D’UN PROCÉDÉ INTRADOSSÉ D’UN OUVRAGE
+   ANNEXE SUR UN TUNNEL À VOUSSOIRS
+Les configurations diffèrent en fonction du mode constructif, il est distingué deux cas :
+    •        L’ouvrage annexe est construit avant le sciage des voussoirs du tunnel pour créer l’accès
+    •        L’ouvrage annexe est construit après le sciage des voussoirs
+
+   9.1. Ouvrage annexe construit avant le sciage des voussoirs
+Le nu intérieur du revêtement béton est aligné aux faces sciées
+La partie courante de l’ouvrage annexe est traitée conformément au CMO du procédé y compris
+les points singuliers (reprise de bétonnage, joint, piquet de terre, etc.)
+Le raccordement sur voussoir exige le traitement des joints de voussoir. Une réservation de 20 cm
+doit être ménagée à cheval entre l’extrados du voussoir et le rameau. Les joints compressibles
+
+                                                           45
+                      Recommandation du GT9C9F1 du 21 janvier 2024 – Prépublication du : 28/02/2024
+affleurants au droit de la partie sciée doivent être rognés sur quelques cm puis la réservation
+obturée à la pâte époxy. L’alvéole V1 qui est en contact avec la nappe phréatique doit être
+ouverte en surface et remplie à la pâte époxy en cas d’arrivée d’eau, un drain de décharge doit
+être posé pour assécher la surface, après réalisation du procédé d’étanchement, il sera injecté
+puis calfeutré.
+Les autres alvéoles seront calfeutrées en surface.
+
+
+
+
+     1.   Voussoir                                     8. Joint de voussoir obturé à la pâte époxy
+     2.   Paroi moulée circulaire                      9. Bande de pontage
+     3.   Revêtement béton du rameau                   10.Reprofilage mortier
+     4.   Reprise de bétonnage avec bande de           11.Bande d’arrêt d’eau incorporée dans le
+          pontage                                      joint sec
+     5.   Joint sec avec bande d’arrêt d’eau           12. SEL-A
+     6. Joint compressible transversal                 13.Prise de terre (cf. cahier 6)
+     7.   Joint compressible grugé en surface
+          et rempli de pâte époxy
+
+
+
+                       Figure 44 — Rameau entre un puits et un tunnel à voussoir
+
+
+                                                     46
+                Recommandation du GT9C9F1 du 21 janvier 2024 – Prépublication du : 28/02/2024
+               Figure 45 — Joint compressible transversal fuyard (repère 6 de la figure 44)
+
+
+   9.2. Ouvrage annexe construit après le sciage des voussoirs.
+Dans ce cas, le béton de l’ouvrage annexe vient recouvrir les voussoirs.
+Avant le coulage de la niche un joint hydrogonflant viendra recouvrir les joints entre voussoirs,
+une réservation sera ménagée à cheval entre l’intrados du voussoir et le béton de la niche pour
+installer la bande de pontage.
+La niche sera imperméabilisée conformément au CMO du procédé et sera retournée sur 50 cm
+sur les voussoirs dont les joints auront préalablement été calfeutrés.
+
+
+
+
+                                                             Figure 46 — Raccordement d’une niche à un
+                                                                  tunnel après sciage des voussoirs
+
+
+
+
+     1.   Tunnel à voussoir                            5. Joint hydrogonflant
+     2.   Niche en béton armé                          6.Béton de confinement
+     3.   Procédé d’imperméabilisation                 7.Joint compressible
+          hydraulique
+     4.   Mortier de remplissage-clavage               8.Bande de pontage
+
+
+
+
+                                                     47
+                Recommandation du GT9C9F1 du 21 janvier 2024 – Prépublication du : 28/02/2024
+10.    RACCORDEMENT AUX EXISTANTS
+
+
+   10.1.       Introduction
+Le raccordement d’un nouveau procédé d’étanchement sur un ancien peut être réalisé selon les
+mêmes règles de raccordement des systèmes mixtes, décrits dans le cahier 9. Toutefois, il faut
+tenir compte des pertes de caractéristiques du procédé existant et des essais de compatibilité
+doivent être réalisés, même si les procédés sont identiques.
+L’étanchéité du raccordement entre un ouvrage existant et un nouveau doit être complétée, dès
+la conception, par des systèmes complémentaires et redondants (drainage, gaine d’injection, etc.).
+Le traitement de ce point singulier dépend de la nature et de l’état de l’étanchéité existante.
+La création d’un ouvrage neuf à proximité d’un ouvrage existant peut modifier les circulations
+d’eau dans les terrains et produire des infiltrations dans les ouvrages anciens. Des travaux
+d’étanchement complémentaires peuvent s’avérer nécessaires pour traiter les arrivées d’eau dans
+les ouvrages anciens, surtout s’ils n’ont pas été étanchés. Si un dispositif de drainage existe, il
+faudra vérifier que sa capacité de drainage est toujours suffisante pour reprendre les eaux
+provenant de l’ouvrage neuf.
+
+   10.2.        Principe
+La conception doit faire l’objet d’une procédure rigoureuse comprenant au minimum :
+   •   Les plans de l’ouvrage existant (à retrouver) avec identification de la nature de
+       l’étanchéité. La date de réalisation de l’étanchéité permet également d’émettre des
+       hypothèses sur la nature des matériaux (cf. note 3) ;
+   •   L’étude de conception et d’exécution (mobiliser les référents concernés (MOE, GC,
+       étancheur, etc.) ;
+   •   Une visite in situ et la localisation de la zone de raccordement ;
+   •   Déposer précautionneusement le soutènement et/ou la structure en laissant apparaître
+       au moins 20 cm du procédé d’étanchement existant préservé (pas de déchirure, de trou,
+       pas de brûlure, etc.) ;
+   •    Faire un prélèvement de l’étanchéité existante ;
+   •   Vérifier la compatibilité de la nouvelle étanchéité avec l’ancienne. La compatibilité est
+       vérifiée par des essais d’adhérence soit par traction directe (soudure et collage) ou par
+       pelage (dans le cas d’une soudure) ;
+   •   Le raccordement est réalisé soit par soudure des deux matériaux soit par collage, dans
+       tous les cas, il y a à définir le mode de préparation du matériau existant ; ponçage,
+       nettoyant au solvant, séchage en cas de blanchiment (PVC imbibé d’eau), etc. ;
+   •   En cas d’incompatibilité ou hétérogénéité, il faut définir une pièce de transfert (voir
+       matrice de raccordement cahier 9 « étanchéité mixte ») ;
+   •   Dans tous les cas, il aura lieu de mettre des systèmes complémentaires et redondants et,
+       si possible, mettre des caniveaux ou goulottes pour collecter les eaux en cas de fuite
+       résiduelle.
+       Pour les procédés existants extradossés
+Pour les DEG, séparer par un système de compartimentage l’ancienne et la nouvelle étanchéité.
+       Pour les procédés existants intradossés
+   •   Déposer les protections existantes (cloisons, protection feu, parement décalé…) ;
+   •   Vérifier l’adhérence du procédé existant dans la zone de recouvrement ;
+   •   Suivre les règles de raccordement définies au cahier 9 « Étanchement mixte ».
+
+
+
+
+                                                     48
+                Recommandation du GT9C9F1 du 21 janvier 2024 – Prépublication du : 28/02/2024
+Note 1 : dans le cas où le raccordement d’un procédé d’étanchement extradossé est réalisé par
+un procédé intradossé, les règles définies dans le cahier 9 devront être respectées, la
+compatibilité entre matériaux n’est plus à vérifier.
+Note 2 : Les produits existants comportant du brai de houilles ou de l’amiante nécessitent des
+études particulières (chimie des matériaux, précautions sanitaires, etc.).
+Note 3 : Exemple historique de l’apparition des différents procédés d’étanchement :
+   •   1890 : premiers mortiers hydrofuges.
+   •   1908 : premières membranes bitumineuses.
+   •   1968 : première utilisation des membranes d’étanchéité synthétique (cf. TOS n° 35
+       Sept/Oct. 1979):
+       −   Tunnel de Fourvière : membrane Freivinyl (PVC/Brai), en 3 mm d’épaisseur, posée en
+           double encollage sur voûte et piédroit et en indépendance sous radier.
+       −   Tunnel de Saint-Cloud membrane Freivinyl (PVC/Brai de 10/10ème) posée en double
+           encollage sur voûte mince préfabriquée.
+   •   1980 : première membrane PVC (TOS n°62) :
+       −   De couleur noire, TARLON PL 10/10ème tunnel de la Vuache (Autoroute A40),
+       −   Translucide TARLON PL 17/10ème métro de Lyon (prolongement de la ligne B).
+   •   1983 : Compartimentage d’un DEG (TOS n°62), Autoroute A86, Nogent-sur-Marne (bande
+       Tricosal).
+
+   10.3.       Exemple Raccordement d’un DEG sur un DEG existant
+Exemple de création d’un nouvel accès dans un ouvrage revêtu d’un DEG-S.
+Après création d’une ouverture dans l’ouvrage existant, l’épaisseur de la paroi moulée existante et
+la position du DEG sont relevées. La paroi moulée est découpée sur 40 cm au pourtour de
+l’ouverture suivant le phasage décrit sur le schéma. Le béton coupé est déposé, il reste sur le
+DEG quelques centimètres de béton qu’il faut déposer avec soin pour ne pas percer l’étanchéité.
+Après mise en place de la nouvelle étanchéité soudée sur l’ancienne, l’angle de raccordement
+sera compartimenté : une précaution supplémentaire sera assurée par la mise en place de
+gouttière et caniveau avec renvoi dans une fosse munie d’une pompe de relevage.
+Note : avant la mise en place de la nouvelle étanchéité, un essai de soudabilité avec l’étanchéité
+existante devra être réalisé.
+
+
+
+
+                                                     49
+                Recommandation du GT9C9F1 du 21 janvier 2024 – Prépublication du : 28/02/2024
+1.   Recharge béton                              4.Tampon de caniveau
+2.   Caniveau                                    5.Recharge
+3.   Cornière fixée mécaniquement                6.Chéneau
+
+
+                Figure 47 — Raccordement d’un DEG sur un DEG existant
+
+
+
+
+                                          50
+     Recommandation du GT9C9F1 du 21 janvier 2024 – Prépublication du : 28/02/2024
+                                     51
+Recommandation du GT9C9F1 du 21 janvier 2024 – Prépublication du : 28/02/2024
+  Figure 48 — Phasage de raccordement d’un DEG sur un DEG existant
+
+
+
+
+                                     52
+Recommandation du GT9C9F1 du 21 janvier 2024 – Prépublication du : 28/02/2024
+        Figure 49 — Exemple de dépose d’une Berlinoise pour récupérer une membrane existante
+
+
+
+
+                    Figure 50 — Exemple de récupération d’une membrane en tunnel
+
+
+   10.4.       Raccordement d’un SEL-A sur tunnel existant
+Exemple de raccordement d’une nouvelle sortie de secours, réalisée dans une excavation sans
+limite d’emprise, sur un tunnel existant ne comportant pas d’étanchéité. Le SEL-A est mis en place
+après réalisation du G.O de la sortie de secours
+
+
+
+                                                     53
+                Recommandation du GT9C9F1 du 21 janvier 2024 – Prépublication du : 28/02/2024
+            Figure 51 — Création d’une issue de secours sur un tunnel existant
+
+
+
+
+1.    Béton neuf                                  6.Bande de pontage
+2.   Béton existant                               7. SEL-A
+3.   Jonction tunnel/issue de secours             8.Mortier de classe R4
+4.   Réservation 12 cm X 2 cm                     9.Chape mortier de protection (trait de scie au
+                                                  droit de la jonction pour amorcer la fissure)
+5.   Réservation 12 cm X 2 cm
+
+
+                 Figure 52 — Raccordement SEL-A sur le Tunnel existant
+
+                                             54
+        Recommandation du GT9C9F1 du 21 janvier 2024 – Prépublication du : 28/02/2024
+1.   Béton neuf                                   7.Mortier de classe R4
+2.   Bande d’arrêt d’eau                          8.Fond de joint mousse
+3.   Réservation 12 cm X 2 cm                     9.Mastic
+4.   Réservation 12 cm X 2 cm                     10.Chape mortier de protection (trait de scie au
+                                                  droit de la jonction pour amorcer la fissure)
+5.   Bande de pontage                             11.Tôle inox, ép.2 mm, collée et fixée par cheville
+                                                  chimique
+6.   SEL-A
+                      Figure 53 — Traitement du joint de dilatation
+
+
+
+
+               Figure 54 — Raccordement d’un SEL-A sur Tunnel existant
+
+
+
+
+                                             55
+        Recommandation du GT9C9F1 du 21 janvier 2024 – Prépublication du : 28/02/2024
+   10.5.     Raccordement d’un procédé d’imperméabilisation sur tunnel
+       existant
+
+Dans le cas d’un tunnel non étanché, la longueur des retours technique doit être adaptée pour
+obtenir de débit d’eau admissible donné par le maître d’ouvrage
+
+
+
+
+             Figure 55 — Longueur de retour pour obtenir un débit d’eau AFTES de niveau 1
+
+
+
+
+                                                    56
+               Recommandation du GT9C9F1 du 21 janvier 2024 – Prépublication du : 28/02/2024
+11. SOURCES BIBLIOGRAPHIQUES
+
+  •   Normes
+      NF EN 1992-4 : Calcul des structures en béton — Partie 4 : conception et calcul des
+      éléments de fixation pour béton.
+
+  •   Recommandations AFTES
+      GT18R1F2 : GT18R1F2 : La conception, le dimensionnement et exécution des
+      revêtements en voussoirs préfabriqués en béton armé installés à l’arrière d’un
+      tunnelier.
+
+      GT9R1F3 : Traitements d’arrêts d’eau dans les ouvrages souterrains.
+
+  •   TOS
+      N° 35 Sept/oct 1979.
+
+      N° 62 Mars/avril 1984.
+
+
+
+
+                                                  57
+             Recommandation du GT9C9F1 du 21 janvier 2024 – Prépublication du : 28/02/2024
+12.    ANNEXES
+
+                                     TABLE DES ANNEXES
+      Annexe 1          Liste et libellés des cahiers
+      Annexe 2          Synoptique des procédés d’étanchement et des dispositifs de drainage
+
+
+
+
+                                                      58
+                 Recommandation du GT9C9F1 du 21 janvier 2024 – Prépublication du : 28/02/2024
+12.1.     ANNEXE N° 1 — Liste et libellés des cahiers
+
+
+
+          N°                                            Libellé
+        Cahier
+
+
+          1            Présentation des différents procédés d’étanchement et de
+                              drainage et de leurs contrôles sur chantier
+          2           Guide de choix des procédés d’étanchement et de drainage
+          3              Mise hors d’eau préalables aux travaux d’étanchement
+          4           Qualité des supports recevant un procédé d’étanchement et
+                                              de drainage
+          5               Protections mécaniques des procédés d’étanchement
+          6          Dispositions constructives et traitement des points singuliers
+          7           Dimensionnement des retours techniques pour les procédés
+                                            intradossés
+          8                       Phasage avec les travaux du gros œuvre
+                                             Protection transitoire
+          9                  Étanchéité mixte et raccordements aux existants
+         10                        Étanchement des structures intégrées
+          11                            Compartimentage des DEG-S
+         12                  Comportement au feu des procédés intradossés
+         13              Durabilité des procédés d’étanchement et de drainage
+         14               Entretien des procédés d’étanchement et de drainage
+         15         Réparation et maintenance des procédés d’étanchement et de
+                                             drainage
+         16                         Rex de MOA et coûts de maintenance
+         17                         Assurances et garanties des travaux
+         18         Terminologie, texte de référence, qualification des entreprises
+
+
+
+
+                                                   59
+              Recommandation du GT9C9F1 du 21 janvier 2024 – Prépublication du : 28/02/2024
+12.2.    ANNEXE N° 2 — Synoptique des procédés d’étanchement et de
+    dispositifs de drainage
+
+
+
+
+                                            60
+        Recommandation du GT9C9F1 du 21 janvier 2024 – Prépublication du : 28/02/2024
+NOTES
+Éditeur : AFTES (ASSOCIATION FRANÇAISE DES TUNNELS ET DE L’ESPACE SOUTERRAIN)
+                 42 rue Boissière - 75116 PARIS - Tél. : 01 85 34 33 20
+Association Française des Tunnels et de l'Espace Souterrain
+aftes@aftes.fr
+https://www.aftes.fr
+
