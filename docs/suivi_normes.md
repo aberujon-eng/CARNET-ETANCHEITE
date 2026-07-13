@@ -35,13 +35,13 @@ C10F1). **Le C6F1 n'a PAS été reçu** → à redemander au prochain jalon.
 | N0 | Rangement corpus, plan, trigger 4h | **FAIT** (2026-07-13) |
 | N1 | Lecture **F67-III commenté** (base du carnet, priorité) → `docs/normes/extraits_F67III.md` | **FAIT** (2026-07-13/14 : chap. 1 terminologie + chap. 2 + chap. 3 intégraux ; ⚠️ R1F3 existe, notre R1F2 est antérieure — à demander à Alexandre) |
 | N2 | Lecture GT9.R1F2 arrêts d'eau → `docs/normes/extraits_R1F2.md` (folios 27, 34, 40-43, 65 : injections, arrêts d'eau, hydrogonflants) | **FAIT** (2026-07-14 : niveaux 0-6, réparation compartimentage DEG III.1.5.2.4, bandes de pontage bride/contre-bride, injection joints) |
-| N3 | Lecture GT9.R9F1 voussoirs hydrogonflants → extraits (folios 9/10, 22/23, 24 : jonctions tunnel foré, découpe voussoirs) | À FAIRE |
+| N3 | Lecture GT9.R9F1 voussoirs hydrogonflants → extraits (folios 9/10, 22/23, 24 : jonctions tunnel foré, découpe voussoirs) | **FAIT** (2026-07-14 : critères Pf≥3Pe/min 1 bar, Frv≥0,4Fri≥200N, extractible ≤1 %, poses simple/double joint — `extraits_R9F1.md`) |
 | N4 | Lecture C3F1 mise hors d'eau → extraits (mise hors d'eau provisoire, pompages — lien NOTA phasage folios 31/33/34) | À FAIRE |
 | N5 | Lecture C5F1 protections mécaniques → extraits (chapes/écrans : folios 15/33/34/36/40-43/46-48/51 « béton de protection », écran sup DEG) | À FAIRE |
 | N6 | Lecture C9F1 mixte + raccordements existants → extraits (folios 45, 61-63 raccords DEG/FPM/SELA ; réparations) | À FAIRE |
 | N7 | Lecture **C10F1 structures intégrées (publication)** → extraits (pertinence folios gares/structures : 12-25, 61-64) | À FAIRE |
 | N8 | Lecture STRRES FAEQ2 ch. 3/4/5 (diagnostic, réparation, essais) → extraits (folio réparation DEG à créer ; NOTA contrôles) | À FAIRE |
-| N9 | Balayage R10F1/R15F1/TOS168 (remplacées) : vérifier que le carnet ne cite aucune référence périmée ; sinon basculer vers R19F1/cahiers | À FAIRE |
+| N9 | Balayage R10F1/R15F1/TOS168 (remplacées) : vérifier que le carnet ne cite aucune référence périmée ; sinon basculer vers R19F1/cahiers | **FAIT** (2026-07-14 : 0 référence périmée dans la source ; actives saines : 42×F67, 37×1504-3, 16×C1F1, 9×GT9, 2×R19F1) |
 | N10 | Relevé du guide couleur du carnet (légendes DXF, calques) → `docs/normes/guide_couleur.md` | À FAIRE |
 | N11 | Application reprises TEXTE (NOTA, renvois normatifs) issues de N1-N9 — hors 5 points bloqués | À FAIRE |
 | N12 | Modifications GRAPHIQUES ciblées (couleurs selon guide_couleur.md) : P50 anti-intrusion + entretenabilité (DESSIN), compléments simples | À FAIRE |
