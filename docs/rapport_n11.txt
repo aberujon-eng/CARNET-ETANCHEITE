@@ -1,0 +1,111 @@
+LOT N11 — 40 entrées
+
+[A-6cm] #3BD7 MTEXT
+    AVANT: Protection lourde \Pbéton ép.5cm
+    APRES: Protection lourde \Pbéton ép.6cm
+[A-6cm] #6396 MTEXT
+    AVANT: \pxsm1;Béton de protection lourde ép.5cm
+    APRES: \pxsm1;Béton de protection lourde ép.6cm
+[A-6cm] #63D8 MTEXT
+    AVANT: Béton de protection lourde ép.5cm
+    APRES: Béton de protection lourde ép.6cm
+[A-6cm] #645F MTEXT
+    AVANT: \pxsm1;Béton de protection lourde: 5cm mini
+    APRES: \pxsm1;Béton de protection lourde: 6cm mini
+[A-6cm] #66BB MTEXT
+    AVANT: Protection lourde béton ép.5cm
+    APRES: Protection lourde béton ép.6cm
+[A-6cm] #817A MTEXT
+    AVANT: Protection lourde béton ép.5cm
+    APRES: Protection lourde béton ép.6cm
+[A-6cm] #819F MTEXT
+    AVANT: Béton de protection\Plourde ép.5cm
+    APRES: Béton de protection\Plourde ép.6cm
+[A-6cm] #84A8 MTEXT
+    AVANT: Béton de protection lourde ép.5cm \Pou parpaing
+    APRES: Béton de protection lourde ép.6cm \Pou parpaing
+[A-6cm] #9C62 MULTILEADER (proxy purgé)
+    AVANT: Béton de protection lourde\Pép.5cm mini
+    APRES: Béton de protection lourde\Pép.6cm mini
+[A-6cm] #A00E MULTILEADER (proxy purgé)
+    AVANT: Béton de protection lourde\Pép.5cm mini
+    APRES: Béton de protection lourde\Pép.6cm mini
+[A-6cm] #A62C MULTILEADER (proxy purgé)
+    AVANT: Béton de protection lourde\Pép.5cm mini
+    APRES: Béton de protection lourde\Pép.6cm mini
+[A-6cm] #A656 MULTILEADER (proxy purgé)
+    AVANT: Béton de protection lourde\Pép.5cm mini
+    APRES: Béton de protection lourde\Pép.6cm mini
+[A-6cm] #D10D MTEXT
+    AVANT: \pxsm1;Béton de protection lourde: 5cm mini
+    APRES: \pxsm1;Béton de protection lourde: 6cm mini
+[A-6cm] #D5CD MTEXT
+    AVANT: \pxsm1;Béton de protection lourde: 5cm mini
+    APRES: \pxsm1;Béton de protection lourde: 6cm mini
+[A-6cm] #D6C5 MTEXT
+    AVANT: \pxsm1;Béton de protection lourde: 5cm mini
+    APRES: \pxsm1;Béton de protection lourde: 6cm mini
+[A-6cm] #DC88 MTEXT
+    AVANT: Béton de protection lourde (ép. 5cm mini.)
+    APRES: Béton de protection lourde (ép. 6cm mini.)
+[A-6cm] #130CC MTEXT
+    AVANT: Béton de protection lourde ép.5cm
+    APRES: Béton de protection lourde ép.6cm
+[A-6cm] #1325C MTEXT
+    AVANT: Béton de protection lourde ép.5cm
+    APRES: Béton de protection lourde ép.6cm
+[A-6cm] #1327B MTEXT
+    AVANT: Béton de protection lourde ép.5cm
+    APRES: Béton de protection lourde ép.6cm
+[A-6cm] #132BB MTEXT
+    AVANT: Béton de protection lourde ép.5cm
+    APRES: Béton de protection lourde ép.6cm
+[A-6cm] #135E2 MULTILEADER (proxy purgé)
+    AVANT: Béton de protection lourde\Pép.5cm
+    APRES: Béton de protection lourde\Pép.6cm
+[A-6cm] #1362A MULTILEADER (proxy purgé)
+    AVANT: Béton de protection lourde\Pép.5cm
+    APRES: Béton de protection lourde\Pép.6cm
+[A-6cm] #1362D MULTILEADER (proxy purgé)
+    AVANT: Béton de protection \Plourde ép.5cm
+    APRES: Béton de protection \Plourde ép.6cm
+[A-6cm] #13683 MULTILEADER (proxy purgé)
+    AVANT: Béton de protection lourde\Pép.5cm
+    APRES: Béton de protection lourde\Pép.6cm
+[A-6cm] #136CA MULTILEADER (proxy purgé)
+    AVANT: Béton de protection lourde\Pép.5cm
+    APRES: Béton de protection lourde\Pép.6cm
+[A-6cm] #136CD MULTILEADER (proxy purgé)
+    AVANT: Béton de protection \Plourde ép.5cm
+    APRES: Béton de protection \Plourde ép.6cm
+[A-6cm] #13926 MULTILEADER (proxy purgé)
+    AVANT: Béton de protection lourde\Pép.5cm
+    APRES: Béton de protection lourde\Pép.6cm
+[A-6cm] #1396A MULTILEADER (proxy purgé)
+    AVANT: Béton de protection lourde\Pép.5cm
+    APRES: Béton de protection lourde\Pép.6cm
+[A-6cm] #1396D MULTILEADER (proxy purgé)
+    AVANT: Béton de protection \Plourde ép.5cm
+    APRES: Béton de protection \Plourde ép.6cm
+[A-6cm] #13DD2 MTEXT
+    AVANT: \pxsm1;Béton de protection lourde \Pép.5cm
+    APRES: \pxsm1;Béton de protection lourde \Pép.6cm
+[A-6cm] #13E11 MTEXT
+    AVANT: \pxsm1;Béton de protection lourde \Pép.5cm
+    APRES: \pxsm1;Béton de protection lourde \Pép.6cm
+[A-6cm] #13E76 MTEXT
+    AVANT: \pxsm1;Béton de protection lourde \Pép.5cm
+    APRES: \pxsm1;Béton de protection lourde \Pép.6cm
+[A-6cm] #1715F MULTILEADER (proxy purgé)
+    AVANT: Béton de protection lourde\Pép.5cm mini
+    APRES: Béton de protection lourde\Pép.6cm mini
+[A-6cm] #1746A MTEXT
+    AVANT: \pxsm1;Béton de protection lourde \Pép.5cm
+    APRES: \pxsm1;Béton de protection lourde \Pép.6cm
+[A-6cm] TOTAL 34 entités modifiées (14 MULTILEADER purgés)
+[NOTA F30] posé #21144 @(29233,12073) W=85
+[NOTA F32] posé #21145 @(29223,11820) W=80
+[NOTA F46] ECHEC : pas de zone vide — non posé
+[A-6cm] patch brut post-sauvegarde : 0 occurrence(s) résiduelle(s) corrigée(s) (caches 304)
+[VERIF] résidus API=0, résidus bruts=0 (attendu 0/0) ; re-parse OK (67 layouts)
+[NOTA F46] posé (2e passe, fenêtre élargie bas) #21214 @(22765,11755) W=60
