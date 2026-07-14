@@ -110,8 +110,74 @@ radier/paroi moulée**.
 - Autres points singuliers (butons, tubes soniques…) → **cahier 6**
   (toujours manquant).
 
-## À LIRE (prochaines itérations)
-§8 fondations profondes + **§8.6 puits de pompage** (l.2248+) — folios
-32/34-36 ; §9 dalle de couverture (l.2653+) — folios 46-48 ; §10
-dispositifs (hydrogonflant, caniveau, gaines post-injection — l.2952+) ;
-§11 traitement J1 dans l'épaisseur du radier (l.3070+) — folios 40-43.
+## §8.6 Raccordements sur puits de pompage (LU) — folios 34-36
+- Procédés concernés : DEG-S, DEG-B, GSB, GEA (sous radier, dans la nappe).
+- **Tête de puits compartimentée avec pipettes d'injection.**
+- DEG-S (fig. 46-47) : **bride et contre-bride en sous-face de radier**,
+  plastron en DEG-S, soudure étanche, collerette d'ancrage, **tampon étanche
+  à la pression hydrostatique, boulon M16 permettant la pose d'une vanne
+  pour l'injection du puits**, béton de calfeutrement → **valide les détails
+  des folios 34/36 du carnet** et complète le C3F1 fig. 3.
+- GSB : bentonite granulaire + joints hydrogonflants + treillis ; GEA-P :
+  bande adhésive ± mastic, coffrage perdu circulaire.
+- Raccordement des procédés INTRADOS aux puits → **cahier 6** (manquant).
+
+## §9 Étanchéité de la dalle de couverture (LU) — folios 46-48, 51-60
+- **Débit AFTES exigé en couverture : niveau ZÉRO.**
+- Préparation : appuis provisoires hors emprise de la dalle ; cales
+  d'armatures purgées/reconstituées R3-R4 (préférer cales rouleau) ;
+  aciers réenrobés ; protection vs remblais selon GT9.R19F1.
+- Paroi arasée au nu supérieur (9.2 — meilleure disposition) : **sciage à
+  privilégier** (vs BRH) ; empreintes de carottage remplies mortier ≥ R3 ;
+  désaffleurement du sciage à disque (~2 cm) chanfreiné.
+- Hors nappe (9.2.1) : **retombée d'étanchéité ≥ 20 cm sous la sous-face
+  de dalle** + tranchée drainante + drain collecteur vers exutoire.
+- Paroi dépassant la dalle (9.3) = « réservoir d'eau » à éviter :
+  NF P84-204 (toiture) ; nappe drainante dimensionnée pour la vie de
+  l'ouvrage (GT9.R19F1) ; **entrées d'eau dimensionnées par la formule de
+  Bazin-Chéry (NF DTU 60.11 P3)** ; évacuations latérales dans le terrain
+  À PROSCRIRE ; relevé arrêté en **engravure** ; au droit des J1 : raccord
+  à la BAE, remontée toute hauteur en coiffe, ou réservation jusqu'à la
+  BAE ; sous nappe : SEL-A intrados ou imperméabilisation de la tranche
+  (impact rugosité → calcul structurel).
+
+## §10 Dispositifs spécifiques (LU) — folios 24, 30-33, 43
+- **Joint hydrogonflant (10.1)** : surface propre et régulière, contact
+  continu, fixations non masquantes, confinement sans nids de gravier,
+  **recouvrement béton 5 à 10 cm en général** ; sur paroi moulée : **lit de
+  mastic hydro-expansif collant + grille de fixation éventuelle**.
+- **Caniveau contre paroi (10.2)** : à chaque niveau, quel que soit le
+  procédé ; dimensionné aux débits attendus ; évacuations vers fosse +
+  pompe ; accessible ; **pente ≥ 5 mm/m**.
+- **Gaines de post-injection (10.3)** : posées sur béton durci, longueurs
+  6-10 m, **fixation ≥ 3 u/ml, chevauchement ≥ 5 cm, enrobage béton
+  ~70 mm**, ports d'injection visibles/accessibles ; test préalable à
+  l'eau recommandé ; injection basse pression jusqu'au port sortant.
+
+## §11 Traitement du joint J1 dans l'épaisseur du radier (LU) — folios 40-43
+- 3 niveaux : **préventif minimal** (gaine injectable OU pontage souple
+  remontant les infiltrations vers la cunette) ; **préventif renforcé**
+  (injection systématique jusqu'à la BAE avant coulage + pontage
+  confortatif) ; **traitement d'arrêt d'eau** (injection du joint fuyard
+  jusqu'à la BAE — GT9.R1F3). Structure relativement étanche → préventifs
+  non obligatoires (curatif si dépassement).
+- **Procédure d'injection préalable (11.4)** : 3 percements Ø 22 mm en 3D
+  au gabarit (paroi 80 cm : n°1-2 β=40°/α=35° prof. 100 cm ; n°3 β=0°/
+  α=35° prof. 45 cm) recoupant le biais du joint SANS percer la BAE (joint
+  visible décalé ~20 cm de la BAE) ; injecteurs à manchette autoserrante +
+  vannes ; ouverture et calfeutrement R4 ; **test de mise en eau
+  IMPÉRATIF** (vérifier la communication, bas → haut) ; coulis chimique à
+  prise rapide, **pression max 100 bars** ; bouchon bas (inj. 1) → inj. 2
+  jusqu'à sortie inj. 3 → fermeture et remplissage ; rebouchage R4.
+- Fig. 71 (injection préalable avec DEG-S) : engravure + solin mortier +
+  géotextile + **rondelles PVC 3 u/m²** + bande spéciale scellée à la colle
+  époxy + bande de compartimentage + pontage souple + chape de protection
+  → **correspond trait pour trait aux folios 40-43 du carnet**.
+- Pontage (11.5) : bande élastomère raccordée par soudage/collage souple à
+  l'étanchéité sous radier ; GEA-P engravé possible.
+- Post-injection (11.6) : gaine micro-perforée anti-écrasement (spirale) +
+  anti-obturation (membrane/valve), posée **en U** au fond de la zone
+  repiquée, refermée au R4 ; **ports 15 cm au-dessus du niveau fini** du
+  radier/béton de recharge.
+
+**LECTURE C10F1 TERMINÉE** (§1-11 ; §12 bibliographie non extraite).
