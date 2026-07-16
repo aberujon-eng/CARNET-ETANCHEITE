@@ -47,9 +47,9 @@ C10F1). **Le C6F1 n'a PAS été reçu** → à redemander au prochain jalon.
 | N12 | Modifications GRAPHIQUES ciblées (couleurs selon guide_couleur.md) : P50 anti-intrusion + entretenabilité (DESSIN), compléments simples | **FAIT** (2026-07-15 : grille anti-intrusion 3 barreaux + collerette sur folio 50, calque dédié ACI 50, étiquette + renvoi C10F1 §9.3.1 — `scripts/apply_normes_n12.py`) |
 | N13 | Création folio 00 « Références et contrôles » (hiérarchie normative complète + valeurs C1 p.81 du mail) | **FAIT** (2026-07-16 : onglet 00A en position 2, contenu 2 colonnes validé au rendu PDF ; C2 « statut à confirmer » = point BLOQUÉ 1 intact) |
 | N14 | Autres folios à créer (arrêt DEG voussoir, drainage R19F1, traversées, tableau de choix, réparation DEG) — selon faisabilité, graphiques sobres | **FAIT** (2026-07-16 : folios 66-70 créés, schémas selon guide couleur ; folio 69 = réserve explicite en attente du statut Cahier 2) |
-| N15 | Régénération PDF couleur + contrôle visuel élargi (pdftoppm, ≥ 12 pages) | À FAIRE |
-| N16 | Rapport final `docs/rapport_maj_normes.md` (modif par modif : quoi / folio / justification / norme) + MAJ Excel avancement | À FAIRE |
-| N17 | Livraison à Alexandre + désactivation du trigger 4h et arrêt du /loop | À FAIRE |
+| N15 | Régénération PDF couleur + contrôle visuel élargi (pdftoppm, ≥ 12 pages) | **FAIT** (2026-07-16 : 72/72 pages, contrôle sur 15 pages ; fix barres noires (masques MTEXT) + NOTA folio 46 repositionné) |
+| N16 | Rapport final `docs/rapport_maj_normes.md` (modif par modif : quoi / folio / justification / norme) + MAJ Excel avancement | **FAIT** (2026-07-16 : 11 modifications tracées + infos points bloqués + divergences + manques ; feuille Excel « MAJ normes 07-2026 ») |
+| N17 | Livraison à Alexandre + désactivation du trigger 4h et arrêt du /loop | **FAIT** (2026-07-16) — trigger désactivé |
 
 ## Règles permanentes
 - **5 points BLOQUÉS intacts** (décision Bertrand Verrière) : statut Cahier 2 ·
