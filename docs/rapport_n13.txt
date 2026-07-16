@@ -1,0 +1,7 @@
+LOT N13 — folio 00
+
+contenu Model posé en (8700.0,13300.0)-(8975.0,13449.0)
+taborder : folio 00A placé en position 2
+viewport -> view_center=(8837.5,13374.5) view_height=149.0
+cartouche cart.L6P1 inséré (FIELDs -> titre au REGEN)
+[VERIF] onglet présent=True, viewports=1, layouts=68

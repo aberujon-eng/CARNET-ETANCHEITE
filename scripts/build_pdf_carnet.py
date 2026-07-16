@@ -448,7 +448,9 @@ with PdfPages(PDF_OUT) as pdf:
     report.append((0, "page de garde", "OK (draw_layout)"))
 
     for num, name in layouts:
-        if num == 0:
+        # seule la page de garde est rendue a part (draw_layout ci-dessus) ;
+        # les autres onglets "00x" (ex. 00A References) suivent le circuit normal
+        if name.strip() == "00 - Page de garde":
             continue
         win = far_viewport_window(name)
         method = "viewport far-field"
