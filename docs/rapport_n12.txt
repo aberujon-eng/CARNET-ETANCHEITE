@@ -1,0 +1,6 @@
+LOT N12 — P50 anti-intrusion
+
+calque créé : 'Matériel_Grille anti-intrusion' (ACI 50)
+grille posée sur #169CC : 3 barreaux + collerette @(23527.2,11594.2) r=5.4
+étiquette #212E8 @(23541.2,11620.2) + amorce
+[VERIF] 4 entités sur 'Matériel_Grille anti-intrusion' (attendu 4) ; re-parse OK (67 layouts)
