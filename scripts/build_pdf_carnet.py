@@ -31,6 +31,17 @@ DXF_IN, PDF_OUT = sys.argv[1], sys.argv[2]
 
 doc = ezdxf.readfile(DXF_IN)
 msp = doc.modelspace()
+
+# Masques de fond des MTEXT (bg_fill) : rendus en blanc par ezdxf puis
+# inverses en noir par le post-traitement anti-blanc -> barres noires sur
+# les etiquettes (constate folio 46). On desactive les masques pour le rendu
+# uniquement (le document n'est jamais sauvegarde par ce script).
+_masks = 0
+for _e in msp.query("MTEXT"):
+    if _e.dxf.get("bg_fill", 0):
+        _e.dxf.bg_fill = 0
+        _masks += 1
+print(f"  {_masks} masques de fond MTEXT desactives pour le rendu", file=sys.stderr)
 import matplotlib.colors as _mcolors
 # ColorPolicy.COLOR = couleurs brutes du modele (les pipes/hachures gardent
 # leurs teintes). Probleme induit : les entites ACI 7 / BYLAYER->couleur
