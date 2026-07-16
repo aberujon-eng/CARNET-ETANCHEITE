@@ -1,0 +1,13 @@
+LOT N14 — folios 66-70
+
+folio 66 dessiné
+folio 67 dessiné
+folio 68 dessiné
+folio 69 posé (réserve, point bloqué n°1 non tranché)
+folio 70 dessiné
+onglet créé : "66 - Détail spécifique - Arrêt d'étanchéité DEG sur voussoir"
+onglet créé : '67 - Détail spécifique - Détails drainage selon GT9.R19F1'
+onglet créé : '68 - Détail spécifique - Traversées de réseaux courants hors bride et contre-bride'
+onglet créé : '69 - Détail spécifique - Tableau de choix DEG SELA FPM (en attente statut Cahier 2)'
+onglet créé : "70 - Détail spécifique - Réparation et réinjection d'un compartiment DEG"
+[VERIF] onglets 66-70 présents : 5/5 ; layouts=73 ; re-parse OK
